@@ -1,0 +1,1878 @@
+,age,gender,education,residing_country,race,n_score,e_score,o_score,a_score,c_score,i_score,s_score,cocaine,ecstasy,heroin
+0,35-44,Female,Professional Certificate/Diploma,UK,Biracial - White/Asian,39.0,36.0,42.0,37.0,42.0,4.0,3.0,CL0,CL0,CL0
+1,25-34,Male,Doctorate Degree,UK,White,29.0,52.0,55.0,48.0,41.0,3.0,6.0,CL3,CL4,CL0
+2,35-44,Male,Professional Certificate/Diploma,UK,White,31.0,45.0,40.0,32.0,34.0,2.0,8.0,CL0,CL0,CL0
+3,18-24,Female,Masters Degree,UK,White,34.0,34.0,46.0,47.0,46.0,2.0,3.0,CL2,CL0,CL0
+4,35-44,Female,Doctorate Degree,UK,White,43.0,28.0,43.0,41.0,50.0,4.0,6.0,CL0,CL1,CL0
+5,65+,Female,Left School at 18,Canada,White,29.0,38.0,35.0,55.0,52.0,2.0,2.0,CL0,CL0,CL0
+6,45-54,Male,Masters Degree,USA,White,31.0,32.0,43.0,41.0,48.0,4.0,7.0,CL0,CL0,CL0
+7,35-44,Male,Left School at 16,UK,White,24.0,52.0,40.0,41.0,52.0,5.0,5.0,CL0,CL0,CL0
+8,35-44,Female,Professional Certificate/Diploma,Canada,White,42.0,55.0,39.0,48.0,49.0,2.0,2.0,CL0,CL0,CL0
+9,55-64,Male,Masters Degree,UK,White,33.0,40.0,36.0,47.0,43.0,2.0,4.0,CL0,CL0,CL0
+10,25-34,Female,University Degree,UK,White,26.0,45.0,38.0,38.0,53.0,5.0,7.0,CL2,CL0,CL0
+11,45-54,Male,Attending College/No Certificate or Degree,Other,White,24.0,40.0,47.0,30.0,38.0,6.0,10.0,CL2,CL3,CL0
+12,55-64,Female,University Degree,UK,White,56.0,41.0,49.0,32.0,36.0,8.0,7.0,CL1,CL0,CL0
+13,55-64,Female,Professional Certificate/Diploma,Canada,White,28.0,45.0,46.0,49.0,59.0,3.0,4.0,CL0,CL0,CL0
+14,55-64,Female,Professional Certificate/Diploma,UK,White,27.0,49.0,49.0,39.0,52.0,8.0,9.0,CL0,CL0,CL0
+15,55-64,Male,University Degree,UK,White,19.0,29.0,35.0,36.0,49.0,3.0,5.0,CL2,CL1,CL0
+16,35-44,Female,Attending College/No Certificate or Degree,UK,White,22.0,34.0,34.0,45.0,47.0,4.0,1.0,CL0,CL0,CL0
+17,45-54,Male,Left School at 16,UK,White,41.0,31.0,44.0,40.0,31.0,2.0,4.0,CL1,CL1,CL0
+18,55-64,Male,University Degree,Australia,White,49.0,39.0,45.0,30.0,30.0,3.0,6.0,CL2,CL2,CL0
+19,35-44,Male,Professional Certificate/Diploma,UK,White,32.0,27.0,29.0,30.0,47.0,2.0,1.0,CL0,CL1,CL0
+20,45-54,Male,Professional Certificate/Diploma,UK,White,28.0,45.0,51.0,53.0,33.0,5.0,6.0,CL0,CL0,CL0
+21,65+,Male,Left School before 16,UK,White,25.0,43.0,38.0,39.0,53.0,4.0,3.0,CL0,CL0,CL0
+22,45-54,Male,University Degree,UK,White,40.0,33.0,40.0,50.0,35.0,3.0,7.0,CL0,CL0,CL0
+23,45-54,Male,Left School at 16,UK,White,51.0,16.0,37.0,45.0,34.0,2.0,2.0,CL2,CL0,CL1
+24,55-64,Male,University Degree,UK,White,34.0,44.0,54.0,48.0,51.0,4.0,5.0,CL1,CL1,CL0
+25,45-54,Male,Attending College/No Certificate or Degree,UK,White,28.0,37.0,37.0,49.0,42.0,4.0,8.0,CL2,CL2,CL0
+26,55-64,Female,Left School at 18,Canada,White,35.0,28.0,24.0,38.0,46.0,5.0,2.0,CL0,CL0,CL0
+27,35-44,Male,University Degree,UK,White,41.0,31.0,46.0,43.0,25.0,9.0,8.0,CL1,CL0,CL0
+28,35-44,Female,Masters Degree,UK,White,36.0,29.0,41.0,45.0,50.0,5.0,5.0,CL0,CL0,CL0
+29,45-54,Male,Doctorate Degree,UK,White,24.0,51.0,52.0,49.0,53.0,4.0,5.0,CL0,CL0,CL0
+30,45-54,Male,Left School at 16,UK,White,39.0,34.0,37.0,33.0,37.0,2.0,7.0,CL1,CL0,CL1
+31,35-44,Female,Left School at 16,Other,White,25.0,34.0,47.0,39.0,42.0,2.0,4.0,CL0,CL0,CL0
+32,35-44,Male,University Degree,UK,White,28.0,31.0,46.0,46.0,42.0,5.0,4.0,CL0,CL0,CL0
+33,18-24,Male,University Degree,UK,White,40.0,38.0,48.0,51.0,41.0,3.0,2.0,CL0,CL0,CL0
+34,35-44,Male,University Degree,USA,Other,46.0,44.0,52.0,23.0,36.0,6.0,11.0,CL2,CL1,CL1
+35,65+,Male,Left School before 16,UK,White,33.0,34.0,28.0,41.0,36.0,6.0,2.0,CL0,CL0,CL0
+36,35-44,Male,University Degree,UK,White,33.0,36.0,45.0,43.0,30.0,4.0,6.0,CL0,CL0,CL0
+37,55-64,Male,Left School before 16,USA,White,39.0,42.0,53.0,44.0,37.0,6.0,5.0,CL1,CL0,CL0
+38,45-54,Male,University Degree,UK,White,22.0,48.0,48.0,43.0,47.0,4.0,4.0,CL0,CL0,CL0
+39,65+,Female,Professional Certificate/Diploma,UK,White,33.0,33.0,38.0,38.0,45.0,2.0,6.0,CL0,CL0,CL0
+40,35-44,Male,Masters Degree,UK,White,36.0,37.0,46.0,29.0,47.0,3.0,7.0,CL0,CL0,CL0
+41,35-44,Female,University Degree,UK,White,44.0,40.0,53.0,54.0,39.0,4.0,6.0,CL0,CL0,CL0
+42,35-44,Male,Masters Degree,UK,White,34.0,33.0,37.0,43.0,37.0,4.0,5.0,CL6,CL4,CL0
+43,35-44,Male,Professional Certificate/Diploma,UK,White,27.0,36.0,44.0,42.0,34.0,4.0,6.0,CL3,CL2,CL0
+44,25-34,Male,University Degree,UK,Other,26.0,49.0,49.0,51.0,48.0,4.0,7.0,CL0,CL0,CL0
+45,25-34,Female,University Degree,UK,White,31.0,43.0,54.0,49.0,52.0,2.0,1.0,CL0,CL0,CL0
+46,45-54,Female,Attending College/No Certificate or Degree,Canada,White,39.0,44.0,38.0,45.0,51.0,3.0,4.0,CL0,CL0,CL0
+47,45-54,Male,Masters Degree,UK,White,19.0,45.0,48.0,49.0,49.0,1.0,3.0,CL0,CL0,CL0
+48,45-54,Male,Left School at 16,UK,White,37.0,34.0,44.0,42.0,37.0,5.0,4.0,CL1,CL0,CL0
+49,25-34,Female,Masters Degree,UK,Biracial - White/Black,44.0,36.0,32.0,37.0,44.0,6.0,10.0,CL0,CL0,CL0
+50,35-44,Male,Masters Degree,UK,White,46.0,39.0,45.0,35.0,42.0,3.0,4.0,CL2,CL3,CL0
+51,45-54,Male,Professional Certificate/Diploma,Canada,White,47.0,46.0,42.0,37.0,27.0,9.0,11.0,CL1,CL0,CL0
+52,55-64,Female,University Degree,UK,White,34.0,40.0,36.0,45.0,36.0,6.0,2.0,CL0,CL0,CL0
+53,45-54,Male,Masters Degree,UK,White,23.0,39.0,53.0,45.0,44.0,4.0,6.0,CL1,CL1,CL0
+54,55-64,Male,Left School at 16,UK,White,36.0,47.0,42.0,36.0,33.0,8.0,10.0,CL6,CL3,CL0
+55,55-64,Female,Professional Certificate/Diploma,UK,White,36.0,35.0,38.0,40.0,39.0,2.0,1.0,CL0,CL0,CL0
+56,35-44,Female,Attending College/No Certificate or Degree,UK,White,36.0,40.0,34.0,43.0,44.0,2.0,2.0,CL0,CL0,CL0
+57,25-34,Female,University Degree,UK,White,30.0,44.0,32.0,45.0,47.0,3.0,5.0,CL0,CL0,CL0
+58,45-54,Male,Left School at 18,UK,White,38.0,44.0,46.0,40.0,39.0,9.0,10.0,CL5,CL3,CL1
+59,45-54,Male,University Degree,UK,White,31.0,31.0,37.0,32.0,41.0,2.0,2.0,CL0,CL0,CL0
+60,25-34,Female,Doctorate Degree,UK,White,49.0,42.0,48.0,41.0,40.0,2.0,7.0,CL0,CL0,CL0
+61,45-54,Male,Masters Degree,UK,Asian,18.0,50.0,54.0,44.0,50.0,2.0,3.0,CL0,CL0,CL0
+62,25-34,Male,University Degree,UK,White,30.0,30.0,33.0,34.0,45.0,2.0,3.0,CL0,CL0,CL0
+63,45-54,Male,University Degree,UK,White,46.0,38.0,41.0,39.0,42.0,2.0,3.0,CL0,CL0,CL0
+64,45-54,Male,Doctorate Degree,UK,White,22.0,43.0,53.0,40.0,48.0,2.0,5.0,CL4,CL0,CL0
+65,35-44,Male,Attending College/No Certificate or Degree,UK,White,43.0,43.0,40.0,50.0,46.0,6.0,6.0,CL0,CL0,CL0
+66,45-54,Male,Left School at 16,UK,White,26.0,35.0,38.0,51.0,45.0,3.0,3.0,CL0,CL0,CL0
+67,25-34,Male,Masters Degree,UK,White,32.0,38.0,53.0,37.0,41.0,7.0,6.0,CL1,CL0,CL0
+68,35-44,Male,Professional Certificate/Diploma,Other,White,27.0,40.0,48.0,42.0,40.0,4.0,7.0,CL3,CL2,CL0
+69,45-54,Female,Left School at 16,UK,White,35.0,35.0,34.0,45.0,42.0,2.0,4.0,CL0,CL0,CL0
+70,25-34,Male,Attending College/No Certificate or Degree,UK,White,32.0,38.0,47.0,30.0,40.0,6.0,9.0,CL3,CL3,CL0
+71,45-54,Female,Left School at 18,Canada,White,31.0,47.0,44.0,50.0,43.0,1.0,4.0,CL0,CL0,CL0
+72,45-54,Male,Left School at 18,UK,White,22.0,46.0,46.0,46.0,48.0,5.0,8.0,CL0,CL0,CL0
+73,45-54,Male,Professional Certificate/Diploma,UK,White,29.0,36.0,44.0,45.0,49.0,3.0,6.0,CL0,CL0,CL0
+74,65+,Female,Left School at 16,UK,White,25.0,27.0,26.0,33.0,44.0,6.0,1.0,CL0,CL0,CL0
+75,25-34,Male,University Degree,UK,White,34.0,41.0,35.0,38.0,39.0,6.0,6.0,CL0,CL0,CL0
+76,45-54,Female,Left School at 17,Canada,White,32.0,35.0,35.0,46.0,46.0,1.0,1.0,CL0,CL0,CL0
+77,35-44,Male,University Degree,UK,White,37.0,28.0,42.0,35.0,39.0,4.0,1.0,CL1,CL1,CL0
+78,35-44,Male,Attending College/No Certificate or Degree,UK,White,28.0,34.0,31.0,32.0,25.0,1.0,3.0,CL1,CL1,CL0
+79,35-44,Male,Professional Certificate/Diploma,UK,White,32.0,34.0,32.0,50.0,37.0,4.0,6.0,CL0,CL0,CL0
+80,65+,Female,Doctorate Degree,Canada,White,36.0,42.0,49.0,42.0,51.0,4.0,6.0,CL1,CL0,CL0
+81,55-64,Female,University Degree,UK,White,28.0,31.0,46.0,37.0,41.0,7.0,8.0,CL1,CL0,CL1
+82,55-64,Male,Masters Degree,Canada,White,19.0,49.0,39.0,47.0,51.0,4.0,3.0,CL0,CL0,CL0
+83,55-64,Female,Left School at 17,UK,Biracial - White/Black,46.0,33.0,38.0,52.0,29.0,5.0,6.0,CL0,CL0,CL0
+84,45-54,Male,Left School at 16,UK,White,32.0,41.0,44.0,41.0,41.0,2.0,7.0,CL0,CL0,CL0
+85,25-34,Female,Left School at 18,UK,White,31.0,40.0,35.0,44.0,45.0,6.0,10.0,CL0,CL0,CL0
+86,35-44,Male,Attending College/No Certificate or Degree,UK,White,43.0,39.0,38.0,44.0,41.0,4.0,8.0,CL0,CL0,CL0
+87,55-64,Male,Left School at 16,UK,White,27.0,41.0,43.0,41.0,44.0,3.0,8.0,CL0,CL0,CL0
+88,35-44,Female,Attending College/No Certificate or Degree,UK,White,39.0,26.0,36.0,38.0,38.0,2.0,1.0,CL0,CL0,CL0
+89,35-44,Female,Masters Degree,UK,White,45.0,36.0,48.0,39.0,40.0,6.0,6.0,CL0,CL0,CL0
+90,35-44,Female,Masters Degree,UK,White,49.0,42.0,51.0,45.0,36.0,2.0,7.0,CL0,CL0,CL0
+91,35-44,Male,Professional Certificate/Diploma,Canada,White,40.0,37.0,51.0,45.0,47.0,7.0,9.0,CL0,CL0,CL0
+92,25-34,Male,Left School at 18,UK,White,22.0,38.0,43.0,45.0,42.0,3.0,4.0,CL0,CL0,CL0
+93,65+,Female,Left School at 16,UK,White,34.0,34.0,39.0,48.0,45.0,2.0,2.0,CL0,CL0,CL0
+94,45-54,Male,Masters Degree,UK,White,29.0,36.0,39.0,47.0,41.0,2.0,1.0,CL0,CL0,CL0
+95,45-54,Male,Masters Degree,UK,White,31.0,42.0,53.0,32.0,49.0,6.0,6.0,CL1,CL0,CL0
+96,35-44,Female,University Degree,Canada,White,37.0,32.0,48.0,42.0,47.0,2.0,2.0,CL1,CL0,CL0
+97,45-54,Female,Masters Degree,UK,White,31.0,44.0,44.0,39.0,33.0,5.0,4.0,CL1,CL0,CL0
+98,35-44,Male,Doctorate Degree,Canada,White,25.0,37.0,46.0,39.0,48.0,4.0,10.0,CL1,CL0,CL0
+99,25-34,Female,University Degree,UK,White,29.0,58.0,51.0,49.0,52.0,6.0,8.0,CL0,CL1,CL0
+100,25-34,Male,Masters Degree,Other,White,26.0,55.0,50.0,33.0,39.0,4.0,10.0,CL3,CL3,CL0
+101,45-54,Female,Left School at 16,Australia,White,30.0,43.0,34.0,42.0,48.0,2.0,4.0,CL0,CL0,CL0
+102,45-54,Male,Left School at 18,UK,White,30.0,48.0,55.0,34.0,42.0,3.0,10.0,CL4,CL2,CL2
+103,45-54,Female,Professional Certificate/Diploma,Canada,White,36.0,44.0,44.0,41.0,43.0,5.0,9.0,CL0,CL0,CL0
+104,25-34,Female,Attending College/No Certificate or Degree,Canada,White,27.0,41.0,45.0,50.0,46.0,3.0,7.0,CL2,CL2,CL0
+105,35-44,Male,Professional Certificate/Diploma,UK,White,18.0,43.0,33.0,38.0,54.0,2.0,2.0,CL0,CL0,CL0
+106,25-34,Female,Attending College/No Certificate or Degree,UK,White,46.0,38.0,33.0,45.0,39.0,2.0,4.0,CL0,CL0,CL0
+107,35-44,Female,Left School at 16,UK,White,37.0,40.0,37.0,38.0,46.0,6.0,6.0,CL3,CL0,CL0
+108,25-34,Female,University Degree,UK,White,31.0,53.0,47.0,44.0,47.0,9.0,10.0,CL4,CL0,CL0
+109,45-54,Female,Attending College/No Certificate or Degree,UK,White,28.0,43.0,36.0,37.0,38.0,3.0,7.0,CL0,CL0,CL0
+110,45-54,Male,Masters Degree,UK,Asian,34.0,42.0,47.0,41.0,41.0,5.0,5.0,CL0,CL0,CL0
+111,25-34,Male,Masters Degree,UK,White,39.0,32.0,40.0,39.0,37.0,5.0,8.0,CL0,CL0,CL0
+112,25-34,Female,University Degree,UK,White,25.0,42.0,52.0,35.0,36.0,4.0,6.0,CL0,CL0,CL0
+113,45-54,Female,Professional Certificate/Diploma,UK,White,36.0,44.0,48.0,44.0,47.0,5.0,6.0,CL0,CL0,CL0
+114,35-44,Male,Attending College/No Certificate or Degree,UK,White,17.0,52.0,55.0,38.0,31.0,9.0,10.0,CL1,CL2,CL2
+115,25-34,Female,Professional Certificate/Diploma,Canada,White,38.0,36.0,40.0,45.0,49.0,2.0,1.0,CL2,CL2,CL0
+116,35-44,Male,Professional Certificate/Diploma,Canada,White,42.0,36.0,47.0,31.0,39.0,6.0,6.0,CL0,CL0,CL0
+117,25-34,Female,University Degree,UK,White,51.0,45.0,55.0,44.0,33.0,6.0,8.0,CL3,CL3,CL2
+118,35-44,Female,Attending College/No Certificate or Degree,USA,White,53.0,26.0,29.0,50.0,44.0,4.0,2.0,CL0,CL0,CL0
+119,35-44,Female,University Degree,UK,White,32.0,44.0,39.0,45.0,51.0,4.0,4.0,CL0,CL0,CL0
+120,25-34,Female,Masters Degree,UK,White,26.0,44.0,39.0,36.0,47.0,5.0,11.0,CL0,CL0,CL0
+121,35-44,Female,Professional Certificate/Diploma,UK,White,50.0,31.0,35.0,29.0,36.0,6.0,7.0,CL0,CL0,CL0
+122,55-64,Male,Masters Degree,UK,White,38.0,41.0,45.0,41.0,35.0,4.0,5.0,CL0,CL0,CL0
+123,25-34,Female,University Degree,UK,White,38.0,35.0,43.0,43.0,43.0,8.0,7.0,CL2,CL0,CL0
+124,45-54,Male,Left School at 16,UK,White,32.0,52.0,48.0,46.0,46.0,4.0,6.0,CL0,CL0,CL0
+125,55-64,Male,University Degree,UK,White,31.0,48.0,49.0,44.0,49.0,6.0,8.0,CL0,CL0,CL0
+126,45-54,Male,University Degree,UK,White,25.0,44.0,38.0,40.0,42.0,4.0,4.0,CL0,CL0,CL0
+127,45-54,Female,Left School at 17,UK,White,32.0,34.0,40.0,45.0,48.0,2.0,1.0,CL0,CL0,CL0
+128,35-44,Male,Doctorate Degree,UK,Asian,36.0,44.0,47.0,44.0,44.0,4.0,3.0,CL0,CL0,CL0
+129,45-54,Female,Masters Degree,UK,White,28.0,46.0,38.0,49.0,45.0,5.0,8.0,CL0,CL0,CL0
+130,45-54,Female,Left School at 16,UK,White,45.0,42.0,36.0,46.0,55.0,3.0,3.0,CL0,CL0,CL0
+131,45-54,Female,Left School at 16,UK,Other,22.0,39.0,37.0,57.0,46.0,2.0,1.0,CL0,CL0,CL0
+132,35-44,Female,Left School at 18,Republic of Ireland,White,33.0,36.0,42.0,42.0,44.0,2.0,2.0,CL0,CL0,CL0
+133,35-44,Male,Masters Degree,UK,White,35.0,41.0,48.0,42.0,43.0,6.0,8.0,CL0,CL0,CL0
+134,25-34,Female,Masters Degree,UK,Biracial - White/Asian,60.0,29.0,44.0,47.0,37.0,2.0,8.0,CL2,CL0,CL0
+135,35-44,Female,Left School at 16,UK,White,21.0,50.0,42.0,54.0,52.0,6.0,5.0,CL0,CL0,CL0
+136,45-54,Female,University Degree,UK,White,34.0,38.0,34.0,54.0,52.0,8.0,7.0,CL0,CL0,CL0
+137,45-54,Female,University Degree,UK,White,25.0,50.0,48.0,48.0,45.0,1.0,3.0,CL0,CL0,CL0
+138,55-64,Male,University Degree,UK,White,31.0,34.0,47.0,45.0,48.0,2.0,3.0,CL0,CL0,CL0
+139,45-54,Male,Left School at 16,UK,White,35.0,42.0,42.0,49.0,40.0,4.0,6.0,CL0,CL0,CL0
+140,25-34,Female,University Degree,UK,Asian,54.0,42.0,55.0,49.0,40.0,3.0,6.0,CL0,CL0,CL0
+141,35-44,Female,Left School at 16,UK,White,28.0,44.0,38.0,51.0,46.0,2.0,1.0,CL0,CL0,CL0
+142,35-44,Male,Left School at 17,UK,White,31.0,38.0,37.0,45.0,41.0,6.0,8.0,CL0,CL0,CL0
+143,35-44,Male,Professional Certificate/Diploma,UK,Black,21.0,48.0,42.0,51.0,54.0,3.0,5.0,CL0,CL0,CL0
+144,45-54,Male,Professional Certificate/Diploma,Canada,White,37.0,32.0,43.0,35.0,42.0,4.0,9.0,CL0,CL0,CL0
+145,45-54,Female,University Degree,UK,White,31.0,41.0,38.0,56.0,47.0,8.0,8.0,CL0,CL0,CL0
+146,55-64,Male,Professional Certificate/Diploma,UK,White,38.0,31.0,45.0,40.0,40.0,5.0,3.0,CL0,CL0,CL0
+147,35-44,Male,Masters Degree,UK,Black,30.0,43.0,41.0,44.0,48.0,4.0,5.0,CL0,CL0,CL0
+148,35-44,Female,Professional Certificate/Diploma,UK,White,35.0,32.0,28.0,37.0,44.0,2.0,2.0,CL0,CL0,CL0
+149,45-54,Female,University Degree,UK,White,28.0,52.0,41.0,55.0,52.0,4.0,3.0,CL0,CL0,CL0
+150,35-44,Female,Attending College/No Certificate or Degree,UK,White,33.0,48.0,47.0,47.0,49.0,5.0,7.0,CL0,CL0,CL0
+151,35-44,Female,University Degree,UK,White,41.0,28.0,33.0,46.0,35.0,3.0,4.0,CL0,CL2,CL0
+152,25-34,Female,University Degree,UK,White,31.0,29.0,41.0,39.0,37.0,1.0,2.0,CL1,CL1,CL0
+153,25-34,Male,University Degree,UK,White,29.0,46.0,34.0,48.0,47.0,4.0,5.0,CL0,CL0,CL0
+154,18-24,Female,Attending College/No Certificate or Degree,UK,White,59.0,30.0,51.0,40.0,46.0,4.0,9.0,CL0,CL0,CL0
+155,35-44,Female,University Degree,UK,Black,42.0,30.0,37.0,45.0,40.0,3.0,4.0,CL0,CL0,CL0
+156,35-44,Female,Attending College/No Certificate or Degree,UK,White,48.0,40.0,44.0,50.0,43.0,5.0,5.0,CL2,CL0,CL0
+157,25-34,Male,Left School at 16,UK,White,26.0,47.0,33.0,40.0,47.0,4.0,9.0,CL0,CL0,CL0
+158,35-44,Female,University Degree,Australia,White,33.0,41.0,44.0,41.0,45.0,7.0,10.0,CL0,CL0,CL0
+159,45-54,Female,Attending College/No Certificate or Degree,UK,Black,31.0,36.0,42.0,44.0,44.0,4.0,3.0,CL0,CL0,CL0
+160,45-54,Male,Masters Degree,Other,White,46.0,45.0,49.0,42.0,44.0,4.0,8.0,CL1,CL2,CL0
+161,35-44,Male,University Degree,UK,Black,29.0,42.0,40.0,54.0,39.0,3.0,3.0,CL0,CL0,CL0
+162,25-34,Female,University Degree,New Zealand,White,38.0,40.0,45.0,53.0,48.0,2.0,6.0,CL0,CL2,CL0
+163,25-34,Female,Attending College/No Certificate or Degree,UK,White,53.0,40.0,44.0,49.0,43.0,4.0,4.0,CL0,CL0,CL0
+164,25-34,Female,Doctorate Degree,UK,White,37.0,42.0,35.0,52.0,49.0,2.0,5.0,CL0,CL0,CL0
+165,45-54,Male,Masters Degree,UK,White,33.0,38.0,44.0,40.0,52.0,2.0,4.0,CL0,CL0,CL0
+166,18-24,Male,Attending College/No Certificate or Degree,UK,White,50.0,31.0,51.0,27.0,27.0,7.0,7.0,CL3,CL0,CL0
+167,25-34,Female,Professional Certificate/Diploma,UK,Black,36.0,40.0,39.0,40.0,48.0,6.0,5.0,CL0,CL0,CL0
+168,25-34,Female,University Degree,UK,White,38.0,48.0,37.0,41.0,33.0,6.0,8.0,CL2,CL0,CL0
+169,18-24,Female,Left School at 18,UK,White,32.0,40.0,36.0,47.0,41.0,3.0,8.0,CL0,CL0,CL0
+170,45-54,Male,Left School at 16,UK,White,49.0,38.0,44.0,44.0,41.0,7.0,8.0,CL2,CL0,CL0
+171,35-44,Male,Masters Degree,UK,White,32.0,46.0,58.0,48.0,36.0,8.0,11.0,CL0,CL0,CL0
+172,45-54,Female,Professional Certificate/Diploma,UK,White,41.0,36.0,43.0,40.0,47.0,5.0,3.0,CL0,CL0,CL0
+173,35-44,Female,University Degree,UK,White,46.0,44.0,54.0,44.0,44.0,6.0,8.0,CL0,CL0,CL0
+174,35-44,Female,Professional Certificate/Diploma,UK,White,46.0,36.0,30.0,48.0,30.0,7.0,7.0,CL0,CL0,CL0
+175,55-64,Female,University Degree,UK,White,42.0,40.0,49.0,51.0,43.0,5.0,7.0,CL0,CL0,CL0
+176,35-44,Female,University Degree,UK,Other,34.0,36.0,40.0,35.0,38.0,2.0,3.0,CL0,CL0,CL0
+177,35-44,Female,University Degree,UK,White,50.0,40.0,37.0,37.0,49.0,3.0,5.0,CL0,CL0,CL0
+178,45-54,Female,University Degree,UK,White,44.0,33.0,43.0,48.0,41.0,5.0,6.0,CL0,CL0,CL0
+179,35-44,Female,Professional Certificate/Diploma,UK,White,40.0,39.0,39.0,50.0,37.0,2.0,3.0,CL1,CL1,CL0
+180,45-54,Female,Professional Certificate/Diploma,UK,White,39.0,44.0,35.0,45.0,48.0,5.0,7.0,CL0,CL0,CL0
+181,25-34,Male,Doctorate Degree,UK,White,24.0,37.0,44.0,47.0,48.0,3.0,3.0,CL0,CL0,CL0
+182,35-44,Female,Attending College/No Certificate or Degree,UK,White,39.0,45.0,44.0,51.0,47.0,2.0,3.0,CL0,CL0,CL0
+183,18-24,Female,University Degree,UK,White,54.0,37.0,48.0,38.0,48.0,3.0,8.0,CL6,CL3,CL0
+184,55-64,Male,Left School at 18,UK,White,36.0,34.0,39.0,47.0,44.0,2.0,3.0,CL0,CL0,CL0
+185,35-44,Female,University Degree,Canada,White,39.0,44.0,46.0,48.0,41.0,4.0,5.0,CL1,CL0,CL0
+186,35-44,Female,Masters Degree,UK,White,29.0,49.0,47.0,45.0,53.0,2.0,2.0,CL0,CL0,CL0
+187,55-64,Female,Left School at 16,UK,White,28.0,34.0,32.0,50.0,46.0,2.0,2.0,CL0,CL0,CL0
+188,45-54,Female,Left School at 16,UK,White,40.0,30.0,31.0,47.0,40.0,2.0,1.0,CL0,CL0,CL0
+189,18-24,Female,Masters Degree,UK,White,32.0,40.0,43.0,44.0,47.0,3.0,4.0,CL0,CL0,CL0
+190,55-64,Female,Professional Certificate/Diploma,UK,White,23.0,40.0,40.0,47.0,40.0,3.0,2.0,CL0,CL0,CL0
+191,18-24,Male,University Degree,UK,Biracial - White/Asian,32.0,48.0,38.0,47.0,38.0,6.0,7.0,CL0,CL0,CL0
+192,25-34,Female,Professional Certificate/Diploma,Canada,White,28.0,38.0,45.0,45.0,38.0,7.0,7.0,CL1,CL1,CL0
+193,45-54,Female,University Degree,UK,White,39.0,32.0,43.0,44.0,43.0,2.0,7.0,CL0,CL0,CL0
+194,25-34,Female,University Degree,Canada,Biracial - White/Asian,27.0,48.0,46.0,43.0,45.0,3.0,3.0,CL0,CL0,CL0
+195,55-64,Female,University Degree,UK,White,42.0,42.0,51.0,41.0,48.0,6.0,7.0,CL0,CL0,CL0
+196,18-24,Male,University Degree,UK,Black,30.0,42.0,42.0,51.0,35.0,5.0,3.0,CL0,CL0,CL0
+197,55-64,Female,University Degree,UK,White,32.0,43.0,41.0,37.0,38.0,3.0,4.0,CL0,CL0,CL0
+198,25-34,Female,Professional Certificate/Diploma,UK,White,35.0,43.0,50.0,48.0,42.0,9.0,10.0,CL5,CL3,CL2
+199,45-54,Female,Professional Certificate/Diploma,UK,White,31.0,54.0,51.0,54.0,50.0,6.0,7.0,CL3,CL6,CL0
+200,18-24,Female,University Degree,UK,White,30.0,41.0,40.0,50.0,51.0,6.0,10.0,CL0,CL0,CL0
+201,35-44,Male,Masters Degree,UK,Other,34.0,33.0,42.0,34.0,50.0,3.0,4.0,CL4,CL4,CL0
+202,35-44,Female,University Degree,UK,White,29.0,48.0,43.0,49.0,49.0,5.0,4.0,CL0,CL0,CL0
+203,65+,Male,Left School before 16,UK,White,22.0,32.0,29.0,37.0,37.0,2.0,1.0,CL0,CL0,CL0
+204,25-34,Female,University Degree,UK,White,34.0,46.0,54.0,43.0,44.0,4.0,8.0,CL2,CL2,CL0
+205,35-44,Female,Left School at 16,UK,White,34.0,47.0,48.0,37.0,34.0,9.0,8.0,CL0,CL0,CL0
+206,18-24,Female,University Degree,UK,White,35.0,48.0,50.0,44.0,45.0,7.0,7.0,CL0,CL0,CL0
+207,35-44,Female,Professional Certificate/Diploma,UK,White,29.0,43.0,42.0,47.0,41.0,4.0,8.0,CL2,CL1,CL0
+208,35-44,Female,University Degree,UK,White,37.0,40.0,45.0,41.0,42.0,6.0,10.0,CL4,CL3,CL0
+209,25-34,Male,Masters Degree,UK,Asian,23.0,43.0,53.0,40.0,49.0,2.0,4.0,CL0,CL0,CL0
+210,25-34,Female,Attending College/No Certificate or Degree,UK,White,43.0,41.0,36.0,43.0,32.0,9.0,9.0,CL0,CL0,CL0
+211,45-54,Female,Left School at 16,UK,White,29.0,36.0,38.0,50.0,48.0,2.0,1.0,CL0,CL0,CL0
+212,25-34,Female,Professional Certificate/Diploma,UK,White,37.0,44.0,40.0,54.0,46.0,4.0,3.0,CL0,CL1,CL0
+213,45-54,Female,Professional Certificate/Diploma,Republic of Ireland,White,41.0,39.0,37.0,49.0,43.0,2.0,2.0,CL0,CL0,CL0
+214,25-34,Female,Professional Certificate/Diploma,UK,White,34.0,47.0,49.0,51.0,50.0,5.0,10.0,CL0,CL0,CL0
+215,25-34,Female,University Degree,Canada,White,51.0,38.0,41.0,50.0,39.0,5.0,7.0,CL3,CL3,CL0
+216,25-34,Female,Professional Certificate/Diploma,UK,White,38.0,47.0,48.0,52.0,42.0,7.0,9.0,CL2,CL1,CL0
+217,35-44,Male,Professional Certificate/Diploma,UK,White,48.0,45.0,49.0,52.0,29.0,9.0,9.0,CL1,CL1,CL1
+218,25-34,Female,Masters Degree,Other,White,39.0,47.0,40.0,36.0,47.0,4.0,5.0,CL0,CL0,CL0
+219,35-44,Female,Attending College/No Certificate or Degree,UK,White,32.0,36.0,47.0,50.0,44.0,2.0,4.0,CL2,CL1,CL0
+220,18-24,Female,University Degree,UK,White,44.0,38.0,48.0,43.0,43.0,5.0,7.0,CL0,CL2,CL0
+221,25-34,Female,University Degree,UK,White,34.0,43.0,43.0,38.0,48.0,6.0,5.0,CL0,CL0,CL0
+222,35-44,Female,University Degree,UK,White,33.0,44.0,51.0,50.0,44.0,8.0,10.0,CL2,CL2,CL0
+223,55-64,Male,University Degree,UK,White,25.0,47.0,44.0,50.0,48.0,4.0,7.0,CL0,CL0,CL0
+224,45-54,Female,University Degree,UK,White,31.0,49.0,48.0,46.0,47.0,4.0,6.0,CL0,CL0,CL0
+225,35-44,Female,University Degree,UK,White,24.0,44.0,52.0,40.0,44.0,2.0,2.0,CL3,CL2,CL0
+226,45-54,Female,University Degree,UK,White,31.0,43.0,41.0,52.0,51.0,4.0,4.0,CL0,CL0,CL0
+227,18-24,Male,Attending College/No Certificate or Degree,UK,White,38.0,46.0,39.0,39.0,46.0,8.0,8.0,CL0,CL0,CL0
+228,45-54,Male,Masters Degree,UK,White,29.0,42.0,46.0,38.0,41.0,5.0,7.0,CL1,CL1,CL0
+229,45-54,Female,University Degree,UK,White,26.0,49.0,47.0,49.0,52.0,2.0,1.0,CL0,CL0,CL0
+230,35-44,Female,Professional Certificate/Diploma,UK,White,46.0,23.0,33.0,47.0,45.0,2.0,2.0,CL0,CL0,CL0
+231,65+,Female,Masters Degree,UK,White,37.0,32.0,43.0,40.0,44.0,4.0,2.0,CL0,CL0,CL0
+232,25-34,Female,University Degree,UK,White,36.0,48.0,46.0,44.0,47.0,6.0,9.0,CL0,CL1,CL0
+233,45-54,Male,University Degree,UK,White,29.0,45.0,36.0,49.0,44.0,6.0,8.0,CL0,CL0,CL0
+234,25-34,Female,University Degree,UK,White,40.0,46.0,46.0,37.0,52.0,5.0,8.0,CL0,CL0,CL0
+235,25-34,Female,Professional Certificate/Diploma,UK,White,36.0,46.0,37.0,56.0,54.0,2.0,1.0,CL0,CL0,CL0
+236,25-34,Female,Masters Degree,UK,White,50.0,42.0,45.0,46.0,45.0,5.0,6.0,CL0,CL0,CL0
+237,25-34,Female,Left School at 16,UK,White,45.0,39.0,30.0,45.0,50.0,2.0,1.0,CL0,CL0,CL0
+238,18-24,Female,Left School at 18,UK,White,41.0,39.0,41.0,39.0,44.0,4.0,6.0,CL0,CL0,CL0
+239,45-54,Female,Professional Certificate/Diploma,UK,White,20.0,44.0,51.0,53.0,44.0,2.0,4.0,CL0,CL0,CL0
+240,35-44,Female,Masters Degree,UK,White,42.0,31.0,46.0,53.0,56.0,2.0,4.0,CL0,CL0,CL0
+241,25-34,Female,Left School at 18,Other,White,55.0,31.0,40.0,48.0,34.0,5.0,3.0,CL0,CL0,CL0
+242,18-24,Female,Attending College/No Certificate or Degree,UK,White,50.0,29.0,24.0,48.0,35.0,2.0,2.0,CL0,CL0,CL0
+243,25-34,Female,University Degree,UK,White,30.0,47.0,51.0,49.0,48.0,2.0,6.0,CL3,CL2,CL0
+244,35-44,Male,University Degree,UK,White,54.0,29.0,45.0,50.0,20.0,3.0,5.0,CL0,CL1,CL0
+245,25-34,Female,Attending College/No Certificate or Degree,UK,White,33.0,33.0,34.0,33.0,31.0,1.0,2.0,CL0,CL0,CL0
+246,25-34,Female,Professional Certificate/Diploma,UK,White,49.0,35.0,37.0,46.0,37.0,4.0,4.0,CL0,CL0,CL0
+247,45-54,Male,Masters Degree,UK,White,27.0,38.0,38.0,47.0,52.0,4.0,5.0,CL0,CL0,CL0
+248,45-54,Female,Doctorate Degree,UK,White,16.0,41.0,44.0,55.0,53.0,3.0,3.0,CL0,CL0,CL0
+249,45-54,Female,Professional Certificate/Diploma,UK,White,47.0,42.0,45.0,49.0,49.0,3.0,6.0,CL0,CL0,CL0
+250,45-54,Male,University Degree,UK,White,31.0,41.0,44.0,40.0,51.0,5.0,4.0,CL0,CL0,CL0
+251,35-44,Female,University Degree,UK,White,42.0,33.0,41.0,42.0,47.0,2.0,2.0,CL0,CL0,CL0
+252,18-24,Female,Masters Degree,UK,White,23.0,46.0,42.0,56.0,54.0,3.0,6.0,CL0,CL0,CL0
+253,45-54,Female,Doctorate Degree,UK,White,28.0,41.0,48.0,43.0,48.0,2.0,1.0,CL2,CL0,CL0
+254,25-34,Male,Professional Certificate/Diploma,UK,White,49.0,35.0,41.0,37.0,40.0,2.0,4.0,CL0,CL0,CL0
+255,35-44,Female,Masters Degree,UK,White,25.0,51.0,53.0,51.0,47.0,5.0,8.0,CL0,CL0,CL0
+256,18-24,Female,Attending College/No Certificate or Degree,UK,White,31.0,44.0,44.0,48.0,48.0,3.0,6.0,CL0,CL0,CL0
+257,35-44,Male,Doctorate Degree,UK,White,36.0,40.0,52.0,25.0,40.0,3.0,7.0,CL2,CL2,CL0
+258,65+,Male,Doctorate Degree,UK,White,41.0,39.0,43.0,33.0,53.0,3.0,2.0,CL0,CL0,CL0
+259,65+,Male,Professional Certificate/Diploma,UK,White,26.0,38.0,48.0,46.0,47.0,4.0,5.0,CL0,CL0,CL0
+260,45-54,Female,Professional Certificate/Diploma,UK,White,31.0,46.0,58.0,37.0,42.0,9.0,10.0,CL0,CL0,CL0
+261,55-64,Male,University Degree,UK,White,29.0,37.0,51.0,43.0,41.0,9.0,7.0,CL0,CL0,CL0
+262,45-54,Male,Masters Degree,UK,Asian,27.0,45.0,44.0,49.0,44.0,2.0,2.0,CL0,CL0,CL0
+263,55-64,Female,Left School before 16,UK,White,26.0,40.0,46.0,53.0,49.0,3.0,2.0,CL0,CL0,CL0
+264,18-24,Female,University Degree,UK,White,31.0,41.0,46.0,47.0,46.0,2.0,3.0,CL0,CL0,CL0
+265,35-44,Female,University Degree,UK,Black,33.0,40.0,43.0,43.0,42.0,3.0,1.0,CL0,CL0,CL0
+266,55-64,Male,University Degree,UK,White,25.0,39.0,45.0,45.0,47.0,4.0,7.0,CL0,CL0,CL0
+267,35-44,Male,Professional Certificate/Diploma,UK,Black,27.0,49.0,37.0,40.0,42.0,4.0,7.0,CL0,CL0,CL0
+268,45-54,Female,Masters Degree,UK,White,26.0,51.0,50.0,46.0,54.0,4.0,5.0,CL0,CL0,CL0
+269,35-44,Female,Masters Degree,UK,Black,27.0,41.0,40.0,38.0,43.0,2.0,1.0,CL0,CL0,CL0
+270,45-54,Female,Masters Degree,UK,White,17.0,53.0,56.0,48.0,47.0,7.0,8.0,CL0,CL0,CL0
+271,45-54,Female,Masters Degree,UK,White,43.0,35.0,49.0,45.0,31.0,3.0,9.0,CL0,CL0,CL0
+272,55-64,Male,Doctorate Degree,UK,White,26.0,40.0,46.0,45.0,42.0,6.0,4.0,CL0,CL0,CL0
+273,25-34,Female,University Degree,UK,White,38.0,41.0,38.0,45.0,44.0,3.0,6.0,CL3,CL2,CL0
+274,35-44,Male,Masters Degree,UK,White,38.0,46.0,47.0,37.0,46.0,4.0,9.0,CL1,CL1,CL0
+275,35-44,Female,Masters Degree,UK,White,40.0,37.0,47.0,46.0,52.0,2.0,6.0,CL1,CL1,CL0
+276,55-64,Male,Doctorate Degree,UK,White,27.0,43.0,42.0,41.0,38.0,4.0,5.0,CL0,CL0,CL0
+277,25-34,Male,Attending College/No Certificate or Degree,UK,White,26.0,49.0,53.0,48.0,41.0,6.0,7.0,CL3,CL3,CL0
+278,45-54,Female,University Degree,UK,White,33.0,37.0,44.0,48.0,42.0,3.0,5.0,CL0,CL0,CL0
+279,45-54,Male,Masters Degree,UK,White,24.0,45.0,48.0,46.0,45.0,5.0,5.0,CL0,CL0,CL0
+280,55-64,Male,Masters Degree,UK,White,35.0,41.0,51.0,43.0,35.0,3.0,4.0,CL0,CL0,CL0
+281,45-54,Female,Attending College/No Certificate or Degree,UK,White,36.0,38.0,30.0,42.0,41.0,3.0,4.0,CL0,CL0,CL0
+282,45-54,Female,Masters Degree,UK,White,35.0,40.0,47.0,49.0,48.0,5.0,8.0,CL1,CL0,CL0
+283,45-54,Male,University Degree,UK,White,27.0,50.0,47.0,41.0,47.0,5.0,8.0,CL0,CL0,CL0
+284,35-44,Male,Professional Certificate/Diploma,Other,White,25.0,34.0,51.0,40.0,44.0,8.0,6.0,CL2,CL2,CL0
+285,35-44,Male,University Degree,UK,White,27.0,48.0,41.0,41.0,44.0,2.0,6.0,CL0,CL0,CL0
+286,45-54,Female,University Degree,UK,White,38.0,30.0,45.0,34.0,41.0,2.0,1.0,CL0,CL0,CL0
+287,45-54,Male,Masters Degree,UK,White,39.0,42.0,43.0,46.0,35.0,4.0,6.0,CL0,CL0,CL0
+288,25-34,Male,Attending College/No Certificate or Degree,UK,White,42.0,42.0,41.0,41.0,42.0,4.0,2.0,CL0,CL0,CL0
+289,25-34,Female,Masters Degree,UK,White,19.0,44.0,41.0,53.0,49.0,2.0,3.0,CL0,CL0,CL0
+290,35-44,Female,Professional Certificate/Diploma,UK,Black,27.0,46.0,40.0,52.0,48.0,2.0,2.0,CL0,CL0,CL0
+291,35-44,Female,Attending College/No Certificate or Degree,UK,White,42.0,32.0,49.0,38.0,39.0,2.0,5.0,CL0,CL0,CL0
+292,45-54,Female,Professional Certificate/Diploma,UK,White,35.0,39.0,42.0,39.0,45.0,3.0,5.0,CL0,CL0,CL0
+293,25-34,Female,Professional Certificate/Diploma,UK,White,47.0,40.0,45.0,38.0,39.0,5.0,6.0,CL0,CL0,CL0
+294,18-24,Female,Left School at 17,UK,White,32.0,43.0,45.0,39.0,41.0,3.0,4.0,CL0,CL0,CL0
+295,35-44,Male,Professional Certificate/Diploma,UK,White,49.0,37.0,47.0,43.0,42.0,3.0,5.0,CL0,CL0,CL2
+296,65+,Female,Left School at 16,UK,White,44.0,34.0,47.0,42.0,49.0,4.0,5.0,CL0,CL0,CL0
+297,35-44,Female,University Degree,UK,White,37.0,38.0,36.0,53.0,45.0,4.0,2.0,CL0,CL0,CL0
+298,35-44,Female,Professional Certificate/Diploma,USA,White,44.0,33.0,45.0,46.0,46.0,3.0,4.0,CL0,CL0,CL0
+299,25-34,Female,Attending College/No Certificate or Degree,USA,White,33.0,37.0,35.0,44.0,46.0,2.0,2.0,CL0,CL0,CL0
+300,35-44,Female,Doctorate Degree,UK,White,41.0,37.0,41.0,47.0,48.0,3.0,4.0,CL0,CL0,CL0
+301,55-64,Female,Professional Certificate/Diploma,UK,White,34.0,44.0,46.0,38.0,39.0,4.0,7.0,CL0,CL0,CL0
+302,45-54,Female,University Degree,UK,White,32.0,40.0,37.0,42.0,48.0,4.0,3.0,CL0,CL0,CL0
+303,45-54,Female,University Degree,UK,White,26.0,22.0,37.0,53.0,43.0,3.0,2.0,CL1,CL1,CL0
+304,35-44,Male,Masters Degree,UK,White,38.0,31.0,40.0,36.0,47.0,2.0,4.0,CL0,CL0,CL0
+305,45-54,Male,Masters Degree,UK,White,31.0,36.0,41.0,50.0,47.0,3.0,5.0,CL0,CL0,CL0
+306,35-44,Female,Left School at 18,UK,White,21.0,45.0,45.0,43.0,52.0,5.0,7.0,CL0,CL0,CL0
+307,35-44,Male,Masters Degree,UK,White,28.0,41.0,45.0,47.0,45.0,2.0,1.0,CL0,CL0,CL0
+308,45-54,Female,University Degree,UK,White,24.0,39.0,40.0,44.0,46.0,2.0,2.0,CL0,CL0,CL0
+309,18-24,Female,Left School at 16,UK,White,47.0,36.0,32.0,41.0,41.0,9.0,9.0,CL1,CL0,CL0
+310,45-54,Female,Masters Degree,UK,White,32.0,40.0,43.0,45.0,43.0,2.0,5.0,CL0,CL0,CL0
+311,25-34,Female,Masters Degree,UK,White,36.0,51.0,48.0,47.0,50.0,5.0,5.0,CL1,CL1,CL0
+312,18-24,Female,Left School at 18,Republic of Ireland,White,30.0,41.0,41.0,44.0,41.0,3.0,3.0,CL0,CL0,CL0
+313,45-54,Female,Doctorate Degree,UK,White,28.0,45.0,50.0,43.0,45.0,3.0,5.0,CL0,CL0,CL0
+314,55-64,Female,University Degree,UK,White,31.0,45.0,53.0,40.0,36.0,9.0,8.0,CL1,CL1,CL0
+315,35-44,Male,University Degree,UK,Black,28.0,52.0,39.0,43.0,49.0,3.0,5.0,CL0,CL0,CL0
+316,25-34,Female,Professional Certificate/Diploma,UK,White,36.0,40.0,41.0,45.0,48.0,2.0,3.0,CL0,CL0,CL0
+317,45-54,Female,Left School at 16,UK,Other,39.0,38.0,37.0,42.0,46.0,7.0,8.0,CL0,CL0,CL0
+318,45-54,Female,University Degree,UK,White,43.0,38.0,42.0,36.0,41.0,2.0,3.0,CL0,CL0,CL0
+319,35-44,Female,Attending College/No Certificate or Degree,UK,White,41.0,38.0,39.0,54.0,52.0,2.0,1.0,CL0,CL0,CL0
+320,18-24,Female,University Degree,UK,White,28.0,43.0,49.0,49.0,43.0,4.0,8.0,CL0,CL0,CL0
+321,45-54,Male,Left School at 17,UK,White,45.0,32.0,34.0,45.0,36.0,3.0,7.0,CL1,CL1,CL1
+322,25-34,Female,Doctorate Degree,UK,White,38.0,40.0,55.0,37.0,48.0,5.0,5.0,CL0,CL0,CL0
+323,35-44,Female,Professional Certificate/Diploma,UK,White,28.0,48.0,45.0,49.0,55.0,5.0,5.0,CL0,CL0,CL0
+324,35-44,Male,Left School at 18,UK,White,30.0,28.0,32.0,49.0,45.0,6.0,7.0,CL0,CL3,CL0
+325,45-54,Male,Masters Degree,UK,White,20.0,50.0,46.0,53.0,50.0,2.0,4.0,CL0,CL0,CL0
+326,25-34,Female,Professional Certificate/Diploma,UK,White,38.0,38.0,37.0,50.0,38.0,2.0,1.0,CL0,CL0,CL0
+327,45-54,Male,Professional Certificate/Diploma,UK,White,32.0,43.0,39.0,46.0,41.0,6.0,6.0,CL0,CL0,CL0
+328,45-54,Female,Professional Certificate/Diploma,UK,White,26.0,43.0,41.0,48.0,47.0,4.0,6.0,CL0,CL0,CL0
+329,35-44,Male,Left School before 16,UK,White,33.0,37.0,39.0,40.0,46.0,2.0,4.0,CL6,CL3,CL0
+330,55-64,Female,Left School at 18,Canada,White,31.0,37.0,35.0,49.0,47.0,2.0,2.0,CL0,CL0,CL0
+331,18-24,Female,Attending College/No Certificate or Degree,UK,White,59.0,26.0,40.0,46.0,28.0,5.0,5.0,CL3,CL3,CL0
+332,65+,Male,Attending College/No Certificate or Degree,Canada,White,24.0,37.0,39.0,44.0,43.0,8.0,6.0,CL0,CL0,CL0
+333,65+,Female,Left School at 16,Canada,White,34.0,39.0,36.0,34.0,42.0,4.0,9.0,CL0,CL0,CL0
+334,25-34,Female,Masters Degree,UK,White,40.0,36.0,50.0,46.0,34.0,9.0,9.0,CL0,CL0,CL0
+335,45-54,Female,Masters Degree,UK,Black,42.0,41.0,45.0,43.0,50.0,4.0,4.0,CL0,CL0,CL0
+336,45-54,Female,Professional Certificate/Diploma,Canada,White,30.0,42.0,53.0,31.0,45.0,9.0,8.0,CL3,CL1,CL0
+337,35-44,Male,Doctorate Degree,UK,White,20.0,48.0,48.0,48.0,51.0,4.0,8.0,CL0,CL0,CL0
+338,45-54,Female,Professional Certificate/Diploma,UK,White,34.0,38.0,42.0,49.0,47.0,2.0,6.0,CL0,CL0,CL0
+339,35-44,Female,Masters Degree,UK,White,31.0,47.0,52.0,45.0,45.0,1.0,6.0,CL1,CL0,CL0
+340,55-64,Female,Professional Certificate/Diploma,UK,White,21.0,46.0,44.0,49.0,53.0,1.0,2.0,CL0,CL0,CL0
+341,55-64,Female,Professional Certificate/Diploma,UK,White,42.0,40.0,46.0,42.0,46.0,5.0,5.0,CL0,CL0,CL0
+342,18-24,Female,Left School before 16,UK,White,38.0,39.0,46.0,42.0,39.0,7.0,4.0,CL4,CL3,CL3
+343,35-44,Female,Masters Degree,UK,White,20.0,41.0,55.0,54.0,49.0,3.0,4.0,CL1,CL1,CL1
+344,35-44,Female,University Degree,UK,White,36.0,43.0,45.0,49.0,44.0,5.0,6.0,CL2,CL2,CL0
+345,45-54,Female,University Degree,UK,White,34.0,51.0,56.0,57.0,44.0,9.0,10.0,CL0,CL0,CL0
+346,45-54,Male,Masters Degree,UK,White,27.0,45.0,46.0,43.0,45.0,2.0,2.0,CL1,CL1,CL2
+347,45-54,Male,Professional Certificate/Diploma,UK,Black,30.0,42.0,43.0,42.0,44.0,4.0,3.0,CL0,CL0,CL0
+348,45-54,Male,University Degree,UK,White,41.0,35.0,42.0,44.0,41.0,4.0,8.0,CL2,CL1,CL0
+349,35-44,Female,Attending College/No Certificate or Degree,UK,White,46.0,36.0,52.0,51.0,37.0,7.0,6.0,CL2,CL2,CL2
+350,35-44,Male,Professional Certificate/Diploma,UK,White,40.0,41.0,46.0,40.0,38.0,4.0,8.0,CL2,CL1,CL2
+351,45-54,Male,University Degree,UK,White,34.0,35.0,49.0,48.0,31.0,5.0,6.0,CL1,CL1,CL1
+352,25-34,Male,Left School at 16,UK,White,31.0,40.0,45.0,39.0,45.0,6.0,4.0,CL2,CL2,CL0
+353,35-44,Male,Professional Certificate/Diploma,UK,White,38.0,39.0,46.0,45.0,40.0,3.0,8.0,CL2,CL1,CL2
+354,25-34,Male,Left School before 16,UK,White,42.0,40.0,54.0,54.0,48.0,9.0,11.0,CL2,CL3,CL2
+355,45-54,Male,University Degree,UK,White,25.0,39.0,37.0,52.0,45.0,3.0,7.0,CL0,CL0,CL0
+356,35-44,Male,Left School at 16,UK,White,57.0,31.0,39.0,31.0,29.0,9.0,11.0,CL3,CL3,CL1
+357,35-44,Male,Attending College/No Certificate or Degree,UK,White,40.0,34.0,52.0,44.0,39.0,6.0,6.0,CL2,CL2,CL0
+358,25-34,Female,Attending College/No Certificate or Degree,UK,White,30.0,50.0,50.0,44.0,45.0,8.0,11.0,CL2,CL2,CL2
+359,45-54,Female,University Degree,UK,White,41.0,45.0,46.0,44.0,41.0,4.0,7.0,CL1,CL2,CL0
+360,35-44,Female,Professional Certificate/Diploma,UK,White,42.0,44.0,53.0,49.0,50.0,7.0,8.0,CL3,CL3,CL2
+361,45-54,Male,University Degree,UK,White,40.0,42.0,45.0,47.0,45.0,3.0,5.0,CL1,CL1,CL2
+362,45-54,Female,Professional Certificate/Diploma,UK,White,48.0,39.0,37.0,48.0,45.0,2.0,1.0,CL0,CL0,CL0
+363,35-44,Female,Doctorate Degree,UK,White,40.0,39.0,47.0,43.0,38.0,4.0,6.0,CL0,CL0,CL0
+364,45-54,Male,Professional Certificate/Diploma,UK,Asian,34.0,40.0,42.0,40.0,32.0,2.0,2.0,CL0,CL0,CL0
+365,35-44,Female,University Degree,UK,Asian,26.0,43.0,45.0,42.0,46.0,2.0,3.0,CL0,CL0,CL0
+366,45-54,Female,University Degree,UK,White,25.0,43.0,48.0,46.0,44.0,5.0,6.0,CL0,CL0,CL0
+367,25-34,Male,Professional Certificate/Diploma,UK,White,35.0,33.0,34.0,44.0,47.0,4.0,4.0,CL1,CL0,CL0
+368,25-34,Female,University Degree,UK,White,48.0,42.0,48.0,48.0,37.0,5.0,6.0,CL2,CL1,CL2
+369,18-24,Male,Left School at 18,Canada,White,38.0,42.0,47.0,37.0,40.0,3.0,7.0,CL0,CL2,CL0
+370,35-44,Female,University Degree,UK,White,46.0,54.0,56.0,34.0,45.0,8.0,11.0,CL1,CL2,CL0
+371,18-24,Female,Attending College/No Certificate or Degree,UK,White,45.0,46.0,38.0,47.0,44.0,4.0,8.0,CL3,CL2,CL0
+372,45-54,Male,University Degree,UK,White,32.0,27.0,51.0,37.0,43.0,4.0,5.0,CL1,CL3,CL0
+373,55-64,Female,Masters Degree,UK,White,33.0,48.0,52.0,53.0,49.0,3.0,3.0,CL0,CL0,CL0
+374,65+,Male,Professional Certificate/Diploma,UK,White,37.0,41.0,48.0,34.0,51.0,2.0,4.0,CL0,CL0,CL0
+375,45-54,Female,Masters Degree,UK,White,27.0,40.0,41.0,44.0,48.0,3.0,8.0,CL1,CL0,CL0
+376,25-34,Female,University Degree,UK,White,31.0,36.0,34.0,46.0,38.0,3.0,3.0,CL0,CL0,CL0
+377,25-34,Male,Masters Degree,Other,White,44.0,33.0,50.0,47.0,47.0,6.0,6.0,CL0,CL0,CL0
+378,45-54,Female,Professional Certificate/Diploma,UK,White,44.0,37.0,51.0,43.0,44.0,4.0,6.0,CL0,CL0,CL0
+379,35-44,Male,University Degree,UK,White,31.0,47.0,44.0,39.0,43.0,5.0,9.0,CL2,CL2,CL0
+380,35-44,Male,Left School at 16,Other,White,32.0,36.0,38.0,37.0,36.0,8.0,5.0,CL1,CL1,CL0
+381,35-44,Female,Masters Degree,Other,White,28.0,41.0,45.0,41.0,47.0,5.0,8.0,CL0,CL0,CL0
+382,45-54,Female,University Degree,UK,White,37.0,38.0,43.0,50.0,47.0,1.0,5.0,CL0,CL0,CL0
+383,45-54,Female,University Degree,UK,Black,33.0,41.0,39.0,48.0,46.0,5.0,2.0,CL0,CL0,CL0
+384,25-34,Male,Professional Certificate/Diploma,UK,White,30.0,37.0,29.0,44.0,39.0,3.0,6.0,CL2,CL2,CL0
+385,45-54,Male,Left School at 18,UK,White,19.0,43.0,38.0,53.0,46.0,3.0,5.0,CL0,CL0,CL0
+386,25-34,Male,University Degree,UK,Black,24.0,42.0,42.0,34.0,54.0,3.0,7.0,CL0,CL0,CL0
+387,35-44,Male,Professional Certificate/Diploma,UK,White,37.0,38.0,47.0,42.0,40.0,4.0,4.0,CL0,CL0,CL0
+388,25-34,Male,Doctorate Degree,UK,White,30.0,42.0,45.0,44.0,46.0,2.0,2.0,CL0,CL0,CL0
+389,35-44,Female,Attending College/No Certificate or Degree,UK,White,29.0,37.0,48.0,44.0,42.0,5.0,4.0,CL1,CL0,CL0
+390,25-34,Female,University Degree,UK,White,42.0,40.0,47.0,45.0,43.0,3.0,5.0,CL0,CL0,CL0
+391,35-44,Female,Left School at 17,UK,White,31.0,42.0,42.0,43.0,49.0,3.0,3.0,CL0,CL0,CL0
+392,25-34,Female,Professional Certificate/Diploma,UK,White,28.0,39.0,30.0,39.0,51.0,2.0,1.0,CL1,CL0,CL0
+393,25-34,Male,Professional Certificate/Diploma,UK,White,23.0,44.0,45.0,38.0,53.0,6.0,8.0,CL2,CL3,CL0
+394,35-44,Male,University Degree,UK,White,38.0,48.0,43.0,33.0,36.0,9.0,10.0,CL3,CL3,CL0
+395,35-44,Female,University Degree,UK,White,20.0,44.0,39.0,41.0,46.0,4.0,5.0,CL0,CL0,CL0
+396,45-54,Male,Professional Certificate/Diploma,UK,White,37.0,43.0,40.0,33.0,45.0,8.0,10.0,CL0,CL0,CL0
+397,25-34,Female,Masters Degree,UK,White,28.0,42.0,48.0,34.0,48.0,7.0,5.0,CL0,CL0,CL0
+398,45-54,Male,Masters Degree,UK,White,27.0,48.0,55.0,49.0,46.0,3.0,3.0,CL1,CL1,CL0
+399,25-34,Female,Left School at 18,UK,White,34.0,39.0,32.0,47.0,47.0,3.0,4.0,CL0,CL0,CL0
+400,45-54,Male,Left School at 16,UK,White,37.0,32.0,43.0,32.0,37.0,9.0,10.0,CL2,CL2,CL0
+401,18-24,Male,Attending College/No Certificate or Degree,UK,White,27.0,35.0,44.0,39.0,32.0,6.0,8.0,CL0,CL0,CL0
+402,18-24,Male,University Degree,UK,White,23.0,44.0,44.0,38.0,39.0,2.0,5.0,CL0,CL0,CL0
+403,45-54,Male,Left School at 17,UK,White,45.0,39.0,45.0,42.0,44.0,7.0,7.0,CL2,CL0,CL0
+404,18-24,Female,Left School before 16,UK,White,37.0,50.0,57.0,51.0,42.0,8.0,9.0,CL0,CL3,CL0
+405,45-54,Female,University Degree,UK,White,53.0,33.0,56.0,43.0,39.0,5.0,8.0,CL1,CL2,CL0
+406,35-44,Male,Left School at 17,UK,Other,49.0,39.0,44.0,41.0,37.0,4.0,7.0,CL1,CL2,CL0
+407,25-34,Male,University Degree,UK,White,29.0,41.0,50.0,44.0,40.0,5.0,2.0,CL1,CL1,CL0
+408,35-44,Female,Professional Certificate/Diploma,USA,White,22.0,45.0,51.0,45.0,46.0,4.0,8.0,CL1,CL0,CL0
+409,45-54,Male,Left School at 18,UK,White,46.0,30.0,49.0,49.0,31.0,7.0,8.0,CL1,CL2,CL1
+410,35-44,Female,Attending College/No Certificate or Degree,Other,White,31.0,29.0,48.0,44.0,29.0,4.0,4.0,CL1,CL1,CL0
+411,25-34,Female,University Degree,UK,White,37.0,47.0,39.0,46.0,40.0,3.0,5.0,CL2,CL2,CL0
+412,35-44,Male,Attending College/No Certificate or Degree,UK,White,36.0,39.0,51.0,44.0,39.0,4.0,6.0,CL3,CL2,CL0
+413,35-44,Female,Attending College/No Certificate or Degree,UK,White,20.0,42.0,38.0,42.0,37.0,5.0,6.0,CL0,CL0,CL0
+414,18-24,Male,Left School at 18,UK,White,30.0,32.0,42.0,29.0,56.0,4.0,9.0,CL3,CL3,CL0
+415,18-24,Male,Attending College/No Certificate or Degree,UK,White,35.0,35.0,48.0,28.0,32.0,5.0,9.0,CL5,CL3,CL0
+416,25-34,Male,Attending College/No Certificate or Degree,UK,White,28.0,46.0,47.0,36.0,37.0,8.0,11.0,CL2,CL2,CL0
+417,25-34,Female,Doctorate Degree,UK,White,39.0,40.0,53.0,40.0,45.0,4.0,6.0,CL0,CL0,CL0
+418,25-34,Male,University Degree,UK,White,42.0,41.0,45.0,41.0,43.0,5.0,5.0,CL0,CL0,CL0
+419,18-24,Male,Left School at 18,UK,White,39.0,45.0,46.0,37.0,49.0,6.0,9.0,CL0,CL3,CL0
+420,25-34,Male,Attending College/No Certificate or Degree,UK,White,39.0,27.0,36.0,41.0,39.0,6.0,4.0,CL0,CL0,CL0
+421,35-44,Male,Professional Certificate/Diploma,UK,White,28.0,39.0,46.0,54.0,37.0,4.0,3.0,CL1,CL1,CL0
+422,35-44,Female,University Degree,UK,Biracial - White/Asian,26.0,45.0,41.0,51.0,48.0,4.0,4.0,CL0,CL0,CL0
+423,45-54,Female,Doctorate Degree,USA,White,41.0,40.0,56.0,49.0,42.0,8.0,8.0,CL1,CL2,CL1
+424,35-44,Male,University Degree,UK,White,32.0,38.0,47.0,41.0,29.0,4.0,4.0,CL1,CL3,CL0
+425,45-54,Male,Left School at 16,UK,White,38.0,40.0,44.0,42.0,42.0,6.0,6.0,CL0,CL0,CL0
+426,35-44,Male,University Degree,Other,White,42.0,34.0,45.0,34.0,41.0,7.0,7.0,CL3,CL3,CL0
+427,25-34,Female,Left School at 18,UK,White,27.0,39.0,31.0,45.0,47.0,2.0,2.0,CL0,CL0,CL0
+428,25-34,Male,Left School before 16,UK,White,38.0,33.0,36.0,38.0,40.0,4.0,6.0,CL0,CL1,CL0
+429,25-34,Female,Left School at 18,UK,White,36.0,42.0,39.0,49.0,34.0,5.0,6.0,CL2,CL2,CL0
+430,25-34,Male,University Degree,UK,White,33.0,38.0,34.0,45.0,43.0,3.0,3.0,CL0,CL0,CL0
+431,45-54,Female,Left School at 16,UK,White,38.0,52.0,38.0,51.0,41.0,9.0,9.0,CL0,CL0,CL0
+432,18-24,Female,University Degree,UK,White,34.0,46.0,35.0,56.0,52.0,4.0,5.0,CL0,CL0,CL0
+433,25-34,Female,University Degree,UK,White,36.0,43.0,38.0,47.0,53.0,3.0,5.0,CL0,CL0,CL0
+434,55-64,Male,Attending College/No Certificate or Degree,USA,White,29.0,38.0,53.0,54.0,47.0,2.0,3.0,CL1,CL0,CL0
+435,45-54,Male,Left School at 16,UK,White,23.0,43.0,48.0,37.0,45.0,6.0,8.0,CL3,CL2,CL2
+436,25-34,Female,University Degree,USA,White,59.0,37.0,40.0,31.0,26.0,7.0,7.0,CL2,CL0,CL2
+437,18-24,Female,Attending College/No Certificate or Degree,USA,White,49.0,38.0,48.0,42.0,28.0,5.0,6.0,CL0,CL0,CL0
+438,35-44,Female,University Degree,UK,White,31.0,43.0,42.0,48.0,53.0,4.0,5.0,CL2,CL0,CL0
+439,18-24,Female,Attending College/No Certificate or Degree,UK,White,29.0,49.0,31.0,43.0,46.0,6.0,7.0,CL0,CL0,CL0
+440,25-34,Female,Masters Degree,UK,White,27.0,40.0,48.0,42.0,42.0,5.0,7.0,CL3,CL4,CL0
+441,35-44,Male,Left School at 16,UK,White,40.0,44.0,41.0,38.0,40.0,4.0,6.0,CL0,CL0,CL0
+442,45-54,Female,Professional Certificate/Diploma,UK,White,31.0,45.0,50.0,44.0,47.0,1.0,4.0,CL0,CL0,CL0
+443,45-54,Female,University Degree,UK,White,46.0,33.0,42.0,37.0,45.0,4.0,2.0,CL0,CL0,CL0
+444,25-34,Female,University Degree,UK,White,38.0,32.0,49.0,58.0,37.0,3.0,8.0,CL2,CL2,CL0
+445,25-34,Male,Masters Degree,UK,White,36.0,39.0,40.0,38.0,33.0,8.0,7.0,CL2,CL2,CL0
+446,18-24,Female,Attending College/No Certificate or Degree,UK,White,47.0,49.0,53.0,31.0,35.0,8.0,10.0,CL0,CL2,CL0
+447,18-24,Male,University Degree,UK,White,32.0,44.0,49.0,41.0,47.0,4.0,7.0,CL3,CL4,CL0
+448,18-24,Female,University Degree,UK,White,43.0,39.0,40.0,47.0,34.0,6.0,7.0,CL2,CL2,CL0
+449,18-24,Female,Masters Degree,UK,White,25.0,45.0,40.0,42.0,47.0,5.0,5.0,CL0,CL0,CL0
+450,35-44,Female,University Degree,UK,White,34.0,39.0,47.0,44.0,48.0,2.0,7.0,CL2,CL0,CL0
+451,25-34,Male,University Degree,UK,White,48.0,27.0,44.0,44.0,45.0,2.0,6.0,CL0,CL2,CL0
+452,45-54,Male,Doctorate Degree,UK,White,34.0,36.0,52.0,38.0,40.0,9.0,9.0,CL3,CL3,CL5
+453,18-24,Female,University Degree,UK,White,44.0,34.0,51.0,38.0,22.0,7.0,6.0,CL0,CL2,CL0
+454,35-44,Male,University Degree,UK,White,51.0,37.0,48.0,28.0,37.0,7.0,8.0,CL3,CL3,CL3
+455,35-44,Female,Masters Degree,UK,White,31.0,36.0,47.0,47.0,47.0,2.0,1.0,CL0,CL0,CL0
+456,18-24,Female,University Degree,UK,White,42.0,40.0,47.0,47.0,43.0,4.0,7.0,CL2,CL4,CL0
+457,25-34,Male,Masters Degree,UK,White,45.0,48.0,57.0,26.0,39.0,6.0,7.0,CL2,CL3,CL0
+458,18-24,Female,University Degree,UK,White,48.0,30.0,54.0,31.0,44.0,7.0,7.0,CL3,CL2,CL3
+459,18-24,Male,Attending College/No Certificate or Degree,UK,White,50.0,30.0,28.0,54.0,32.0,6.0,3.0,CL0,CL3,CL0
+460,35-44,Male,Attending College/No Certificate or Degree,UK,White,44.0,43.0,55.0,44.0,24.0,8.0,10.0,CL2,CL2,CL0
+461,45-54,Male,Left School at 18,UK,White,46.0,33.0,42.0,52.0,32.0,4.0,8.0,CL1,CL0,CL0
+462,18-24,Female,University Degree,UK,White,39.0,34.0,53.0,48.0,48.0,5.0,6.0,CL0,CL2,CL0
+463,18-24,Female,Masters Degree,UK,White,49.0,32.0,46.0,40.0,39.0,8.0,9.0,CL0,CL0,CL0
+464,18-24,Female,University Degree,UK,Asian,39.0,44.0,53.0,50.0,40.0,3.0,9.0,CL0,CL3,CL0
+465,45-54,Male,University Degree,UK,White,38.0,40.0,54.0,43.0,51.0,4.0,6.0,CL1,CL0,CL0
+466,35-44,Male,University Degree,UK,White,35.0,41.0,41.0,41.0,43.0,2.0,3.0,CL0,CL0,CL0
+467,25-34,Male,University Degree,UK,White,25.0,51.0,55.0,48.0,42.0,7.0,10.0,CL3,CL3,CL0
+468,45-54,Female,Left School at 16,USA,White,59.0,28.0,36.0,53.0,26.0,4.0,7.0,CL1,CL1,CL2
+469,18-24,Female,University Degree,UK,White,37.0,45.0,48.0,42.0,47.0,3.0,4.0,CL0,CL0,CL0
+470,18-24,Male,Masters Degree,UK,Biracial - White/Black,27.0,55.0,53.0,50.0,55.0,4.0,8.0,CL2,CL3,CL0
+471,18-24,Female,Left School before 16,UK,White,39.0,40.0,45.0,51.0,42.0,5.0,6.0,CL2,CL2,CL2
+472,35-44,Female,Attending College/No Certificate or Degree,USA,White,49.0,40.0,43.0,38.0,38.0,7.0,6.0,CL2,CL0,CL0
+473,55-64,Female,University Degree,UK,Biracial - White/Asian,33.0,46.0,47.0,42.0,45.0,2.0,1.0,CL0,CL0,CL0
+474,45-54,Female,University Degree,USA,White,25.0,46.0,43.0,48.0,48.0,3.0,4.0,CL1,CL0,CL0
+475,35-44,Male,University Degree,UK,White,52.0,33.0,50.0,31.0,39.0,5.0,4.0,CL0,CL0,CL0
+476,35-44,Female,Professional Certificate/Diploma,UK,White,50.0,35.0,41.0,35.0,32.0,8.0,9.0,CL3,CL0,CL0
+477,25-34,Female,University Degree,UK,White,40.0,45.0,44.0,49.0,46.0,4.0,7.0,CL0,CL0,CL0
+478,25-34,Female,Masters Degree,Australia,White,40.0,37.0,55.0,52.0,44.0,5.0,8.0,CL0,CL0,CL0
+479,18-24,Male,Attending College/No Certificate or Degree,USA,White,47.0,34.0,45.0,34.0,37.0,2.0,4.0,CL3,CL3,CL3
+480,35-44,Female,University Degree,Australia,White,46.0,41.0,48.0,42.0,46.0,5.0,8.0,CL2,CL2,CL1
+481,35-44,Male,Attending College/No Certificate or Degree,UK,White,29.0,39.0,48.0,44.0,52.0,3.0,6.0,CL1,CL1,CL1
+482,25-34,Female,University Degree,UK,White,48.0,43.0,55.0,45.0,48.0,5.0,4.0,CL0,CL4,CL0
+483,35-44,Female,Left School at 16,UK,White,30.0,46.0,42.0,48.0,40.0,2.0,3.0,CL1,CL1,CL0
+484,45-54,Female,Left School at 16,UK,White,31.0,42.0,35.0,50.0,36.0,2.0,4.0,CL0,CL0,CL0
+485,25-34,Male,Left School at 18,Other,White,50.0,28.0,53.0,38.0,31.0,3.0,3.0,CL0,CL0,CL0
+486,35-44,Female,Left School at 18,USA,White,53.0,27.0,54.0,36.0,44.0,5.0,5.0,CL1,CL0,CL1
+487,25-34,Male,Left School at 16,UK,White,40.0,30.0,47.0,48.0,39.0,4.0,10.0,CL3,CL3,CL0
+488,18-24,Male,Left School before 16,UK,White,54.0,30.0,48.0,30.0,29.0,4.0,7.0,CL0,CL0,CL0
+489,18-24,Male,Attending College/No Certificate or Degree,UK,White,26.0,47.0,52.0,34.0,31.0,3.0,10.0,CL3,CL4,CL0
+490,45-54,Female,Professional Certificate/Diploma,UK,White,42.0,45.0,49.0,41.0,36.0,8.0,11.0,CL1,CL1,CL1
+491,18-24,Male,Left School at 18,UK,White,27.0,43.0,49.0,47.0,42.0,5.0,8.0,CL3,CL4,CL0
+492,18-24,Male,Professional Certificate/Diploma,UK,White,41.0,36.0,52.0,43.0,44.0,7.0,9.0,CL0,CL0,CL0
+493,18-24,Male,Attending College/No Certificate or Degree,UK,White,43.0,28.0,52.0,35.0,29.0,2.0,5.0,CL0,CL5,CL0
+494,18-24,Male,Professional Certificate/Diploma,Other,Other,25.0,37.0,49.0,47.0,43.0,2.0,6.0,CL0,CL0,CL0
+495,55-64,Male,Attending College/No Certificate or Degree,USA,White,28.0,41.0,50.0,47.0,48.0,2.0,5.0,CL1,CL0,CL0
+496,25-34,Male,Masters Degree,UK,White,36.0,48.0,60.0,39.0,42.0,3.0,7.0,CL2,CL2,CL0
+497,25-34,Male,Left School at 16,Other,White,35.0,36.0,52.0,46.0,36.0,4.0,7.0,CL1,CL1,CL0
+498,55-64,Female,Attending College/No Certificate or Degree,UK,White,49.0,35.0,55.0,42.0,27.0,7.0,10.0,CL2,CL2,CL1
+499,35-44,Female,Professional Certificate/Diploma,Republic of Ireland,White,36.0,43.0,40.0,38.0,49.0,6.0,9.0,CL4,CL4,CL0
+500,25-34,Female,Professional Certificate/Diploma,UK,White,30.0,39.0,36.0,43.0,39.0,7.0,1.0,CL0,CL1,CL0
+501,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,44.0,44.0,39.0,40.0,6.0,9.0,CL0,CL0,CL0
+502,55-64,Female,Professional Certificate/Diploma,Canada,White,36.0,38.0,44.0,38.0,46.0,8.0,9.0,CL1,CL0,CL0
+503,35-44,Male,Left School at 16,UK,White,35.0,40.0,44.0,43.0,45.0,2.0,3.0,CL0,CL0,CL0
+504,45-54,Male,Professional Certificate/Diploma,Other,White,40.0,43.0,48.0,36.0,33.0,7.0,7.0,CL2,CL1,CL0
+505,35-44,Male,University Degree,UK,White,31.0,44.0,52.0,38.0,46.0,5.0,7.0,CL1,CL0,CL0
+506,25-34,Male,University Degree,UK,White,37.0,38.0,39.0,34.0,42.0,5.0,5.0,CL3,CL2,CL0
+507,35-44,Male,Left School at 16,UK,White,50.0,32.0,38.0,31.0,36.0,3.0,7.0,CL1,CL0,CL0
+508,35-44,Female,Masters Degree,Other,White,26.0,47.0,44.0,45.0,43.0,2.0,5.0,CL0,CL0,CL0
+509,35-44,Male,University Degree,UK,White,36.0,46.0,42.0,41.0,39.0,6.0,6.0,CL2,CL2,CL0
+510,45-54,Female,Masters Degree,UK,White,40.0,43.0,45.0,42.0,44.0,4.0,3.0,CL1,CL0,CL1
+511,18-24,Male,Attending College/No Certificate or Degree,UK,White,40.0,43.0,50.0,44.0,34.0,9.0,8.0,CL3,CL3,CL0
+512,55-64,Male,Left School at 16,USA,White,34.0,38.0,45.0,48.0,45.0,4.0,6.0,CL4,CL3,CL1
+513,35-44,Male,Left School at 16,UK,White,45.0,38.0,35.0,40.0,40.0,4.0,6.0,CL0,CL0,CL0
+514,18-24,Female,Left School at 17,USA,White,23.0,52.0,49.0,44.0,44.0,7.0,11.0,CL0,CL3,CL0
+515,35-44,Female,Left School at 16,UK,White,34.0,41.0,41.0,32.0,44.0,4.0,5.0,CL2,CL1,CL2
+516,25-34,Female,Masters Degree,UK,White,39.0,39.0,48.0,40.0,48.0,3.0,6.0,CL0,CL0,CL0
+517,25-34,Male,Professional Certificate/Diploma,Other,White,41.0,36.0,47.0,42.0,36.0,6.0,10.0,CL3,CL3,CL3
+518,25-34,Male,Masters Degree,UK,White,34.0,42.0,37.0,50.0,53.0,6.0,10.0,CL2,CL3,CL2
+519,35-44,Female,University Degree,UK,White,38.0,38.0,39.0,38.0,48.0,2.0,1.0,CL0,CL0,CL0
+520,45-54,Female,Left School at 16,Australia,White,42.0,38.0,40.0,40.0,43.0,3.0,3.0,CL0,CL0,CL0
+521,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,42.0,46.0,34.0,41.0,6.0,7.0,CL0,CL3,CL0
+522,18-24,Male,Attending College/No Certificate or Degree,UK,White,33.0,43.0,45.0,38.0,32.0,5.0,7.0,CL0,CL0,CL0
+523,35-44,Female,Left School before 16,UK,White,37.0,34.0,33.0,44.0,45.0,2.0,1.0,CL2,CL2,CL2
+524,45-54,Female,University Degree,Australia,White,29.0,44.0,53.0,55.0,56.0,5.0,7.0,CL1,CL1,CL0
+525,55-64,Male,Left School at 18,UK,White,20.0,43.0,38.0,43.0,45.0,3.0,5.0,CL0,CL0,CL0
+526,18-24,Male,Professional Certificate/Diploma,UK,White,45.0,30.0,44.0,30.0,31.0,7.0,7.0,CL4,CL3,CL0
+527,35-44,Male,Doctorate Degree,UK,White,42.0,39.0,45.0,47.0,29.0,6.0,6.0,CL0,CL0,CL0
+528,25-34,Female,Professional Certificate/Diploma,UK,White,43.0,47.0,46.0,43.0,42.0,4.0,10.0,CL5,CL2,CL0
+529,55-64,Male,University Degree,UK,White,45.0,40.0,50.0,30.0,46.0,4.0,3.0,CL0,CL0,CL0
+530,45-54,Male,University Degree,UK,White,46.0,29.0,41.0,45.0,35.0,4.0,9.0,CL3,CL2,CL1
+531,18-24,Female,University Degree,UK,White,33.0,41.0,41.0,53.0,49.0,5.0,3.0,CL0,CL0,CL0
+532,25-34,Male,Masters Degree,UK,White,32.0,39.0,41.0,32.0,37.0,6.0,7.0,CL0,CL0,CL0
+533,35-44,Female,Masters Degree,UK,White,20.0,54.0,43.0,52.0,51.0,5.0,3.0,CL0,CL0,CL0
+534,25-34,Female,University Degree,USA,White,45.0,40.0,52.0,29.0,38.0,5.0,6.0,CL6,CL2,CL3
+535,18-24,Female,University Degree,UK,White,49.0,45.0,39.0,49.0,37.0,6.0,7.0,CL3,CL3,CL0
+536,45-54,Female,Attending College/No Certificate or Degree,UK,Asian,43.0,38.0,37.0,48.0,35.0,2.0,2.0,CL0,CL0,CL0
+537,35-44,Female,University Degree,UK,White,47.0,38.0,46.0,47.0,46.0,5.0,8.0,CL0,CL0,CL0
+538,45-54,Male,Masters Degree,UK,White,24.0,48.0,45.0,47.0,53.0,1.0,3.0,CL0,CL0,CL0
+539,45-54,Female,University Degree,UK,White,26.0,42.0,45.0,37.0,43.0,2.0,2.0,CL0,CL0,CL0
+540,45-54,Female,University Degree,Other,Black,38.0,45.0,46.0,48.0,45.0,5.0,7.0,CL0,CL0,CL0
+541,35-44,Male,Left School at 17,UK,White,43.0,45.0,52.0,35.0,34.0,5.0,10.0,CL2,CL2,CL1
+542,25-34,Female,University Degree,UK,White,44.0,44.0,39.0,38.0,44.0,4.0,6.0,CL2,CL2,CL0
+543,18-24,Female,Left School at 16,UK,White,48.0,36.0,41.0,38.0,34.0,8.0,6.0,CL0,CL0,CL0
+544,35-44,Female,Professional Certificate/Diploma,UK,White,51.0,41.0,43.0,47.0,36.0,3.0,6.0,CL0,CL0,CL0
+545,45-54,Female,Attending College/No Certificate or Degree,USA,White,27.0,37.0,52.0,59.0,42.0,2.0,3.0,CL2,CL0,CL0
+546,25-34,Female,Masters Degree,UK,White,20.0,35.0,39.0,40.0,54.0,2.0,4.0,CL0,CL0,CL0
+547,18-24,Male,University Degree,UK,White,48.0,37.0,47.0,44.0,28.0,6.0,3.0,CL0,CL0,CL0
+548,25-34,Female,Masters Degree,Other,White,25.0,47.0,47.0,39.0,41.0,4.0,4.0,CL0,CL0,CL0
+549,18-24,Female,University Degree,UK,White,34.0,37.0,36.0,48.0,50.0,2.0,5.0,CL0,CL0,CL0
+550,35-44,Female,Masters Degree,UK,White,28.0,48.0,47.0,36.0,49.0,4.0,10.0,CL3,CL3,CL0
+551,18-24,Female,Masters Degree,UK,White,52.0,29.0,45.0,48.0,44.0,4.0,3.0,CL0,CL0,CL0
+552,25-34,Female,Masters Degree,Other,Biracial - White/Black,46.0,26.0,43.0,43.0,45.0,3.0,1.0,CL0,CL0,CL0
+553,25-34,Female,Doctorate Degree,UK,White,42.0,43.0,43.0,43.0,50.0,6.0,7.0,CL0,CL0,CL0
+554,45-54,Female,Masters Degree,UK,White,38.0,33.0,38.0,43.0,48.0,3.0,3.0,CL0,CL0,CL0
+555,18-24,Female,University Degree,UK,White,34.0,38.0,48.0,42.0,44.0,2.0,5.0,CL0,CL3,CL0
+556,25-34,Female,University Degree,UK,White,21.0,46.0,45.0,52.0,50.0,3.0,6.0,CL0,CL0,CL0
+557,18-24,Female,University Degree,UK,White,31.0,39.0,42.0,49.0,41.0,8.0,10.0,CL2,CL0,CL0
+558,45-54,Female,University Degree,UK,White,28.0,40.0,49.0,45.0,49.0,5.0,5.0,CL1,CL0,CL0
+559,18-24,Female,University Degree,UK,White,46.0,41.0,41.0,45.0,45.0,3.0,5.0,CL0,CL0,CL0
+560,35-44,Female,University Degree,UK,White,42.0,44.0,49.0,36.0,47.0,4.0,6.0,CL2,CL2,CL0
+561,35-44,Female,Masters Degree,UK,Other,58.0,43.0,35.0,41.0,51.0,4.0,4.0,CL0,CL0,CL0
+562,25-34,Female,Masters Degree,UK,White,44.0,42.0,42.0,31.0,40.0,5.0,7.0,CL0,CL0,CL0
+563,45-54,Female,Attending College/No Certificate or Degree,UK,White,31.0,37.0,46.0,44.0,39.0,9.0,4.0,CL1,CL0,CL0
+564,45-54,Female,Masters Degree,UK,White,39.0,34.0,47.0,47.0,36.0,3.0,4.0,CL0,CL0,CL0
+565,18-24,Female,University Degree,UK,White,45.0,47.0,39.0,49.0,46.0,2.0,3.0,CL0,CL2,CL0
+566,18-24,Male,University Degree,UK,White,53.0,44.0,54.0,37.0,38.0,4.0,7.0,CL2,CL0,CL0
+567,35-44,Male,Masters Degree,UK,White,46.0,34.0,45.0,41.0,42.0,4.0,6.0,CL0,CL0,CL0
+568,35-44,Female,Doctorate Degree,UK,White,32.0,45.0,45.0,37.0,56.0,3.0,5.0,CL0,CL0,CL0
+569,35-44,Female,Professional Certificate/Diploma,Australia,White,38.0,47.0,38.0,31.0,39.0,6.0,9.0,CL0,CL0,CL0
+570,18-24,Female,Masters Degree,UK,White,21.0,52.0,45.0,50.0,53.0,5.0,9.0,CL0,CL0,CL0
+571,35-44,Male,Professional Certificate/Diploma,UK,White,48.0,31.0,34.0,36.0,37.0,9.0,7.0,CL1,CL1,CL0
+572,55-64,Female,Attending College/No Certificate or Degree,USA,White,27.0,46.0,49.0,39.0,39.0,6.0,6.0,CL0,CL0,CL0
+573,35-44,Female,University Degree,UK,White,55.0,29.0,33.0,47.0,28.0,3.0,2.0,CL1,CL1,CL0
+574,35-44,Male,Left School at 16,UK,White,20.0,45.0,35.0,40.0,49.0,4.0,7.0,CL0,CL0,CL0
+575,25-34,Female,Masters Degree,UK,Other,44.0,42.0,47.0,47.0,48.0,3.0,5.0,CL0,CL0,CL0
+576,25-34,Female,University Degree,UK,White,46.0,45.0,41.0,51.0,41.0,3.0,6.0,CL0,CL0,CL0
+577,45-54,Female,Masters Degree,UK,White,46.0,39.0,48.0,50.0,51.0,2.0,2.0,CL0,CL0,CL0
+578,18-24,Female,Masters Degree,UK,White,34.0,45.0,50.0,44.0,47.0,4.0,6.0,CL0,CL0,CL0
+579,35-44,Female,Attending College/No Certificate or Degree,UK,White,25.0,40.0,38.0,43.0,27.0,9.0,6.0,CL2,CL1,CL0
+580,18-24,Male,Attending College/No Certificate or Degree,UK,White,27.0,50.0,49.0,41.0,37.0,7.0,9.0,CL0,CL5,CL0
+581,35-44,Female,Professional Certificate/Diploma,UK,White,39.0,48.0,56.0,41.0,48.0,6.0,7.0,CL0,CL0,CL0
+582,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,40.0,42.0,46.0,39.0,4.0,10.0,CL0,CL3,CL0
+583,25-34,Male,University Degree,UK,White,33.0,41.0,44.0,35.0,47.0,8.0,8.0,CL0,CL0,CL0
+584,18-24,Male,Professional Certificate/Diploma,UK,White,43.0,36.0,54.0,36.0,40.0,6.0,8.0,CL0,CL0,CL0
+585,18-24,Male,Attending College/No Certificate or Degree,UK,White,39.0,42.0,44.0,48.0,28.0,5.0,9.0,CL0,CL0,CL0
+586,25-34,Female,Left School at 16,UK,White,31.0,50.0,49.0,49.0,43.0,4.0,7.0,CL1,CL1,CL0
+587,55-64,Female,Attending College/No Certificate or Degree,USA,White,24.0,39.0,48.0,37.0,45.0,6.0,7.0,CL1,CL1,CL0
+588,35-44,Male,Left School before 16,UK,White,30.0,40.0,42.0,39.0,46.0,4.0,8.0,CL2,CL2,CL1
+589,35-44,Female,University Degree,UK,White,40.0,37.0,44.0,32.0,52.0,4.0,4.0,CL0,CL0,CL0
+590,35-44,Female,Professional Certificate/Diploma,USA,White,14.0,46.0,47.0,46.0,54.0,3.0,6.0,CL2,CL2,CL0
+591,25-34,Male,Professional Certificate/Diploma,Other,Biracial - White/Black,35.0,46.0,46.0,47.0,46.0,5.0,9.0,CL3,CL0,CL0
+592,35-44,Male,Left School at 16,UK,White,32.0,36.0,42.0,35.0,37.0,8.0,9.0,CL2,CL3,CL0
+593,45-54,Male,Professional Certificate/Diploma,Other,White,39.0,41.0,43.0,34.0,45.0,4.0,9.0,CL1,CL0,CL0
+594,18-24,Male,Left School at 16,UK,White,23.0,45.0,51.0,49.0,48.0,6.0,10.0,CL3,CL4,CL0
+595,55-64,Female,Professional Certificate/Diploma,Canada,White,32.0,37.0,44.0,38.0,46.0,7.0,10.0,CL1,CL0,CL0
+596,45-54,Female,Professional Certificate/Diploma,USA,White,36.0,41.0,42.0,46.0,44.0,4.0,5.0,CL1,CL0,CL0
+597,18-24,Male,Attending College/No Certificate or Degree,UK,White,41.0,39.0,48.0,43.0,35.0,6.0,8.0,CL0,CL0,CL0
+598,45-54,Female,Masters Degree,UK,White,43.0,36.0,42.0,54.0,43.0,3.0,3.0,CL1,CL0,CL0
+599,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,47.0,51.0,44.0,34.0,9.0,10.0,CL4,CL4,CL0
+600,18-24,Male,Attending College/No Certificate or Degree,USA,White,41.0,28.0,38.0,29.0,46.0,6.0,10.0,CL0,CL0,CL0
+601,18-24,Male,Attending College/No Certificate or Degree,USA,White,54.0,33.0,51.0,39.0,34.0,6.0,9.0,CL0,CL2,CL0
+602,25-34,Male,University Degree,USA,White,29.0,34.0,43.0,33.0,43.0,3.0,6.0,CL2,CL2,CL0
+603,35-44,Female,Attending College/No Certificate or Degree,USA,White,40.0,42.0,48.0,49.0,45.0,3.0,5.0,CL1,CL0,CL0
+604,55-64,Female,Masters Degree,USA,White,15.0,47.0,57.0,51.0,34.0,3.0,5.0,CL1,CL0,CL1
+605,18-24,Male,University Degree,UK,White,31.0,40.0,38.0,52.0,36.0,4.0,10.0,CL0,CL0,CL0
+606,45-54,Male,Attending College/No Certificate or Degree,USA,White,35.0,40.0,52.0,55.0,41.0,3.0,7.0,CL1,CL0,CL1
+607,25-34,Male,University Degree,UK,White,21.0,48.0,54.0,44.0,49.0,6.0,11.0,CL6,CL4,CL2
+608,55-64,Female,Professional Certificate/Diploma,Canada,White,48.0,34.0,36.0,50.0,30.0,9.0,6.0,CL3,CL0,CL0
+609,25-34,Male,Attending College/No Certificate or Degree,UK,White,27.0,46.0,52.0,44.0,37.0,5.0,11.0,CL2,CL3,CL0
+610,25-34,Male,University Degree,UK,White,29.0,42.0,42.0,51.0,46.0,6.0,10.0,CL0,CL0,CL0
+611,35-44,Male,University Degree,UK,White,25.0,41.0,45.0,41.0,39.0,4.0,5.0,CL1,CL4,CL0
+612,25-34,Female,Masters Degree,UK,White,54.0,38.0,44.0,32.0,37.0,5.0,7.0,CL3,CL2,CL0
+613,25-34,Female,Left School before 16,USA,White,33.0,44.0,41.0,37.0,44.0,8.0,6.0,CL3,CL3,CL3
+614,35-44,Female,Masters Degree,UK,White,37.0,39.0,43.0,48.0,40.0,7.0,10.0,CL0,CL1,CL0
+615,45-54,Female,Attending College/No Certificate or Degree,USA,White,46.0,41.0,45.0,39.0,34.0,8.0,10.0,CL2,CL0,CL0
+616,45-54,Male,Professional Certificate/Diploma,Republic of Ireland,White,27.0,48.0,44.0,39.0,47.0,3.0,7.0,CL0,CL0,CL1
+617,25-34,Female,University Degree,UK,White,35.0,47.0,52.0,44.0,42.0,6.0,7.0,CL0,CL0,CL0
+618,55-64,Male,Masters Degree,UK,White,29.0,33.0,51.0,37.0,46.0,2.0,4.0,CL0,CL0,CL0
+619,18-24,Male,Left School at 18,UK,White,41.0,30.0,43.0,52.0,28.0,8.0,8.0,CL0,CL4,CL0
+620,35-44,Male,Masters Degree,UK,White,27.0,44.0,45.0,34.0,44.0,7.0,8.0,CL0,CL0,CL0
+621,35-44,Female,Masters Degree,UK,White,34.0,43.0,44.0,45.0,52.0,3.0,2.0,CL0,CL0,CL0
+622,45-54,Female,Masters Degree,UK,White,32.0,40.0,43.0,41.0,31.0,9.0,5.0,CL0,CL0,CL0
+623,35-44,Female,Doctorate Degree,UK,White,36.0,40.0,37.0,43.0,44.0,2.0,6.0,CL0,CL0,CL0
+624,35-44,Female,Professional Certificate/Diploma,UK,White,32.0,36.0,42.0,37.0,44.0,3.0,2.0,CL2,CL2,CL0
+625,35-44,Male,University Degree,UK,White,35.0,37.0,40.0,40.0,45.0,4.0,6.0,CL0,CL0,CL0
+626,35-44,Male,Doctorate Degree,UK,White,21.0,33.0,35.0,54.0,46.0,1.0,4.0,CL3,CL4,CL0
+627,25-34,Female,Doctorate Degree,UK,White,48.0,32.0,37.0,53.0,44.0,2.0,2.0,CL3,CL0,CL0
+628,45-54,Female,Doctorate Degree,UK,Biracial - White/Black,31.0,43.0,50.0,45.0,41.0,4.0,1.0,CL0,CL0,CL0
+629,35-44,Female,Doctorate Degree,UK,White,41.0,38.0,56.0,45.0,49.0,2.0,1.0,CL1,CL1,CL0
+630,18-24,Female,University Degree,UK,White,40.0,39.0,44.0,56.0,49.0,2.0,5.0,CL0,CL0,CL0
+631,18-24,Female,University Degree,UK,White,48.0,37.0,37.0,37.0,47.0,2.0,1.0,CL0,CL0,CL0
+632,25-34,Female,Masters Degree,UK,White,29.0,51.0,49.0,44.0,44.0,3.0,7.0,CL3,CL2,CL0
+633,35-44,Female,Doctorate Degree,UK,White,48.0,41.0,46.0,36.0,37.0,4.0,10.0,CL5,CL5,CL1
+634,35-44,Male,University Degree,UK,White,28.0,38.0,45.0,50.0,38.0,3.0,7.0,CL2,CL2,CL0
+635,45-54,Female,University Degree,UK,White,29.0,42.0,43.0,46.0,42.0,5.0,6.0,CL0,CL0,CL0
+636,35-44,Female,Professional Certificate/Diploma,Canada,White,32.0,41.0,39.0,48.0,45.0,2.0,3.0,CL0,CL0,CL0
+637,18-24,Female,University Degree,UK,White,33.0,36.0,36.0,42.0,52.0,3.0,7.0,CL0,CL0,CL0
+638,25-34,Male,Left School at 16,UK,White,33.0,51.0,52.0,51.0,45.0,6.0,11.0,CL4,CL3,CL0
+639,45-54,Male,University Degree,UK,White,34.0,35.0,49.0,44.0,41.0,4.0,5.0,CL0,CL0,CL0
+640,35-44,Male,Masters Degree,UK,White,29.0,46.0,52.0,56.0,53.0,4.0,8.0,CL0,CL1,CL0
+641,25-34,Female,Masters Degree,UK,Black,26.0,44.0,44.0,51.0,50.0,3.0,8.0,CL0,CL0,CL0
+642,25-34,Male,Attending College/No Certificate or Degree,UK,White,38.0,38.0,34.0,47.0,37.0,4.0,7.0,CL5,CL3,CL0
+643,45-54,Male,University Degree,UK,White,36.0,38.0,44.0,38.0,39.0,8.0,5.0,CL0,CL0,CL0
+644,18-24,Female,University Degree,UK,White,31.0,39.0,44.0,42.0,47.0,4.0,5.0,CL0,CL0,CL0
+645,18-24,Male,Attending College/No Certificate or Degree,USA,White,23.0,49.0,53.0,32.0,48.0,3.0,8.0,CL4,CL4,CL0
+646,35-44,Female,Masters Degree,USA,White,47.0,41.0,53.0,55.0,34.0,8.0,11.0,CL3,CL1,CL3
+647,25-34,Female,University Degree,UK,White,34.0,45.0,37.0,43.0,54.0,5.0,3.0,CL2,CL2,CL0
+648,45-54,Female,Masters Degree,UK,White,31.0,53.0,59.0,53.0,43.0,8.0,8.0,CL4,CL5,CL0
+649,25-34,Male,Masters Degree,UK,White,42.0,43.0,49.0,47.0,34.0,5.0,3.0,CL2,CL0,CL0
+650,18-24,Male,Attending College/No Certificate or Degree,Australia,White,46.0,48.0,54.0,39.0,34.0,5.0,8.0,CL3,CL3,CL0
+651,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,44.0,46.0,44.0,42.0,8.0,8.0,CL0,CL0,CL0
+652,35-44,Female,Left School at 16,UK,White,32.0,46.0,41.0,46.0,49.0,3.0,4.0,CL0,CL0,CL0
+653,25-34,Male,Masters Degree,Other,Other,31.0,51.0,43.0,42.0,34.0,6.0,9.0,CL0,CL3,CL0
+654,45-54,Male,Attending College/No Certificate or Degree,Canada,White,48.0,36.0,48.0,35.0,33.0,8.0,8.0,CL2,CL0,CL0
+655,45-54,Male,Professional Certificate/Diploma,UK,White,47.0,30.0,55.0,40.0,31.0,9.0,11.0,CL1,CL2,CL1
+656,18-24,Male,Masters Degree,UK,White,42.0,41.0,49.0,41.0,38.0,7.0,7.0,CL0,CL0,CL0
+657,25-34,Male,Doctorate Degree,Republic of Ireland,White,28.0,49.0,57.0,37.0,39.0,8.0,8.0,CL5,CL4,CL0
+658,25-34,Female,Masters Degree,UK,Black,24.0,43.0,46.0,50.0,43.0,2.0,2.0,CL0,CL0,CL0
+659,18-24,Female,University Degree,UK,White,33.0,32.0,41.0,42.0,51.0,2.0,4.0,CL0,CL0,CL0
+660,25-34,Female,University Degree,UK,White,36.0,41.0,48.0,55.0,53.0,6.0,3.0,CL0,CL0,CL0
+661,25-34,Female,Doctorate Degree,UK,White,48.0,31.0,44.0,34.0,31.0,4.0,5.0,CL0,CL0,CL0
+662,18-24,Male,University Degree,UK,White,32.0,37.0,50.0,45.0,38.0,6.0,9.0,CL0,CL0,CL0
+663,25-34,Female,Doctorate Degree,UK,White,47.0,37.0,47.0,45.0,40.0,3.0,6.0,CL2,CL2,CL0
+664,18-24,Male,Left School at 18,UK,White,19.0,38.0,47.0,42.0,35.0,7.0,8.0,CL0,CL4,CL0
+665,35-44,Male,Attending College/No Certificate or Degree,UK,White,45.0,35.0,54.0,41.0,44.0,4.0,7.0,CL4,CL3,CL5
+666,45-54,Male,University Degree,UK,White,21.0,53.0,47.0,45.0,39.0,5.0,6.0,CL0,CL0,CL0
+667,25-34,Male,Attending College/No Certificate or Degree,UK,White,30.0,46.0,49.0,41.0,41.0,5.0,9.0,CL4,CL3,CL0
+668,18-24,Male,Professional Certificate/Diploma,UK,White,32.0,41.0,43.0,38.0,39.0,1.0,5.0,CL2,CL0,CL0
+669,35-44,Male,Professional Certificate/Diploma,UK,White,31.0,45.0,46.0,39.0,43.0,7.0,10.0,CL1,CL1,CL0
+670,18-24,Male,University Degree,UK,White,33.0,40.0,55.0,48.0,48.0,6.0,6.0,CL0,CL0,CL0
+671,18-24,Female,Attending College/No Certificate or Degree,UK,White,48.0,47.0,49.0,47.0,48.0,3.0,7.0,CL2,CL2,CL0
+672,18-24,Female,Masters Degree,UK,Asian,44.0,35.0,42.0,39.0,34.0,3.0,9.0,CL0,CL0,CL0
+673,35-44,Male,Professional Certificate/Diploma,UK,White,35.0,38.0,41.0,38.0,36.0,5.0,10.0,CL3,CL3,CL0
+674,18-24,Male,Professional Certificate/Diploma,UK,White,38.0,40.0,34.0,42.0,44.0,7.0,9.0,CL0,CL0,CL0
+675,25-34,Male,University Degree,UK,White,41.0,38.0,49.0,39.0,37.0,4.0,6.0,CL2,CL0,CL0
+676,18-24,Male,Attending College/No Certificate or Degree,UK,White,56.0,24.0,44.0,43.0,26.0,2.0,2.0,CL0,CL0,CL0
+677,18-24,Female,Attending College/No Certificate or Degree,UK,White,42.0,38.0,42.0,35.0,51.0,3.0,10.0,CL3,CL0,CL0
+678,45-54,Male,Doctorate Degree,UK,White,38.0,34.0,45.0,43.0,26.0,3.0,1.0,CL3,CL6,CL3
+679,35-44,Male,Attending College/No Certificate or Degree,UK,White,24.0,40.0,37.0,39.0,43.0,7.0,9.0,CL0,CL2,CL0
+680,25-34,Male,Masters Degree,UK,White,49.0,27.0,49.0,45.0,46.0,2.0,4.0,CL0,CL0,CL0
+681,35-44,Female,University Degree,UK,White,41.0,39.0,43.0,42.0,37.0,2.0,5.0,CL3,CL2,CL0
+682,35-44,Female,Professional Certificate/Diploma,UK,White,45.0,35.0,54.0,35.0,30.0,8.0,11.0,CL0,CL0,CL0
+683,25-34,Male,University Degree,Australia,White,32.0,41.0,51.0,40.0,36.0,7.0,8.0,CL3,CL3,CL0
+684,18-24,Female,Attending College/No Certificate or Degree,Canada,White,51.0,46.0,55.0,41.0,35.0,7.0,10.0,CL0,CL0,CL0
+685,45-54,Female,Left School before 16,Australia,White,27.0,44.0,39.0,49.0,44.0,2.0,1.0,CL1,CL0,CL0
+686,35-44,Male,Attending College/No Certificate or Degree,USA,White,46.0,47.0,44.0,35.0,46.0,7.0,10.0,CL1,CL1,CL0
+687,55-64,Female,Masters Degree,UK,White,44.0,35.0,43.0,43.0,41.0,9.0,8.0,CL0,CL0,CL0
+688,55-64,Male,Attending College/No Certificate or Degree,UK,White,40.0,35.0,36.0,33.0,41.0,6.0,5.0,CL0,CL0,CL1
+689,25-34,Female,University Degree,UK,White,34.0,39.0,39.0,44.0,45.0,3.0,5.0,CL0,CL0,CL0
+690,45-54,Female,Masters Degree,UK,White,38.0,35.0,44.0,41.0,38.0,3.0,4.0,CL0,CL0,CL0
+691,35-44,Male,Masters Degree,UK,White,25.0,38.0,47.0,46.0,46.0,2.0,4.0,CL1,CL1,CL0
+692,35-44,Male,Professional Certificate/Diploma,UK,White,27.0,36.0,43.0,39.0,40.0,5.0,6.0,CL2,CL2,CL0
+693,35-44,Female,Masters Degree,UK,White,34.0,37.0,46.0,51.0,53.0,3.0,3.0,CL0,CL0,CL0
+694,55-64,Male,University Degree,UK,White,28.0,42.0,49.0,33.0,51.0,4.0,7.0,CL1,CL0,CL0
+695,45-54,Female,University Degree,Canada,Other,21.0,38.0,53.0,53.0,42.0,3.0,7.0,CL0,CL0,CL0
+696,35-44,Male,University Degree,USA,White,35.0,33.0,52.0,43.0,37.0,4.0,5.0,CL2,CL2,CL1
+697,55-64,Male,Attending College/No Certificate or Degree,UK,White,34.0,32.0,41.0,45.0,34.0,4.0,8.0,CL2,CL2,CL0
+698,35-44,Female,Attending College/No Certificate or Degree,Other,White,45.0,41.0,49.0,37.0,43.0,8.0,10.0,CL2,CL3,CL1
+699,45-54,Male,Left School before 16,UK,White,26.0,47.0,49.0,48.0,49.0,3.0,8.0,CL0,CL0,CL0
+700,35-44,Female,University Degree,UK,White,32.0,44.0,50.0,41.0,42.0,7.0,9.0,CL0,CL3,CL0
+701,55-64,Male,University Degree,UK,White,23.0,45.0,45.0,37.0,41.0,3.0,7.0,CL0,CL0,CL0
+702,35-44,Male,Attending College/No Certificate or Degree,USA,White,28.0,38.0,42.0,39.0,44.0,3.0,5.0,CL1,CL1,CL1
+703,18-24,Male,Attending College/No Certificate or Degree,UK,White,23.0,42.0,53.0,55.0,43.0,3.0,6.0,CL0,CL0,CL0
+704,18-24,Female,University Degree,UK,White,34.0,33.0,36.0,40.0,44.0,6.0,4.0,CL0,CL0,CL0
+705,25-34,Male,University Degree,UK,White,35.0,52.0,48.0,42.0,38.0,6.0,8.0,CL3,CL5,CL0
+706,18-24,Male,Attending College/No Certificate or Degree,UK,White,40.0,36.0,43.0,48.0,49.0,2.0,5.0,CL0,CL4,CL0
+707,18-24,Male,Professional Certificate/Diploma,UK,White,27.0,38.0,41.0,47.0,45.0,3.0,2.0,CL0,CL0,CL0
+708,18-24,Male,University Degree,UK,White,45.0,41.0,50.0,39.0,32.0,5.0,10.0,CL2,CL2,CL0
+709,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,39.0,40.0,50.0,45.0,2.0,4.0,CL0,CL0,CL0
+710,25-34,Female,Masters Degree,UK,White,41.0,42.0,51.0,44.0,49.0,4.0,5.0,CL2,CL3,CL0
+711,18-24,Male,University Degree,USA,White,41.0,45.0,52.0,54.0,42.0,7.0,9.0,CL0,CL3,CL0
+712,18-24,Male,Professional Certificate/Diploma,UK,White,43.0,47.0,49.0,36.0,40.0,7.0,11.0,CL0,CL0,CL0
+713,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,43.0,53.0,54.0,44.0,4.0,8.0,CL3,CL2,CL2
+714,18-24,Male,Attending College/No Certificate or Degree,UK,White,35.0,29.0,37.0,39.0,28.0,8.0,4.0,CL0,CL0,CL0
+715,35-44,Male,University Degree,USA,White,28.0,34.0,44.0,44.0,44.0,3.0,4.0,CL2,CL0,CL0
+716,18-24,Male,Left School at 16,Other,White,35.0,31.0,41.0,39.0,40.0,9.0,10.0,CL0,CL0,CL0
+717,55-64,Male,University Degree,UK,White,32.0,33.0,41.0,40.0,39.0,6.0,8.0,CL2,CL2,CL0
+718,35-44,Male,Attending College/No Certificate or Degree,UK,White,48.0,45.0,52.0,42.0,49.0,7.0,9.0,CL2,CL3,CL2
+719,35-44,Female,Professional Certificate/Diploma,UK,White,51.0,35.0,48.0,48.0,43.0,3.0,4.0,CL2,CL0,CL0
+720,55-64,Male,Professional Certificate/Diploma,UK,White,35.0,38.0,46.0,39.0,39.0,2.0,3.0,CL1,CL0,CL1
+721,25-34,Female,University Degree,UK,White,27.0,49.0,48.0,49.0,46.0,5.0,5.0,CL0,CL0,CL0
+722,35-44,Female,Attending College/No Certificate or Degree,UK,White,47.0,36.0,51.0,48.0,39.0,5.0,6.0,CL4,CL4,CL0
+723,25-34,Female,Masters Degree,UK,White,39.0,44.0,51.0,53.0,44.0,4.0,11.0,CL4,CL5,CL0
+724,18-24,Male,Professional Certificate/Diploma,UK,White,56.0,33.0,51.0,35.0,38.0,3.0,5.0,CL0,CL0,CL0
+725,25-34,Female,Masters Degree,UK,Biracial - White/Black,39.0,44.0,42.0,44.0,41.0,5.0,6.0,CL0,CL0,CL0
+726,18-24,Male,Attending College/No Certificate or Degree,Canada,White,23.0,41.0,51.0,41.0,30.0,5.0,7.0,CL0,CL3,CL0
+728,35-44,Female,University Degree,UK,White,43.0,40.0,39.0,43.0,42.0,4.0,3.0,CL0,CL1,CL0
+729,18-24,Male,Attending College/No Certificate or Degree,UK,White,28.0,48.0,44.0,42.0,38.0,5.0,8.0,CL0,CL3,CL0
+730,18-24,Female,University Degree,UK,White,48.0,44.0,51.0,42.0,42.0,3.0,6.0,CL3,CL3,CL0
+731,35-44,Male,Left School at 16,UK,Biracial - White/Asian,42.0,41.0,48.0,41.0,40.0,4.0,5.0,CL0,CL0,CL0
+732,18-24,Male,Attending College/No Certificate or Degree,UK,White,43.0,47.0,55.0,33.0,28.0,7.0,9.0,CL3,CL3,CL0
+733,25-34,Female,University Degree,UK,White,38.0,53.0,59.0,53.0,37.0,8.0,10.0,CL4,CL5,CL2
+734,25-34,Male,University Degree,UK,White,31.0,27.0,26.0,33.0,33.0,2.0,7.0,CL4,CL4,CL0
+735,25-34,Male,University Degree,UK,White,26.0,51.0,46.0,44.0,55.0,6.0,10.0,CL2,CL2,CL0
+736,18-24,Female,Left School at 18,Other,White,48.0,41.0,55.0,51.0,46.0,3.0,8.0,CL0,CL6,CL0
+737,25-34,Male,Masters Degree,Other,White,35.0,30.0,49.0,40.0,38.0,5.0,9.0,CL3,CL4,CL0
+738,35-44,Male,Attending College/No Certificate or Degree,UK,White,24.0,41.0,50.0,51.0,37.0,7.0,7.0,CL3,CL4,CL0
+739,45-54,Female,Masters Degree,UK,White,44.0,38.0,48.0,48.0,52.0,6.0,8.0,CL0,CL0,CL0
+740,35-44,Female,University Degree,UK,White,42.0,41.0,41.0,37.0,35.0,2.0,3.0,CL0,CL2,CL0
+741,25-34,Male,Left School at 16,UK,White,32.0,40.0,42.0,37.0,47.0,6.0,8.0,CL0,CL0,CL0
+742,45-54,Male,Attending College/No Certificate or Degree,UK,White,27.0,41.0,46.0,47.0,30.0,8.0,6.0,CL0,CL0,CL0
+743,25-34,Female,Left School at 16,UK,White,43.0,42.0,38.0,46.0,39.0,3.0,6.0,CL0,CL0,CL0
+744,25-34,Female,Masters Degree,UK,White,35.0,43.0,49.0,45.0,45.0,3.0,6.0,CL2,CL3,CL0
+745,35-44,Female,Left School at 16,UK,White,40.0,36.0,36.0,43.0,28.0,5.0,6.0,CL2,CL2,CL0
+746,35-44,Female,Doctorate Degree,UK,White,21.0,46.0,39.0,53.0,54.0,4.0,5.0,CL0,CL0,CL0
+747,35-44,Male,Masters Degree,UK,White,34.0,40.0,46.0,50.0,41.0,4.0,8.0,CL2,CL0,CL0
+748,25-34,Female,Professional Certificate/Diploma,UK,White,17.0,49.0,33.0,50.0,50.0,4.0,4.0,CL3,CL2,CL0
+749,25-34,Male,Attending College/No Certificate or Degree,Other,White,51.0,38.0,53.0,52.0,28.0,9.0,7.0,CL3,CL4,CL0
+750,25-34,Female,Masters Degree,UK,White,40.0,47.0,42.0,51.0,45.0,5.0,8.0,CL2,CL2,CL0
+751,25-34,Male,Doctorate Degree,UK,White,27.0,43.0,55.0,50.0,38.0,5.0,7.0,CL2,CL1,CL0
+752,18-24,Male,Attending College/No Certificate or Degree,USA,White,23.0,50.0,56.0,48.0,56.0,3.0,3.0,CL3,CL3,CL3
+753,18-24,Female,Masters Degree,UK,Biracial - White/Asian,42.0,42.0,42.0,44.0,47.0,4.0,6.0,CL0,CL0,CL0
+754,18-24,Female,Attending College/No Certificate or Degree,Republic of Ireland,White,56.0,37.0,45.0,48.0,25.0,8.0,8.0,CL0,CL6,CL0
+755,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,44.0,46.0,42.0,40.0,6.0,10.0,CL3,CL3,CL0
+756,18-24,Male,Doctorate Degree,UK,White,14.0,51.0,50.0,50.0,44.0,3.0,8.0,CL2,CL3,CL0
+757,25-34,Male,University Degree,Canada,White,36.0,33.0,40.0,40.0,37.0,5.0,10.0,CL3,CL3,CL3
+758,18-24,Male,Attending College/No Certificate or Degree,USA,White,52.0,42.0,38.0,40.0,23.0,10.0,6.0,CL0,CL0,CL0
+759,25-34,Female,University Degree,Australia,White,24.0,45.0,55.0,50.0,43.0,4.0,8.0,CL2,CL6,CL0
+760,18-24,Female,University Degree,UK,White,47.0,45.0,50.0,49.0,30.0,7.0,4.0,CL3,CL2,CL0
+761,18-24,Male,Left School at 16,UK,White,40.0,33.0,53.0,47.0,34.0,6.0,9.0,CL2,CL3,CL0
+762,18-24,Male,Attending College/No Certificate or Degree,USA,White,42.0,41.0,58.0,48.0,42.0,5.0,10.0,CL2,CL3,CL0
+763,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,34.0,48.0,56.0,37.0,6.0,7.0,CL3,CL3,CL2
+764,25-34,Male,Masters Degree,New Zealand,White,44.0,35.0,47.0,38.0,40.0,3.0,7.0,CL3,CL2,CL2
+765,18-24,Female,Professional Certificate/Diploma,USA,Other,32.0,44.0,47.0,41.0,47.0,8.0,5.0,CL3,CL0,CL0
+766,25-34,Male,University Degree,Australia,White,46.0,41.0,50.0,46.0,47.0,2.0,9.0,CL0,CL1,CL0
+767,18-24,Male,Attending College/No Certificate or Degree,USA,White,42.0,28.0,37.0,43.0,35.0,9.0,10.0,CL0,CL3,CL0
+768,18-24,Female,Masters Degree,UK,Asian,41.0,30.0,33.0,49.0,44.0,6.0,4.0,CL0,CL0,CL0
+769,45-54,Male,University Degree,UK,White,48.0,30.0,43.0,39.0,28.0,5.0,8.0,CL3,CL3,CL1
+770,45-54,Female,Professional Certificate/Diploma,Canada,White,46.0,31.0,44.0,41.0,38.0,4.0,6.0,CL1,CL0,CL1
+771,18-24,Male,Left School at 18,Other,White,25.0,37.0,50.0,45.0,42.0,3.0,6.0,CL0,CL4,CL2
+772,18-24,Female,Attending College/No Certificate or Degree,Other,White,21.0,43.0,52.0,41.0,28.0,5.0,8.0,CL0,CL0,CL0
+773,25-34,Male,Attending College/No Certificate or Degree,USA,White,37.0,37.0,40.0,41.0,42.0,3.0,2.0,CL2,CL2,CL3
+774,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,41.0,44.0,51.0,39.0,38.0,5.0,7.0,CL3,CL2,CL0
+775,18-24,Male,Attending College/No Certificate or Degree,Canada,White,54.0,40.0,58.0,40.0,37.0,7.0,9.0,CL3,CL3,CL0
+776,45-54,Male,Left School at 18,UK,White,18.0,47.0,44.0,47.0,39.0,5.0,5.0,CL2,CL4,CL1
+777,18-24,Female,Professional Certificate/Diploma,USA,White,46.0,24.0,45.0,46.0,42.0,2.0,4.0,CL3,CL2,CL2
+778,35-44,Male,Professional Certificate/Diploma,USA,White,46.0,33.0,40.0,34.0,36.0,5.0,9.0,CL1,CL0,CL0
+779,18-24,Male,Attending College/No Certificate or Degree,USA,Other,47.0,31.0,48.0,43.0,33.0,9.0,11.0,CL4,CL3,CL2
+780,18-24,Female,Attending College/No Certificate or Degree,USA,White,44.0,37.0,52.0,46.0,38.0,6.0,10.0,CL0,CL3,CL0
+781,18-24,Female,Attending College/No Certificate or Degree,USA,White,33.0,43.0,52.0,43.0,49.0,4.0,10.0,CL3,CL3,CL0
+782,18-24,Male,Masters Degree,USA,White,49.0,34.0,52.0,43.0,44.0,4.0,9.0,CL0,CL3,CL0
+783,18-24,Male,Professional Certificate/Diploma,Other,White,30.0,40.0,47.0,41.0,29.0,7.0,9.0,CL3,CL3,CL0
+784,35-44,Male,Professional Certificate/Diploma,Other,White,44.0,36.0,47.0,38.0,43.0,8.0,7.0,CL2,CL2,CL1
+785,18-24,Male,Professional Certificate/Diploma,UK,White,21.0,48.0,42.0,39.0,33.0,9.0,9.0,CL5,CL5,CL0
+786,18-24,Male,Attending College/No Certificate or Degree,UK,White,19.0,41.0,51.0,44.0,47.0,5.0,10.0,CL0,CL0,CL0
+787,18-24,Male,University Degree,Australia,White,34.0,37.0,52.0,39.0,36.0,8.0,9.0,CL0,CL3,CL0
+788,18-24,Male,Attending College/No Certificate or Degree,USA,White,42.0,39.0,50.0,32.0,41.0,8.0,11.0,CL0,CL0,CL0
+789,18-24,Male,Attending College/No Certificate or Degree,Other,White,44.0,44.0,48.0,36.0,31.0,3.0,6.0,CL3,CL3,CL3
+790,25-34,Male,Attending College/No Certificate or Degree,UK,White,36.0,53.0,44.0,39.0,42.0,8.0,7.0,CL4,CL5,CL0
+791,25-34,Male,University Degree,UK,White,35.0,36.0,54.0,51.0,38.0,5.0,9.0,CL0,CL2,CL0
+792,18-24,Male,Attending College/No Certificate or Degree,USA,White,47.0,36.0,44.0,39.0,49.0,3.0,6.0,CL5,CL5,CL0
+793,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,33.0,44.0,46.0,41.0,4.0,9.0,CL4,CL4,CL5
+794,18-24,Female,University Degree,UK,White,30.0,45.0,49.0,47.0,50.0,3.0,9.0,CL2,CL3,CL0
+795,25-34,Female,Attending College/No Certificate or Degree,USA,White,37.0,47.0,51.0,41.0,47.0,4.0,10.0,CL4,CL0,CL0
+796,35-44,Female,Attending College/No Certificate or Degree,UK,White,48.0,44.0,55.0,46.0,37.0,9.0,5.0,CL3,CL5,CL1
+797,18-24,Male,Attending College/No Certificate or Degree,Canada,White,25.0,41.0,46.0,46.0,54.0,4.0,6.0,CL3,CL4,CL0
+798,25-34,Male,Attending College/No Certificate or Degree,USA,White,41.0,37.0,45.0,47.0,34.0,6.0,8.0,CL2,CL2,CL0
+799,18-24,Male,Left School at 18,Republic of Ireland,White,31.0,42.0,47.0,38.0,37.0,7.0,10.0,CL0,CL3,CL0
+800,45-54,Female,University Degree,USA,White,37.0,33.0,39.0,48.0,40.0,2.0,10.0,CL3,CL0,CL3
+801,25-34,Male,Attending College/No Certificate or Degree,USA,White,41.0,32.0,43.0,49.0,42.0,4.0,7.0,CL1,CL1,CL0
+802,18-24,Female,University Degree,Canada,White,54.0,29.0,55.0,31.0,45.0,6.0,7.0,CL6,CL4,CL6
+803,25-34,Male,Attending College/No Certificate or Degree,USA,White,33.0,41.0,44.0,40.0,35.0,8.0,9.0,CL3,CL2,CL3
+804,18-24,Male,Left School at 17,Australia,White,32.0,45.0,51.0,47.0,35.0,9.0,10.0,CL0,CL0,CL0
+805,18-24,Female,Attending College/No Certificate or Degree,USA,White,46.0,45.0,53.0,36.0,38.0,7.0,10.0,CL3,CL0,CL0
+806,18-24,Male,University Degree,USA,White,40.0,26.0,39.0,48.0,30.0,2.0,4.0,CL3,CL0,CL3
+807,18-24,Male,Professional Certificate/Diploma,UK,White,21.0,34.0,37.0,54.0,41.0,4.0,4.0,CL3,CL3,CL0
+808,18-24,Male,Left School at 18,USA,White,21.0,45.0,53.0,37.0,39.0,3.0,7.0,CL0,CL5,CL0
+809,45-54,Female,University Degree,USA,White,48.0,51.0,52.0,30.0,29.0,7.0,10.0,CL3,CL3,CL1
+810,18-24,Male,Attending College/No Certificate or Degree,USA,White,47.0,35.0,46.0,34.0,35.0,8.0,10.0,CL3,CL0,CL3
+811,25-34,Male,University Degree,USA,White,41.0,36.0,51.0,32.0,45.0,4.0,8.0,CL2,CL2,CL5
+812,18-24,Male,Attending College/No Certificate or Degree,UK,White,29.0,40.0,43.0,37.0,44.0,6.0,11.0,CL3,CL3,CL0
+813,18-24,Male,Attending College/No Certificate or Degree,Canada,White,57.0,42.0,48.0,37.0,34.0,9.0,10.0,CL3,CL3,CL3
+814,18-24,Female,Attending College/No Certificate or Degree,USA,White,37.0,33.0,46.0,46.0,47.0,4.0,5.0,CL0,CL3,CL3
+815,45-54,Male,Doctorate Degree,Australia,White,42.0,41.0,52.0,57.0,44.0,3.0,8.0,CL2,CL2,CL3
+816,25-34,Female,Masters Degree,UK,White,51.0,34.0,46.0,41.0,33.0,5.0,8.0,CL2,CL4,CL0
+818,18-24,Female,University Degree,USA,White,32.0,42.0,45.0,42.0,43.0,7.0,10.0,CL4,CL3,CL0
+819,18-24,Male,Attending College/No Certificate or Degree,UK,White,35.0,47.0,51.0,40.0,45.0,4.0,10.0,CL0,CL0,CL0
+820,18-24,Male,Attending College/No Certificate or Degree,USA,White,35.0,41.0,51.0,45.0,39.0,7.0,10.0,CL0,CL4,CL0
+821,18-24,Male,Attending College/No Certificate or Degree,Other,Biracial - Black/Asian,36.0,38.0,45.0,29.0,26.0,8.0,10.0,CL0,CL0,CL0
+822,18-24,Male,University Degree,Australia,White,42.0,24.0,26.0,49.0,31.0,3.0,3.0,CL0,CL2,CL0
+823,18-24,Male,University Degree,USA,White,41.0,44.0,47.0,36.0,50.0,4.0,8.0,CL6,CL5,CL6
+824,18-24,Male,Attending College/No Certificate or Degree,USA,White,37.0,49.0,54.0,35.0,36.0,6.0,9.0,CL4,CL6,CL4
+825,18-24,Male,University Degree,Other,White,27.0,43.0,46.0,38.0,39.0,5.0,8.0,CL0,CL0,CL0
+826,25-34,Female,Doctorate Degree,Australia,White,52.0,43.0,53.0,47.0,43.0,2.0,9.0,CL0,CL5,CL0
+827,18-24,Male,Attending College/No Certificate or Degree,USA,White,37.0,44.0,57.0,51.0,40.0,2.0,8.0,CL0,CL3,CL0
+828,18-24,Male,Professional Certificate/Diploma,UK,White,39.0,37.0,41.0,49.0,41.0,5.0,6.0,CL3,CL3,CL0
+829,18-24,Male,Attending College/No Certificate or Degree,USA,White,45.0,34.0,47.0,47.0,41.0,4.0,9.0,CL0,CL0,CL0
+830,25-34,Female,Masters Degree,USA,White,37.0,33.0,55.0,44.0,46.0,6.0,11.0,CL1,CL5,CL0
+831,45-54,Female,Doctorate Degree,USA,White,36.0,41.0,46.0,38.0,36.0,7.0,9.0,CL1,CL0,CL0
+832,25-34,Female,Masters Degree,USA,White,44.0,35.0,46.0,41.0,46.0,4.0,4.0,CL0,CL0,CL0
+833,18-24,Male,University Degree,USA,White,41.0,33.0,43.0,42.0,41.0,4.0,7.0,CL4,CL4,CL0
+834,18-24,Male,University Degree,Australia,White,21.0,41.0,46.0,41.0,30.0,5.0,7.0,CL0,CL4,CL0
+835,45-54,Male,Masters Degree,USA,White,32.0,42.0,47.0,35.0,44.0,5.0,8.0,CL2,CL2,CL0
+836,18-24,Male,Attending College/No Certificate or Degree,Australia,White,21.0,51.0,50.0,46.0,48.0,8.0,7.0,CL0,CL0,CL0
+837,18-24,Male,Left School at 18,UK,White,43.0,40.0,58.0,44.0,30.0,8.0,9.0,CL0,CL4,CL0
+838,25-34,Male,University Degree,USA,White,38.0,30.0,50.0,24.0,42.0,7.0,10.0,CL3,CL3,CL3
+839,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,39.0,52.0,40.0,32.0,9.0,9.0,CL0,CL0,CL0
+840,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,40.0,48.0,54.0,50.0,4.0,5.0,CL2,CL4,CL0
+841,25-34,Female,Attending College/No Certificate or Degree,USA,White,41.0,37.0,47.0,36.0,40.0,2.0,7.0,CL1,CL0,CL1
+842,18-24,Female,Attending College/No Certificate or Degree,USA,White,39.0,45.0,53.0,50.0,38.0,5.0,8.0,CL0,CL3,CL0
+843,35-44,Male,Attending College/No Certificate or Degree,USA,White,45.0,28.0,36.0,42.0,44.0,2.0,2.0,CL0,CL0,CL0
+844,18-24,Female,Professional Certificate/Diploma,Canada,White,41.0,37.0,35.0,50.0,37.0,5.0,5.0,CL2,CL3,CL0
+845,25-34,Male,University Degree,USA,White,42.0,37.0,48.0,30.0,35.0,6.0,9.0,CL4,CL3,CL4
+846,18-24,Male,Left School at 18,USA,White,41.0,44.0,53.0,36.0,39.0,8.0,10.0,CL3,CL2,CL0
+847,55-64,Male,Masters Degree,USA,White,21.0,40.0,54.0,51.0,45.0,5.0,7.0,CL1,CL0,CL0
+848,18-24,Male,Masters Degree,Other,White,40.0,33.0,49.0,41.0,45.0,5.0,8.0,CL0,CL0,CL0
+849,18-24,Male,Attending College/No Certificate or Degree,USA,White,28.0,49.0,55.0,49.0,43.0,6.0,7.0,CL0,CL3,CL0
+850,25-34,Male,University Degree,USA,White,43.0,41.0,36.0,35.0,32.0,5.0,10.0,CL2,CL2,CL2
+851,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,40.0,55.0,44.0,40.0,5.0,7.0,CL2,CL2,CL2
+852,18-24,Female,Attending College/No Certificate or Degree,USA,White,32.0,41.0,46.0,42.0,34.0,8.0,9.0,CL0,CL3,CL0
+853,18-24,Male,Left School at 16,Canada,Biracial - White/Black,41.0,45.0,50.0,36.0,33.0,6.0,10.0,CL5,CL3,CL5
+854,25-34,Male,Attending College/No Certificate or Degree,UK,White,26.0,43.0,57.0,53.0,45.0,4.0,7.0,CL2,CL3,CL0
+855,18-24,Male,Professional Certificate/Diploma,USA,Biracial - White/Asian,41.0,48.0,45.0,47.0,54.0,7.0,10.0,CL5,CL3,CL3
+856,25-34,Male,Left School at 17,Canada,White,49.0,34.0,43.0,30.0,29.0,5.0,5.0,CL5,CL4,CL6
+857,18-24,Male,Attending College/No Certificate or Degree,USA,White,26.0,54.0,53.0,42.0,48.0,7.0,9.0,CL3,CL5,CL0
+858,18-24,Female,Attending College/No Certificate or Degree,Other,Asian,46.0,31.0,53.0,36.0,32.0,10.0,8.0,CL2,CL2,CL2
+859,25-34,Male,Attending College/No Certificate or Degree,Other,White,42.0,45.0,53.0,40.0,28.0,8.0,9.0,CL0,CL3,CL0
+860,18-24,Male,University Degree,UK,White,36.0,39.0,45.0,39.0,39.0,9.0,10.0,CL4,CL2,CL0
+861,18-24,Male,Attending College/No Certificate or Degree,Canada,White,20.0,48.0,58.0,48.0,48.0,3.0,7.0,CL0,CL0,CL0
+862,18-24,Male,Attending College/No Certificate or Degree,Republic of Ireland,White,51.0,36.0,45.0,32.0,37.0,3.0,9.0,CL4,CL3,CL0
+863,18-24,Female,Attending College/No Certificate or Degree,USA,White,34.0,47.0,42.0,39.0,36.0,7.0,7.0,CL0,CL5,CL0
+864,18-24,Male,Attending College/No Certificate or Degree,Canada,White,40.0,32.0,50.0,47.0,36.0,5.0,6.0,CL4,CL3,CL0
+865,18-24,Female,Attending College/No Certificate or Degree,USA,White,35.0,48.0,55.0,48.0,54.0,6.0,10.0,CL0,CL6,CL0
+866,18-24,Female,Attending College/No Certificate or Degree,USA,White,24.0,42.0,51.0,49.0,52.0,3.0,8.0,CL0,CL2,CL0
+867,45-54,Male,Professional Certificate/Diploma,UK,White,51.0,35.0,52.0,41.0,28.0,8.0,11.0,CL2,CL2,CL1
+868,25-34,Male,University Degree,USA,White,45.0,34.0,53.0,40.0,49.0,7.0,11.0,CL2,CL2,CL2
+869,18-24,Male,Masters Degree,USA,White,38.0,50.0,47.0,32.0,34.0,6.0,8.0,CL4,CL4,CL0
+870,25-34,Female,Masters Degree,USA,White,29.0,37.0,46.0,47.0,40.0,3.0,4.0,CL2,CL0,CL0
+871,18-24,Female,Attending College/No Certificate or Degree,UK,White,50.0,27.0,47.0,38.0,23.0,3.0,1.0,CL0,CL0,CL0
+872,25-34,Female,Masters Degree,USA,White,38.0,32.0,42.0,45.0,34.0,6.0,6.0,CL4,CL0,CL0
+873,18-24,Female,Attending College/No Certificate or Degree,USA,Other,43.0,42.0,55.0,43.0,36.0,9.0,11.0,CL3,CL5,CL0
+874,35-44,Male,Professional Certificate/Diploma,USA,Other,48.0,24.0,51.0,30.0,39.0,10.0,9.0,CL2,CL0,CL4
+875,25-34,Male,Attending College/No Certificate or Degree,Australia,White,27.0,43.0,51.0,46.0,25.0,9.0,11.0,CL0,CL4,CL0
+876,18-24,Female,University Degree,USA,White,30.0,49.0,52.0,43.0,43.0,7.0,8.0,CL3,CL4,CL0
+877,25-34,Male,Masters Degree,USA,White,48.0,40.0,44.0,42.0,41.0,8.0,9.0,CL2,CL2,CL0
+878,18-24,Female,Left School before 16,USA,White,42.0,39.0,52.0,40.0,31.0,5.0,11.0,CL5,CL5,CL4
+879,35-44,Male,Attending College/No Certificate or Degree,USA,White,51.0,32.0,48.0,39.0,36.0,9.0,8.0,CL1,CL1,CL3
+880,25-34,Female,Attending College/No Certificate or Degree,USA,White,25.0,49.0,54.0,37.0,41.0,6.0,10.0,CL2,CL0,CL2
+881,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,48.0,51.0,45.0,37.0,5.0,9.0,CL3,CL3,CL2
+882,18-24,Male,Attending College/No Certificate or Degree,USA,Other,50.0,40.0,48.0,48.0,41.0,4.0,9.0,CL0,CL3,CL0
+883,25-34,Male,Attending College/No Certificate or Degree,Other,White,46.0,19.0,47.0,43.0,41.0,5.0,7.0,CL0,CL2,CL0
+884,18-24,Male,University Degree,UK,White,40.0,37.0,47.0,41.0,42.0,7.0,8.0,CL0,CL5,CL0
+885,18-24,Male,University Degree,UK,White,31.0,55.0,51.0,52.0,43.0,5.0,10.0,CL4,CL4,CL0
+886,18-24,Female,Attending College/No Certificate or Degree,USA,White,26.0,49.0,56.0,54.0,36.0,5.0,5.0,CL2,CL4,CL0
+887,18-24,Female,Attending College/No Certificate or Degree,USA,White,40.0,45.0,54.0,50.0,46.0,3.0,7.0,CL0,CL0,CL0
+888,18-24,Male,Attending College/No Certificate or Degree,USA,Other,37.0,46.0,53.0,47.0,46.0,3.0,9.0,CL4,CL4,CL0
+889,25-34,Male,Attending College/No Certificate or Degree,Republic of Ireland,White,22.0,53.0,52.0,43.0,48.0,4.0,8.0,CL4,CL4,CL3
+890,25-34,Male,Attending College/No Certificate or Degree,Other,White,37.0,37.0,33.0,27.0,41.0,6.0,9.0,CL3,CL3,CL0
+891,25-34,Male,Attending College/No Certificate or Degree,USA,White,46.0,29.0,48.0,18.0,30.0,8.0,11.0,CL2,CL2,CL2
+892,25-34,Female,Left School at 17,UK,White,60.0,24.0,40.0,36.0,24.0,6.0,3.0,CL2,CL2,CL1
+893,18-24,Male,Attending College/No Certificate or Degree,Other,White,23.0,27.0,46.0,27.0,40.0,6.0,9.0,CL0,CL0,CL0
+894,18-24,Female,Professional Certificate/Diploma,UK,White,20.0,38.0,47.0,44.0,37.0,3.0,7.0,CL3,CL3,CL0
+895,25-34,Male,Masters Degree,USA,White,28.0,47.0,45.0,44.0,45.0,4.0,7.0,CL3,CL4,CL0
+896,25-34,Male,University Degree,USA,White,53.0,38.0,43.0,40.0,34.0,9.0,11.0,CL0,CL0,CL0
+897,18-24,Female,Attending College/No Certificate or Degree,USA,White,53.0,33.0,39.0,37.0,34.0,10.0,11.0,CL0,CL0,CL0
+898,18-24,Male,University Degree,Canada,White,15.0,51.0,35.0,12.0,41.0,6.0,10.0,CL5,CL4,CL4
+899,18-24,Male,Attending College/No Certificate or Degree,UK,Black,36.0,33.0,49.0,39.0,35.0,6.0,10.0,CL0,CL4,CL0
+900,25-34,Female,Masters Degree,USA,White,38.0,35.0,48.0,39.0,33.0,6.0,8.0,CL2,CL2,CL6
+901,18-24,Male,Left School at 18,USA,White,35.0,46.0,46.0,46.0,37.0,7.0,10.0,CL3,CL3,CL3
+902,35-44,Female,University Degree,USA,White,46.0,38.0,53.0,36.0,45.0,2.0,4.0,CL0,CL0,CL0
+903,18-24,Male,Attending College/No Certificate or Degree,USA,White,49.0,39.0,45.0,27.0,33.0,7.0,8.0,CL5,CL4,CL6
+904,25-34,Male,Professional Certificate/Diploma,Other,White,40.0,42.0,47.0,43.0,54.0,3.0,5.0,CL2,CL3,CL0
+905,35-44,Male,University Degree,Australia,White,24.0,42.0,41.0,34.0,45.0,6.0,10.0,CL3,CL0,CL0
+906,18-24,Male,Attending College/No Certificate or Degree,USA,Other,33.0,40.0,44.0,48.0,36.0,2.0,11.0,CL3,CL3,CL0
+907,18-24,Male,University Degree,USA,White,37.0,44.0,46.0,34.0,42.0,7.0,9.0,CL3,CL0,CL3
+908,25-34,Female,Attending College/No Certificate or Degree,USA,Other,49.0,43.0,53.0,37.0,28.0,9.0,10.0,CL3,CL5,CL0
+909,18-24,Female,Attending College/No Certificate or Degree,USA,White,55.0,19.0,32.0,43.0,31.0,6.0,4.0,CL4,CL3,CL5
+910,18-24,Male,Attending College/No Certificate or Degree,USA,White,43.0,30.0,41.0,34.0,36.0,4.0,9.0,CL0,CL0,CL0
+911,35-44,Male,University Degree,USA,White,39.0,29.0,34.0,32.0,47.0,3.0,8.0,CL0,CL0,CL0
+912,18-24,Female,Attending College/No Certificate or Degree,USA,White,25.0,54.0,54.0,49.0,48.0,5.0,9.0,CL0,CL5,CL0
+913,25-34,Female,Left School at 17,USA,White,56.0,20.0,42.0,28.0,19.0,9.0,10.0,CL3,CL1,CL0
+914,18-24,Male,Left School at 18,USA,Biracial - White/Black,38.0,40.0,46.0,40.0,48.0,3.0,6.0,CL0,CL2,CL3
+915,25-34,Male,Left School at 16,USA,White,40.0,39.0,45.0,42.0,38.0,5.0,9.0,CL2,CL2,CL4
+916,18-24,Female,Attending College/No Certificate or Degree,USA,White,52.0,28.0,45.0,53.0,45.0,6.0,10.0,CL0,CL0,CL0
+917,18-24,Male,Left School at 18,Canada,White,38.0,49.0,58.0,41.0,34.0,9.0,11.0,CL5,CL5,CL5
+918,35-44,Male,Masters Degree,UK,White,33.0,38.0,41.0,38.0,43.0,8.0,7.0,CL0,CL0,CL1
+919,18-24,Male,Attending College/No Certificate or Degree,Other,White,25.0,43.0,53.0,34.0,45.0,4.0,10.0,CL3,CL4,CL0
+920,18-24,Male,Left School before 16,Australia,White,37.0,38.0,46.0,46.0,33.0,4.0,8.0,CL2,CL2,CL0
+921,18-24,Male,Attending College/No Certificate or Degree,USA,White,25.0,30.0,41.0,35.0,33.0,5.0,6.0,CL0,CL0,CL0
+922,25-34,Male,Left School at 18,USA,White,48.0,31.0,29.0,36.0,36.0,8.0,6.0,CL2,CL2,CL2
+923,18-24,Male,Left School at 16,USA,White,46.0,29.0,48.0,44.0,35.0,6.0,7.0,CL3,CL2,CL3
+924,18-24,Male,Professional Certificate/Diploma,USA,White,28.0,48.0,50.0,50.0,37.0,4.0,9.0,CL0,CL3,CL0
+925,25-34,Male,Attending College/No Certificate or Degree,USA,White,38.0,31.0,52.0,38.0,40.0,4.0,9.0,CL1,CL2,CL0
+926,25-34,Male,Attending College/No Certificate or Degree,USA,White,30.0,49.0,56.0,53.0,46.0,5.0,10.0,CL0,CL3,CL0
+927,18-24,Female,Attending College/No Certificate or Degree,UK,Other,33.0,46.0,51.0,45.0,40.0,6.0,7.0,CL4,CL4,CL0
+928,35-44,Male,Left School at 16,UK,White,29.0,35.0,42.0,44.0,37.0,2.0,4.0,CL2,CL3,CL0
+929,25-34,Female,University Degree,Australia,White,43.0,35.0,54.0,49.0,45.0,6.0,9.0,CL1,CL1,CL1
+930,18-24,Female,Left School at 17,USA,White,47.0,26.0,46.0,50.0,36.0,4.0,11.0,CL2,CL2,CL4
+931,18-24,Female,University Degree,UK,White,33.0,40.0,53.0,47.0,54.0,3.0,5.0,CL0,CL0,CL0
+932,18-24,Female,Attending College/No Certificate or Degree,USA,White,24.0,47.0,54.0,45.0,36.0,9.0,11.0,CL5,CL3,CL4
+933,18-24,Female,Attending College/No Certificate or Degree,USA,White,56.0,35.0,48.0,44.0,36.0,6.0,9.0,CL2,CL5,CL0
+934,18-24,Male,Professional Certificate/Diploma,UK,White,40.0,48.0,53.0,43.0,39.0,6.0,7.0,CL3,CL5,CL0
+935,18-24,Male,Attending College/No Certificate or Degree,Other,White,35.0,42.0,50.0,47.0,35.0,7.0,10.0,CL4,CL4,CL0
+936,18-24,Female,University Degree,UK,White,39.0,42.0,46.0,39.0,47.0,3.0,8.0,CL3,CL3,CL0
+937,18-24,Male,Attending College/No Certificate or Degree,Other,White,40.0,37.0,53.0,33.0,41.0,4.0,9.0,CL0,CL0,CL0
+938,25-34,Female,Left School at 18,Other,White,45.0,48.0,53.0,38.0,51.0,5.0,8.0,CL2,CL2,CL0
+939,25-34,Male,Professional Certificate/Diploma,USA,Other,31.0,54.0,59.0,51.0,50.0,4.0,8.0,CL4,CL5,CL0
+940,18-24,Female,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,51.0,34.0,50.0,46.0,33.0,7.0,9.0,CL6,CL2,CL4
+941,25-34,Female,Masters Degree,USA,White,46.0,38.0,49.0,48.0,32.0,8.0,9.0,CL2,CL3,CL3
+942,18-24,Female,Attending College/No Certificate or Degree,USA,White,32.0,32.0,42.0,52.0,35.0,3.0,2.0,CL0,CL0,CL0
+943,18-24,Male,Left School at 18,USA,White,29.0,38.0,38.0,38.0,30.0,7.0,6.0,CL3,CL6,CL0
+944,25-34,Male,Professional Certificate/Diploma,UK,White,55.0,30.0,47.0,41.0,29.0,8.0,6.0,CL0,CL2,CL0
+945,25-34,Female,Left School at 18,Canada,White,40.0,40.0,29.0,41.0,47.0,2.0,1.0,CL0,CL0,CL0
+946,35-44,Male,Professional Certificate/Diploma,USA,White,51.0,27.0,46.0,44.0,30.0,7.0,5.0,CL1,CL4,CL0
+947,18-24,Female,University Degree,USA,White,42.0,40.0,49.0,40.0,37.0,4.0,8.0,CL2,CL3,CL2
+948,18-24,Female,Attending College/No Certificate or Degree,USA,White,25.0,42.0,57.0,47.0,41.0,10.0,11.0,CL3,CL3,CL0
+949,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,41.0,48.0,41.0,40.0,9.0,9.0,CL3,CL5,CL0
+950,25-34,Female,University Degree,UK,White,46.0,33.0,46.0,41.0,29.0,6.0,9.0,CL0,CL0,CL0
+951,18-24,Male,Attending College/No Certificate or Degree,Other,White,49.0,34.0,44.0,42.0,36.0,3.0,3.0,CL0,CL0,CL0
+952,18-24,Male,Professional Certificate/Diploma,USA,White,53.0,36.0,46.0,33.0,20.0,9.0,10.0,CL4,CL3,CL4
+953,45-54,Male,University Degree,USA,White,25.0,36.0,42.0,44.0,45.0,3.0,4.0,CL1,CL0,CL1
+954,35-44,Male,Professional Certificate/Diploma,UK,White,23.0,38.0,47.0,51.0,50.0,3.0,3.0,CL3,CL6,CL0
+955,18-24,Male,Attending College/No Certificate or Degree,Other,White,33.0,50.0,46.0,35.0,54.0,4.0,9.0,CL0,CL0,CL0
+956,18-24,Female,University Degree,Other,White,36.0,41.0,55.0,50.0,37.0,6.0,5.0,CL0,CL0,CL0
+957,45-54,Female,Attending College/No Certificate or Degree,USA,White,35.0,35.0,51.0,55.0,39.0,4.0,6.0,CL1,CL2,CL1
+958,18-24,Male,Professional Certificate/Diploma,Australia,White,39.0,46.0,53.0,45.0,40.0,9.0,11.0,CL3,CL5,CL0
+959,25-34,Male,Attending College/No Certificate or Degree,USA,White,32.0,42.0,57.0,48.0,33.0,7.0,8.0,CL3,CL0,CL5
+960,35-44,Male,Attending College/No Certificate or Degree,UK,White,42.0,26.0,46.0,44.0,42.0,5.0,10.0,CL3,CL4,CL6
+961,18-24,Male,Attending College/No Certificate or Degree,USA,White,27.0,48.0,43.0,48.0,44.0,4.0,8.0,CL0,CL4,CL0
+962,25-34,Female,Masters Degree,USA,White,25.0,40.0,51.0,46.0,40.0,5.0,8.0,CL2,CL3,CL0
+963,18-24,Male,Masters Degree,UK,White,27.0,47.0,46.0,45.0,45.0,5.0,10.0,CL4,CL5,CL0
+964,18-24,Female,Attending College/No Certificate or Degree,USA,White,30.0,42.0,50.0,50.0,44.0,3.0,5.0,CL0,CL0,CL0
+965,18-24,Female,Attending College/No Certificate or Degree,USA,White,33.0,41.0,57.0,52.0,39.0,8.0,10.0,CL2,CL3,CL0
+966,18-24,Male,Attending College/No Certificate or Degree,USA,Black,22.0,48.0,53.0,33.0,48.0,4.0,9.0,CL3,CL0,CL0
+967,55-64,Male,Doctorate Degree,Other,Other,20.0,48.0,50.0,50.0,47.0,6.0,7.0,CL1,CL0,CL1
+968,35-44,Female,University Degree,Canada,White,38.0,40.0,45.0,39.0,38.0,7.0,9.0,CL4,CL4,CL0
+969,25-34,Male,Attending College/No Certificate or Degree,Canada,White,40.0,28.0,50.0,36.0,48.0,4.0,8.0,CL3,CL4,CL0
+970,18-24,Male,Attending College/No Certificate or Degree,USA,White,50.0,31.0,38.0,44.0,38.0,3.0,8.0,CL4,CL4,CL0
+971,18-24,Male,Attending College/No Certificate or Degree,USA,White,20.0,53.0,54.0,52.0,46.0,3.0,11.0,CL0,CL3,CL0
+972,18-24,Male,Attending College/No Certificate or Degree,USA,White,48.0,40.0,53.0,35.0,36.0,6.0,11.0,CL0,CL3,CL0
+973,65+,Male,Masters Degree,USA,White,18.0,40.0,50.0,48.0,47.0,6.0,5.0,CL0,CL1,CL0
+974,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,47.0,51.0,47.0,42.0,4.0,5.0,CL0,CL3,CL0
+975,35-44,Female,Masters Degree,UK,White,30.0,49.0,37.0,53.0,39.0,8.0,10.0,CL5,CL5,CL0
+976,45-54,Female,Attending College/No Certificate or Degree,USA,White,48.0,32.0,43.0,42.0,47.0,3.0,6.0,CL3,CL0,CL0
+977,25-34,Female,Doctorate Degree,USA,Asian,42.0,41.0,51.0,39.0,40.0,3.0,4.0,CL2,CL3,CL0
+978,18-24,Male,Attending College/No Certificate or Degree,Other,White,40.0,39.0,47.0,38.0,45.0,4.0,7.0,CL5,CL3,CL0
+979,18-24,Male,Attending College/No Certificate or Degree,UK,White,46.0,47.0,38.0,37.0,34.0,7.0,10.0,CL6,CL4,CL0
+980,25-34,Female,University Degree,USA,White,42.0,39.0,57.0,31.0,49.0,6.0,10.0,CL3,CL0,CL3
+981,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,39.0,54.0,49.0,41.0,7.0,11.0,CL2,CL3,CL0
+982,18-24,Male,Attending College/No Certificate or Degree,Other,White,34.0,42.0,54.0,40.0,35.0,6.0,10.0,CL3,CL4,CL0
+983,18-24,Male,Professional Certificate/Diploma,USA,White,43.0,34.0,41.0,40.0,44.0,7.0,7.0,CL3,CL3,CL6
+984,25-34,Male,Attending College/No Certificate or Degree,USA,White,52.0,44.0,49.0,34.0,25.0,8.0,10.0,CL2,CL3,CL0
+985,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,29.0,49.0,43.0,35.0,3.0,7.0,CL5,CL6,CL0
+986,25-34,Male,University Degree,USA,White,28.0,40.0,47.0,36.0,40.0,8.0,10.0,CL3,CL3,CL2
+987,18-24,Male,Attending College/No Certificate or Degree,USA,White,52.0,36.0,56.0,44.0,39.0,7.0,10.0,CL4,CL2,CL6
+988,18-24,Male,Attending College/No Certificate or Degree,Australia,White,39.0,51.0,48.0,38.0,28.0,9.0,11.0,CL3,CL4,CL0
+989,55-64,Male,Professional Certificate/Diploma,Other,White,28.0,42.0,50.0,44.0,42.0,4.0,6.0,CL3,CL1,CL1
+990,25-34,Male,University Degree,UK,White,25.0,45.0,55.0,56.0,49.0,4.0,8.0,CL3,CL3,CL0
+991,18-24,Male,Attending College/No Certificate or Degree,USA,White,41.0,45.0,51.0,49.0,36.0,6.0,10.0,CL3,CL2,CL2
+992,18-24,Male,Masters Degree,Other,White,28.0,38.0,44.0,37.0,41.0,6.0,9.0,CL0,CL4,CL0
+993,18-24,Male,Masters Degree,UK,White,28.0,46.0,43.0,46.0,47.0,7.0,9.0,CL4,CL3,CL0
+994,25-34,Male,Masters Degree,UK,White,47.0,38.0,52.0,39.0,48.0,4.0,7.0,CL2,CL2,CL0
+995,25-34,Female,Doctorate Degree,USA,White,26.0,45.0,44.0,42.0,48.0,4.0,5.0,CL0,CL3,CL0
+996,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,43.0,45.0,44.0,51.0,3.0,3.0,CL3,CL3,CL4
+997,18-24,Male,Left School at 16,New Zealand,White,48.0,32.0,44.0,42.0,37.0,8.0,9.0,CL0,CL0,CL0
+998,18-24,Male,Attending College/No Certificate or Degree,USA,White,35.0,46.0,37.0,27.0,35.0,8.0,11.0,CL3,CL3,CL4
+999,45-54,Female,Attending College/No Certificate or Degree,Other,White,32.0,41.0,47.0,46.0,47.0,2.0,3.0,CL0,CL0,CL0
+1000,18-24,Male,Attending College/No Certificate or Degree,Other,White,55.0,27.0,44.0,33.0,44.0,2.0,5.0,CL0,CL0,CL0
+1001,18-24,Male,Left School at 18,Canada,White,53.0,23.0,38.0,40.0,17.0,4.0,3.0,CL0,CL0,CL0
+1002,18-24,Male,Left School at 18,USA,Biracial - White/Black,44.0,29.0,33.0,43.0,29.0,8.0,10.0,CL0,CL0,CL0
+1003,18-24,Female,Left School at 18,USA,White,53.0,33.0,52.0,44.0,35.0,3.0,5.0,CL0,CL0,CL0
+1004,18-24,Male,Attending College/No Certificate or Degree,USA,White,35.0,41.0,56.0,49.0,42.0,5.0,8.0,CL0,CL0,CL0
+1005,45-54,Male,Masters Degree,Other,White,42.0,31.0,42.0,40.0,33.0,4.0,6.0,CL1,CL1,CL0
+1006,18-24,Female,Left School at 18,UK,White,48.0,46.0,49.0,41.0,40.0,6.0,8.0,CL0,CL4,CL0
+1007,45-54,Male,University Degree,USA,White,29.0,40.0,46.0,43.0,45.0,1.0,5.0,CL0,CL0,CL0
+1008,18-24,Female,Attending College/No Certificate or Degree,USA,White,30.0,49.0,57.0,51.0,36.0,5.0,11.0,CL2,CL4,CL0
+1009,25-34,Male,Attending College/No Certificate or Degree,USA,White,53.0,31.0,49.0,38.0,31.0,5.0,3.0,CL3,CL0,CL2
+1010,18-24,Male,Attending College/No Certificate or Degree,USA,White,42.0,42.0,47.0,44.0,41.0,5.0,9.0,CL3,CL3,CL0
+1011,25-34,Male,Attending College/No Certificate or Degree,USA,White,28.0,53.0,52.0,46.0,37.0,9.0,11.0,CL3,CL3,CL2
+1012,45-54,Male,University Degree,USA,White,25.0,44.0,59.0,48.0,50.0,2.0,7.0,CL1,CL5,CL1
+1013,18-24,Male,Professional Certificate/Diploma,Other,White,18.0,55.0,57.0,44.0,52.0,5.0,9.0,CL0,CL0,CL0
+1014,25-34,Male,Attending College/No Certificate or Degree,USA,White,39.0,20.0,40.0,32.0,22.0,7.0,7.0,CL2,CL2,CL2
+1015,18-24,Female,Left School at 18,UK,White,32.0,31.0,39.0,46.0,49.0,3.0,1.0,CL4,CL0,CL0
+1016,25-34,Male,Left School at 18,Other,White,38.0,50.0,48.0,33.0,42.0,4.0,9.0,CL2,CL6,CL0
+1017,35-44,Female,Attending College/No Certificate or Degree,USA,White,45.0,30.0,36.0,40.0,36.0,5.0,1.0,CL3,CL0,CL5
+1018,18-24,Male,University Degree,USA,White,37.0,33.0,53.0,30.0,47.0,4.0,5.0,CL0,CL0,CL0
+1019,18-24,Female,Attending College/No Certificate or Degree,UK,White,55.0,19.0,38.0,40.0,23.0,3.0,4.0,CL0,CL0,CL0
+1020,18-24,Male,Left School at 18,Australia,White,49.0,39.0,56.0,37.0,39.0,4.0,7.0,CL0,CL0,CL0
+1021,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,38.0,53.0,36.0,23.0,8.0,9.0,CL0,CL0,CL0
+1022,18-24,Female,Left School at 18,USA,Other,39.0,32.0,49.0,47.0,37.0,7.0,7.0,CL0,CL3,CL0
+1023,18-24,Female,University Degree,USA,White,25.0,33.0,41.0,41.0,39.0,4.0,5.0,CL0,CL0,CL0
+1024,45-54,Male,Doctorate Degree,USA,White,37.0,42.0,49.0,37.0,42.0,5.0,8.0,CL0,CL2,CL2
+1025,35-44,Female,University Degree,USA,Asian,42.0,42.0,43.0,43.0,46.0,8.0,10.0,CL1,CL3,CL1
+1026,18-24,Female,Masters Degree,USA,White,32.0,45.0,50.0,47.0,50.0,4.0,11.0,CL0,CL3,CL0
+1027,18-24,Female,University Degree,UK,White,41.0,33.0,40.0,36.0,39.0,4.0,8.0,CL2,CL2,CL0
+1028,18-24,Male,Attending College/No Certificate or Degree,Australia,White,29.0,42.0,50.0,50.0,42.0,5.0,9.0,CL0,CL0,CL0
+1029,25-34,Male,Attending College/No Certificate or Degree,UK,White,38.0,30.0,45.0,36.0,31.0,8.0,8.0,CL2,CL2,CL2
+1030,18-24,Male,Attending College/No Certificate or Degree,USA,White,38.0,35.0,47.0,39.0,40.0,5.0,8.0,CL3,CL0,CL0
+1031,18-24,Female,Attending College/No Certificate or Degree,UK,White,48.0,36.0,49.0,39.0,34.0,6.0,11.0,CL3,CL4,CL0
+1032,18-24,Male,Professional Certificate/Diploma,UK,White,41.0,43.0,57.0,43.0,38.0,6.0,9.0,CL3,CL4,CL0
+1033,18-24,Female,Attending College/No Certificate or Degree,USA,White,41.0,45.0,52.0,42.0,40.0,8.0,10.0,CL3,CL4,CL3
+1034,25-34,Male,Attending College/No Certificate or Degree,USA,White,19.0,43.0,50.0,47.0,47.0,2.0,4.0,CL0,CL0,CL0
+1035,35-44,Female,Masters Degree,USA,White,48.0,29.0,46.0,58.0,36.0,4.0,1.0,CL0,CL3,CL0
+1036,18-24,Female,Attending College/No Certificate or Degree,USA,White,38.0,34.0,51.0,56.0,49.0,6.0,10.0,CL0,CL0,CL0
+1037,18-24,Male,Attending College/No Certificate or Degree,USA,White,43.0,39.0,50.0,38.0,45.0,3.0,7.0,CL4,CL3,CL0
+1038,35-44,Female,Masters Degree,UK,White,42.0,39.0,32.0,42.0,34.0,7.0,8.0,CL1,CL1,CL0
+1039,35-44,Male,University Degree,UK,White,38.0,24.0,31.0,34.0,31.0,9.0,9.0,CL0,CL0,CL0
+1040,25-34,Male,Attending College/No Certificate or Degree,Other,White,46.0,36.0,47.0,49.0,38.0,7.0,6.0,CL3,CL2,CL0
+1041,25-34,Female,Masters Degree,UK,White,45.0,37.0,36.0,48.0,37.0,2.0,5.0,CL3,CL0,CL0
+1042,18-24,Male,Attending College/No Certificate or Degree,UK,White,43.0,48.0,55.0,49.0,35.0,8.0,10.0,CL3,CL0,CL0
+1043,25-34,Female,Masters Degree,USA,White,49.0,48.0,57.0,26.0,32.0,8.0,10.0,CL5,CL1,CL3
+1044,18-24,Male,Attending College/No Certificate or Degree,USA,White,48.0,31.0,49.0,43.0,44.0,2.0,2.0,CL2,CL2,CL0
+1045,18-24,Male,Masters Degree,UK,White,23.0,55.0,49.0,38.0,46.0,7.0,11.0,CL5,CL0,CL0
+1046,18-24,Male,Professional Certificate/Diploma,UK,White,25.0,44.0,46.0,45.0,38.0,4.0,5.0,CL0,CL0,CL0
+1047,18-24,Female,Attending College/No Certificate or Degree,USA,White,46.0,43.0,55.0,53.0,37.0,7.0,9.0,CL3,CL5,CL0
+1048,25-34,Male,Doctorate Degree,Other,White,22.0,39.0,51.0,30.0,44.0,5.0,10.0,CL4,CL5,CL0
+1049,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,37.0,39.0,41.0,40.0,4.0,6.0,CL0,CL3,CL0
+1050,18-24,Male,Left School at 18,Canada,White,48.0,36.0,35.0,30.0,26.0,8.0,11.0,CL6,CL4,CL5
+1051,18-24,Female,Attending College/No Certificate or Degree,USA,White,40.0,36.0,49.0,41.0,39.0,4.0,6.0,CL2,CL2,CL0
+1052,25-34,Male,Left School at 16,UK,White,28.0,48.0,56.0,39.0,46.0,5.0,8.0,CL2,CL4,CL0
+1053,25-34,Female,Attending College/No Certificate or Degree,USA,White,38.0,39.0,51.0,47.0,51.0,2.0,3.0,CL2,CL2,CL0
+1054,35-44,Female,Left School at 18,USA,White,39.0,31.0,38.0,31.0,31.0,5.0,8.0,CL2,CL0,CL0
+1055,18-24,Male,University Degree,USA,White,43.0,32.0,37.0,40.0,39.0,6.0,8.0,CL0,CL0,CL0
+1056,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,39.0,51.0,49.0,40.0,3.0,8.0,CL0,CL3,CL0
+1057,45-54,Female,Masters Degree,Other,White,30.0,40.0,56.0,47.0,48.0,2.0,5.0,CL1,CL0,CL1
+1058,18-24,Female,Left School at 18,USA,Other,33.0,44.0,36.0,44.0,47.0,8.0,7.0,CL0,CL0,CL0
+1059,18-24,Female,University Degree,USA,Biracial - Black/Asian,48.0,52.0,56.0,42.0,38.0,8.0,10.0,CL0,CL0,CL0
+1060,25-34,Male,Attending College/No Certificate or Degree,USA,White,21.0,39.0,52.0,33.0,45.0,4.0,7.0,CL2,CL4,CL0
+1061,25-34,Male,Masters Degree,Other,Other,29.0,44.0,56.0,47.0,46.0,4.0,10.0,CL2,CL2,CL0
+1062,18-24,Male,Attending College/No Certificate or Degree,USA,White,13.0,43.0,54.0,50.0,33.0,7.0,9.0,CL0,CL0,CL0
+1063,35-44,Female,Left School at 17,Canada,White,48.0,35.0,50.0,45.0,52.0,2.0,2.0,CL0,CL0,CL0
+1064,35-44,Male,University Degree,Canada,White,30.0,35.0,29.0,41.0,40.0,1.0,3.0,CL0,CL0,CL0
+1065,18-24,Male,Left School at 18,UK,White,21.0,46.0,46.0,43.0,35.0,7.0,7.0,CL0,CL6,CL0
+1066,25-34,Female,Doctorate Degree,UK,White,27.0,40.0,53.0,55.0,54.0,2.0,6.0,CL0,CL0,CL0
+1067,25-34,Female,Masters Degree,Other,Biracial - White/Black,35.0,30.0,43.0,42.0,50.0,4.0,3.0,CL0,CL0,CL0
+1068,18-24,Male,Masters Degree,UK,White,40.0,40.0,48.0,39.0,43.0,7.0,7.0,CL0,CL0,CL0
+1069,18-24,Male,Attending College/No Certificate or Degree,Republic of Ireland,White,31.0,37.0,53.0,44.0,31.0,4.0,9.0,CL2,CL2,CL0
+1070,18-24,Female,Masters Degree,UK,White,51.0,29.0,45.0,45.0,39.0,3.0,2.0,CL0,CL0,CL0
+1071,35-44,Female,Doctorate Degree,UK,White,29.0,42.0,46.0,41.0,51.0,2.0,2.0,CL0,CL0,CL0
+1072,35-44,Male,Left School at 18,UK,White,39.0,35.0,43.0,40.0,41.0,5.0,9.0,CL0,CL0,CL0
+1073,18-24,Male,Left School at 17,UK,White,27.0,36.0,51.0,51.0,40.0,3.0,6.0,CL0,CL0,CL0
+1074,35-44,Female,Professional Certificate/Diploma,Canada,White,40.0,40.0,39.0,44.0,41.0,2.0,3.0,CL0,CL0,CL0
+1075,25-34,Female,University Degree,USA,White,53.0,26.0,57.0,37.0,44.0,5.0,11.0,CL0,CL1,CL0
+1076,45-54,Male,Professional Certificate/Diploma,UK,White,22.0,46.0,44.0,40.0,44.0,4.0,2.0,CL0,CL0,CL0
+1077,35-44,Female,Professional Certificate/Diploma,UK,White,41.0,30.0,36.0,44.0,33.0,2.0,3.0,CL0,CL0,CL0
+1078,25-34,Female,Masters Degree,UK,Other,39.0,51.0,45.0,45.0,46.0,6.0,9.0,CL0,CL0,CL0
+1079,18-24,Female,Masters Degree,UK,White,25.0,50.0,48.0,50.0,50.0,4.0,6.0,CL0,CL0,CL0
+1080,18-24,Male,Masters Degree,UK,White,33.0,43.0,44.0,45.0,38.0,4.0,6.0,CL0,CL0,CL0
+1081,18-24,Female,Masters Degree,UK,White,42.0,47.0,40.0,40.0,32.0,3.0,4.0,CL4,CL0,CL0
+1082,18-24,Female,University Degree,UK,White,35.0,39.0,49.0,45.0,45.0,2.0,6.0,CL0,CL3,CL0
+1083,18-24,Female,Masters Degree,UK,White,33.0,43.0,52.0,42.0,53.0,6.0,8.0,CL0,CL0,CL0
+1084,35-44,Male,Professional Certificate/Diploma,Canada,White,34.0,39.0,50.0,46.0,46.0,3.0,8.0,CL2,CL2,CL0
+1085,18-24,Female,Masters Degree,Other,White,35.0,46.0,58.0,41.0,44.0,2.0,5.0,CL0,CL0,CL0
+1086,18-24,Female,Masters Degree,UK,White,41.0,43.0,46.0,41.0,44.0,5.0,5.0,CL0,CL0,CL0
+1087,25-34,Female,Masters Degree,USA,White,31.0,39.0,48.0,47.0,48.0,5.0,4.0,CL0,CL0,CL0
+1088,25-34,Female,University Degree,UK,White,26.0,49.0,47.0,50.0,40.0,2.0,9.0,CL2,CL0,CL0
+1089,18-24,Female,Masters Degree,UK,White,42.0,49.0,45.0,57.0,38.0,8.0,8.0,CL0,CL0,CL0
+1090,45-54,Female,Left School at 16,UK,White,31.0,44.0,38.0,50.0,43.0,5.0,5.0,CL3,CL3,CL0
+1091,18-24,Male,University Degree,Australia,White,21.0,34.0,42.0,35.0,32.0,5.0,9.0,CL4,CL4,CL0
+1092,25-34,Female,University Degree,Australia,White,23.0,51.0,40.0,39.0,46.0,7.0,8.0,CL3,CL3,CL0
+1093,35-44,Male,Masters Degree,UK,Asian,31.0,46.0,47.0,43.0,48.0,7.0,6.0,CL0,CL0,CL0
+1094,25-34,Male,Masters Degree,UK,White,47.0,32.0,40.0,43.0,43.0,4.0,1.0,CL0,CL0,CL0
+1095,18-24,Male,Left School at 18,UK,White,30.0,35.0,56.0,54.0,33.0,4.0,5.0,CL0,CL3,CL0
+1096,25-34,Male,Attending College/No Certificate or Degree,USA,White,27.0,40.0,51.0,44.0,37.0,7.0,7.0,CL2,CL3,CL2
+1097,18-24,Female,Attending College/No Certificate or Degree,USA,White,36.0,37.0,46.0,37.0,37.0,2.0,6.0,CL0,CL0,CL0
+1098,18-24,Female,Masters Degree,UK,White,24.0,48.0,48.0,46.0,46.0,4.0,8.0,CL2,CL0,CL0
+1099,18-24,Male,Attending College/No Certificate or Degree,Other,White,30.0,43.0,45.0,45.0,28.0,5.0,9.0,CL0,CL0,CL0
+1100,18-24,Female,University Degree,USA,White,39.0,39.0,42.0,41.0,50.0,3.0,5.0,CL3,CL4,CL0
+1101,18-24,Female,Masters Degree,Other,White,28.0,39.0,45.0,40.0,39.0,4.0,10.0,CL3,CL4,CL0
+1102,18-24,Female,Left School at 18,USA,White,26.0,42.0,57.0,37.0,28.0,5.0,9.0,CL0,CL4,CL0
+1103,25-34,Male,Attending College/No Certificate or Degree,Other,White,25.0,32.0,51.0,35.0,26.0,2.0,7.0,CL3,CL4,CL0
+1104,25-34,Female,Doctorate Degree,UK,White,34.0,38.0,43.0,56.0,52.0,2.0,7.0,CL0,CL0,CL0
+1105,25-34,Female,Attending College/No Certificate or Degree,Other,White,54.0,38.0,49.0,35.0,34.0,5.0,9.0,CL3,CL4,CL2
+1106,18-24,Male,University Degree,UK,White,47.0,47.0,53.0,42.0,38.0,9.0,11.0,CL2,CL4,CL0
+1107,18-24,Male,Attending College/No Certificate or Degree,UK,White,27.0,51.0,55.0,51.0,40.0,5.0,8.0,CL5,CL5,CL0
+1108,45-54,Male,Attending College/No Certificate or Degree,USA,White,57.0,29.0,33.0,44.0,29.0,7.0,5.0,CL3,CL1,CL1
+1109,18-24,Female,Attending College/No Certificate or Degree,USA,White,38.0,39.0,44.0,56.0,51.0,2.0,3.0,CL0,CL4,CL0
+1110,45-54,Male,Doctorate Degree,USA,White,40.0,37.0,50.0,45.0,32.0,8.0,7.0,CL2,CL1,CL0
+1111,18-24,Male,Left School at 18,USA,White,27.0,31.0,41.0,36.0,46.0,3.0,5.0,CL4,CL4,CL0
+1112,18-24,Male,Attending College/No Certificate or Degree,USA,White,12.0,43.0,46.0,51.0,54.0,4.0,9.0,CL0,CL0,CL0
+1113,45-54,Male,Left School at 16,UK,White,41.0,36.0,49.0,26.0,40.0,7.0,6.0,CL1,CL0,CL3
+1114,18-24,Male,Attending College/No Certificate or Degree,USA,Other,45.0,40.0,54.0,42.0,31.0,8.0,8.0,CL0,CL3,CL0
+1115,18-24,Male,Attending College/No Certificate or Degree,USA,White,51.0,31.0,45.0,37.0,37.0,3.0,6.0,CL0,CL4,CL0
+1116,25-34,Female,University Degree,USA,White,21.0,55.0,60.0,50.0,40.0,6.0,11.0,CL3,CL3,CL0
+1117,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,37.0,46.0,31.0,34.0,7.0,9.0,CL0,CL3,CL0
+1118,25-34,Male,University Degree,UK,White,26.0,48.0,49.0,46.0,47.0,5.0,6.0,CL2,CL2,CL0
+1119,25-34,Male,Attending College/No Certificate or Degree,USA,White,32.0,21.0,37.0,38.0,40.0,5.0,9.0,CL2,CL0,CL3
+1120,18-24,Male,Left School at 16,Canada,White,35.0,26.0,56.0,43.0,39.0,3.0,5.0,CL3,CL2,CL0
+1121,25-34,Male,Professional Certificate/Diploma,UK,White,43.0,33.0,38.0,43.0,32.0,6.0,5.0,CL3,CL3,CL0
+1122,25-34,Male,Left School at 18,UK,White,26.0,40.0,29.0,46.0,42.0,8.0,7.0,CL3,CL3,CL0
+1123,25-34,Male,Professional Certificate/Diploma,USA,White,49.0,30.0,43.0,42.0,24.0,4.0,6.0,CL3,CL4,CL3
+1124,55-64,Male,Left School at 17,USA,White,41.0,37.0,42.0,32.0,46.0,4.0,7.0,CL2,CL0,CL0
+1125,18-24,Male,Attending College/No Certificate or Degree,USA,White,49.0,33.0,51.0,45.0,36.0,6.0,10.0,CL2,CL3,CL2
+1126,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,25.0,41.0,50.0,32.0,7.0,8.0,CL3,CL3,CL0
+1127,18-24,Male,Attending College/No Certificate or Degree,Other,White,22.0,31.0,52.0,53.0,28.0,4.0,8.0,CL0,CL0,CL0
+1128,18-24,Male,Attending College/No Certificate or Degree,Other,White,40.0,41.0,45.0,43.0,27.0,8.0,9.0,CL2,CL3,CL5
+1129,25-34,Female,Professional Certificate/Diploma,USA,White,56.0,45.0,51.0,29.0,28.0,9.0,11.0,CL4,CL2,CL5
+1130,25-34,Male,Masters Degree,New Zealand,White,42.0,35.0,47.0,35.0,40.0,4.0,6.0,CL3,CL2,CL2
+1131,35-44,Male,Professional Certificate/Diploma,Australia,White,24.0,41.0,56.0,50.0,44.0,8.0,9.0,CL0,CL3,CL0
+1132,18-24,Male,Masters Degree,USA,White,40.0,48.0,38.0,37.0,38.0,9.0,8.0,CL3,CL0,CL0
+1133,18-24,Male,Left School at 18,USA,White,49.0,44.0,44.0,34.0,29.0,8.0,10.0,CL3,CL3,CL3
+1134,25-34,Female,Doctorate Degree,UK,White,35.0,42.0,40.0,43.0,45.0,2.0,4.0,CL0,CL0,CL0
+1135,25-34,Female,University Degree,Other,White,39.0,26.0,46.0,47.0,32.0,4.0,4.0,CL0,CL0,CL0
+1136,25-34,Male,Attending College/No Certificate or Degree,USA,White,41.0,31.0,49.0,16.0,38.0,9.0,10.0,CL3,CL4,CL2
+1137,18-24,Female,Attending College/No Certificate or Degree,USA,White,27.0,43.0,47.0,52.0,40.0,4.0,10.0,CL5,CL4,CL3
+1138,25-34,Female,University Degree,Australia,White,51.0,28.0,51.0,36.0,30.0,6.0,10.0,CL0,CL2,CL0
+1139,35-44,Male,Professional Certificate/Diploma,USA,White,40.0,31.0,47.0,42.0,46.0,6.0,7.0,CL3,CL0,CL2
+1140,18-24,Female,Attending College/No Certificate or Degree,USA,White,54.0,26.0,54.0,52.0,33.0,4.0,10.0,CL0,CL0,CL0
+1141,45-54,Male,University Degree,UK,White,38.0,32.0,41.0,41.0,37.0,5.0,4.0,CL1,CL1,CL0
+1142,18-24,Male,Attending College/No Certificate or Degree,Republic of Ireland,White,51.0,34.0,41.0,35.0,25.0,4.0,7.0,CL3,CL4,CL0
+1143,25-34,Male,Masters Degree,USA,White,38.0,35.0,48.0,43.0,34.0,3.0,3.0,CL0,CL0,CL0
+1144,25-34,Male,University Degree,USA,White,14.0,37.0,38.0,33.0,48.0,4.0,7.0,CL2,CL4,CL0
+1145,35-44,Male,Professional Certificate/Diploma,USA,White,53.0,33.0,47.0,33.0,32.0,7.0,5.0,CL1,CL2,CL0
+1146,18-24,Male,Attending College/No Certificate or Degree,USA,White,37.0,41.0,47.0,39.0,37.0,6.0,11.0,CL6,CL5,CL2
+1147,45-54,Female,Left School at 18,Australia,White,30.0,44.0,44.0,46.0,48.0,3.0,5.0,CL2,CL2,CL2
+1148,25-34,Male,Attending College/No Certificate or Degree,USA,White,48.0,37.0,50.0,50.0,45.0,5.0,8.0,CL2,CL2,CL2
+1149,35-44,Female,University Degree,USA,White,52.0,27.0,42.0,41.0,32.0,7.0,4.0,CL1,CL0,CL1
+1150,55-64,Female,Masters Degree,USA,Other,39.0,35.0,41.0,35.0,40.0,6.0,11.0,CL0,CL0,CL0
+1151,18-24,Male,Left School at 18,Other,White,41.0,34.0,45.0,42.0,27.0,6.0,10.0,CL0,CL0,CL0
+1152,18-24,Female,Masters Degree,UK,White,40.0,41.0,48.0,48.0,38.0,5.0,9.0,CL3,CL4,CL0
+1153,18-24,Male,Doctorate Degree,UK,White,27.0,51.0,56.0,53.0,38.0,4.0,10.0,CL0,CL4,CL0
+1154,18-24,Female,Attending College/No Certificate or Degree,UK,White,38.0,39.0,44.0,39.0,45.0,4.0,5.0,CL2,CL2,CL0
+1155,18-24,Male,Attending College/No Certificate or Degree,UK,White,42.0,52.0,57.0,46.0,39.0,8.0,9.0,CL3,CL6,CL0
+1156,45-54,Male,Professional Certificate/Diploma,Republic of Ireland,White,31.0,40.0,44.0,35.0,48.0,3.0,8.0,CL1,CL0,CL0
+1157,25-34,Female,University Degree,Canada,White,42.0,39.0,47.0,43.0,33.0,5.0,10.0,CL3,CL3,CL0
+1158,18-24,Male,Left School at 17,USA,Other,44.0,32.0,36.0,37.0,43.0,6.0,9.0,CL5,CL4,CL0
+1159,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,39.0,56.0,44.0,44.0,6.0,11.0,CL4,CL2,CL3
+1160,25-34,Female,Doctorate Degree,UK,White,34.0,33.0,48.0,49.0,54.0,3.0,5.0,CL0,CL0,CL0
+1161,25-34,Male,Left School at 17,Australia,White,32.0,42.0,46.0,44.0,45.0,5.0,7.0,CL4,CL3,CL0
+1162,25-34,Male,Attending College/No Certificate or Degree,USA,White,44.0,32.0,49.0,39.0,49.0,7.0,6.0,CL0,CL0,CL0
+1163,35-44,Male,University Degree,USA,White,32.0,36.0,52.0,48.0,28.0,9.0,11.0,CL3,CL2,CL0
+1164,25-34,Male,University Degree,USA,White,41.0,33.0,53.0,41.0,46.0,4.0,7.0,CL0,CL4,CL0
+1165,18-24,Male,Left School at 18,USA,White,44.0,38.0,55.0,38.0,34.0,7.0,9.0,CL0,CL0,CL0
+1166,45-54,Male,Professional Certificate/Diploma,USA,White,40.0,39.0,45.0,30.0,34.0,6.0,8.0,CL1,CL0,CL0
+1167,35-44,Female,University Degree,USA,White,25.0,48.0,55.0,51.0,44.0,3.0,6.0,CL2,CL2,CL1
+1168,35-44,Male,Attending College/No Certificate or Degree,USA,White,37.0,36.0,46.0,38.0,43.0,3.0,8.0,CL0,CL0,CL0
+1169,18-24,Male,Attending College/No Certificate or Degree,USA,White,33.0,41.0,39.0,47.0,48.0,7.0,8.0,CL3,CL3,CL4
+1170,18-24,Female,Attending College/No Certificate or Degree,USA,White,40.0,41.0,55.0,47.0,46.0,2.0,7.0,CL0,CL2,CL0
+1171,18-24,Male,Attending College/No Certificate or Degree,USA,Other,36.0,34.0,52.0,41.0,49.0,4.0,9.0,CL6,CL3,CL3
+1172,25-34,Male,Masters Degree,USA,White,39.0,34.0,46.0,37.0,49.0,9.0,11.0,CL0,CL0,CL0
+1173,18-24,Male,Attending College/No Certificate or Degree,USA,Other,23.0,40.0,40.0,48.0,40.0,4.0,9.0,CL0,CL4,CL0
+1174,18-24,Male,Attending College/No Certificate or Degree,Other,White,44.0,39.0,46.0,34.0,35.0,2.0,7.0,CL3,CL3,CL0
+1175,25-34,Female,Attending College/No Certificate or Degree,USA,White,31.0,42.0,47.0,53.0,43.0,8.0,8.0,CL1,CL1,CL0
+1176,25-34,Female,Masters Degree,USA,White,55.0,43.0,57.0,24.0,32.0,9.0,11.0,CL4,CL1,CL3
+1177,18-24,Male,Attending College/No Certificate or Degree,USA,White,28.0,38.0,42.0,48.0,40.0,4.0,3.0,CL0,CL0,CL0
+1178,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,28.0,48.0,39.0,40.0,3.0,8.0,CL0,CL2,CL0
+1179,25-34,Male,Attending College/No Certificate or Degree,Other,White,52.0,37.0,42.0,40.0,34.0,5.0,8.0,CL4,CL0,CL0
+1180,25-34,Female,Professional Certificate/Diploma,Australia,White,40.0,37.0,42.0,56.0,36.0,6.0,7.0,CL3,CL3,CL0
+1181,18-24,Male,University Degree,USA,White,31.0,47.0,52.0,41.0,53.0,3.0,6.0,CL0,CL4,CL0
+1182,45-54,Male,Left School at 16,USA,White,34.0,31.0,45.0,49.0,44.0,4.0,9.0,CL1,CL0,CL0
+1183,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,38.0,50.0,37.0,35.0,7.0,9.0,CL0,CL3,CL3
+1184,18-24,Male,Attending College/No Certificate or Degree,Other,White,26.0,44.0,48.0,47.0,36.0,9.0,8.0,CL0,CL3,CL0
+1185,25-34,Female,University Degree,UK,White,48.0,38.0,52.0,46.0,42.0,5.0,7.0,CL0,CL0,CL0
+1186,55-64,Female,Doctorate Degree,USA,White,32.0,43.0,49.0,40.0,42.0,4.0,7.0,CL2,CL2,CL1
+1187,18-24,Male,Attending College/No Certificate or Degree,Canada,White,25.0,49.0,49.0,39.0,42.0,8.0,8.0,CL6,CL4,CL0
+1188,18-24,Male,Masters Degree,USA,White,18.0,42.0,51.0,54.0,48.0,3.0,5.0,CL2,CL3,CL0
+1189,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,44.0,49.0,44.0,22.0,9.0,10.0,CL0,CL0,CL0
+1190,18-24,Male,Left School at 18,Canada,White,51.0,29.0,49.0,46.0,33.0,9.0,10.0,CL3,CL3,CL0
+1191,18-24,Male,Attending College/No Certificate or Degree,USA,White,14.0,47.0,53.0,53.0,38.0,5.0,8.0,CL0,CL3,CL0
+1192,35-44,Male,University Degree,USA,White,39.0,41.0,51.0,36.0,45.0,6.0,10.0,CL0,CL0,CL0
+1193,18-24,Male,Attending College/No Certificate or Degree,USA,White,45.0,37.0,46.0,40.0,29.0,7.0,8.0,CL0,CL5,CL0
+1194,18-24,Male,Attending College/No Certificate or Degree,USA,White,41.0,38.0,42.0,38.0,38.0,4.0,9.0,CL3,CL3,CL0
+1195,25-34,Male,University Degree,Canada,White,27.0,38.0,45.0,30.0,40.0,6.0,2.0,CL0,CL0,CL0
+1196,25-34,Male,Left School at 16,USA,White,32.0,21.0,41.0,43.0,44.0,2.0,4.0,CL2,CL2,CL0
+1197,18-24,Male,Attending College/No Certificate or Degree,USA,White,55.0,19.0,37.0,45.0,27.0,6.0,10.0,CL0,CL0,CL0
+1198,25-34,Female,University Degree,Other,White,37.0,28.0,49.0,49.0,29.0,4.0,4.0,CL0,CL0,CL0
+1199,18-24,Male,Attending College/No Certificate or Degree,USA,White,39.0,46.0,57.0,38.0,37.0,8.0,11.0,CL5,CL4,CL6
+1200,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,45.0,48.0,36.0,36.0,4.0,9.0,CL0,CL2,CL0
+1201,18-24,Male,Left School at 18,USA,Biracial - White/Asian,40.0,43.0,44.0,34.0,40.0,6.0,10.0,CL3,CL3,CL5
+1202,25-34,Male,Attending College/No Certificate or Degree,USA,White,44.0,30.0,49.0,36.0,33.0,5.0,9.0,CL3,CL2,CL0
+1203,18-24,Female,Left School at 18,UK,White,26.0,36.0,46.0,29.0,31.0,8.0,8.0,CL0,CL0,CL0
+1204,45-54,Male,University Degree,UK,White,31.0,50.0,55.0,52.0,50.0,4.0,6.0,CL0,CL0,CL0
+1205,18-24,Male,Professional Certificate/Diploma,USA,Other,37.0,40.0,51.0,28.0,51.0,7.0,11.0,CL3,CL0,CL4
+1206,18-24,Male,Attending College/No Certificate or Degree,Canada,Biracial - White/Black,22.0,33.0,50.0,36.0,39.0,6.0,8.0,CL0,CL3,CL0
+1207,45-54,Male,University Degree,Australia,White,26.0,44.0,43.0,36.0,47.0,7.0,9.0,CL3,CL4,CL0
+1208,18-24,Male,Attending College/No Certificate or Degree,Canada,White,23.0,47.0,50.0,39.0,36.0,7.0,8.0,CL0,CL0,CL0
+1209,18-24,Male,Attending College/No Certificate or Degree,Other,White,33.0,32.0,48.0,40.0,34.0,2.0,9.0,CL0,CL0,CL0
+1210,18-24,Female,Attending College/No Certificate or Degree,Canada,White,45.0,41.0,50.0,42.0,26.0,2.0,8.0,CL3,CL4,CL0
+1211,18-24,Male,Attending College/No Certificate or Degree,Australia,White,33.0,41.0,50.0,40.0,42.0,5.0,9.0,CL0,CL4,CL0
+1212,35-44,Female,Professional Certificate/Diploma,UK,White,43.0,43.0,36.0,37.0,43.0,8.0,9.0,CL0,CL0,CL0
+1213,25-34,Male,Professional Certificate/Diploma,USA,White,48.0,36.0,52.0,43.0,35.0,7.0,9.0,CL2,CL2,CL2
+1214,18-24,Male,Professional Certificate/Diploma,Canada,White,34.0,49.0,55.0,44.0,31.0,6.0,9.0,CL0,CL5,CL0
+1215,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,44.0,44.0,37.0,42.0,5.0,9.0,CL2,CL4,CL0
+1216,25-34,Female,Masters Degree,USA,White,39.0,48.0,45.0,38.0,34.0,5.0,5.0,CL4,CL3,CL0
+1217,18-24,Female,Attending College/No Certificate or Degree,Other,White,24.0,41.0,51.0,35.0,30.0,3.0,9.0,CL0,CL0,CL0
+1218,18-24,Female,Professional Certificate/Diploma,USA,White,46.0,46.0,48.0,32.0,35.0,7.0,8.0,CL3,CL3,CL2
+1219,18-24,Female,Left School at 18,USA,White,46.0,38.0,47.0,33.0,37.0,7.0,10.0,CL4,CL6,CL0
+1220,18-24,Male,Attending College/No Certificate or Degree,USA,White,33.0,44.0,48.0,40.0,42.0,8.0,10.0,CL3,CL3,CL0
+1221,25-34,Male,Doctorate Degree,USA,White,31.0,22.0,30.0,42.0,41.0,4.0,3.0,CL0,CL0,CL0
+1222,18-24,Female,Attending College/No Certificate or Degree,USA,White,45.0,38.0,46.0,43.0,39.0,4.0,6.0,CL0,CL3,CL0
+1223,18-24,Male,University Degree,USA,White,42.0,49.0,50.0,44.0,48.0,5.0,11.0,CL4,CL3,CL0
+1224,25-34,Female,University Degree,USA,White,41.0,44.0,54.0,42.0,31.0,6.0,6.0,CL2,CL2,CL0
+1225,35-44,Male,Left School at 16,USA,White,47.0,36.0,47.0,47.0,30.0,2.0,6.0,CL2,CL3,CL1
+1226,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Black,26.0,52.0,54.0,44.0,46.0,6.0,8.0,CL0,CL0,CL0
+1227,18-24,Female,Left School at 18,USA,White,37.0,41.0,53.0,40.0,41.0,5.0,7.0,CL3,CL3,CL0
+1228,18-24,Female,University Degree,Other,Other,46.0,31.0,53.0,29.0,38.0,8.0,10.0,CL3,CL3,CL0
+1229,18-24,Female,Attending College/No Certificate or Degree,Other,White,51.0,37.0,49.0,47.0,45.0,5.0,7.0,CL0,CL0,CL0
+1230,18-24,Male,University Degree,UK,White,43.0,37.0,50.0,47.0,41.0,5.0,8.0,CL5,CL4,CL0
+1231,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,32.0,46.0,45.0,46.0,2.0,2.0,CL3,CL3,CL0
+1232,55-64,Male,Masters Degree,USA,White,37.0,44.0,50.0,41.0,46.0,4.0,4.0,CL1,CL1,CL0
+1233,45-54,Female,Masters Degree,UK,White,21.0,45.0,54.0,47.0,42.0,4.0,2.0,CL0,CL0,CL0
+1234,18-24,Male,University Degree,USA,White,36.0,45.0,52.0,40.0,50.0,5.0,5.0,CL0,CL0,CL0
+1235,25-34,Male,Left School at 18,USA,White,39.0,42.0,52.0,50.0,36.0,6.0,7.0,CL2,CL3,CL0
+1236,18-24,Female,University Degree,UK,White,35.0,41.0,49.0,34.0,45.0,6.0,9.0,CL0,CL0,CL0
+1237,45-54,Female,Attending College/No Certificate or Degree,UK,White,40.0,40.0,48.0,47.0,42.0,6.0,5.0,CL0,CL0,CL0
+1238,35-44,Female,University Degree,UK,White,46.0,30.0,43.0,42.0,35.0,4.0,5.0,CL0,CL0,CL0
+1239,25-34,Female,University Degree,UK,White,24.0,45.0,37.0,36.0,41.0,4.0,8.0,CL2,CL2,CL0
+1240,45-54,Female,University Degree,UK,White,27.0,26.0,36.0,52.0,48.0,2.0,5.0,CL0,CL0,CL0
+1241,25-34,Female,University Degree,UK,White,41.0,40.0,39.0,44.0,31.0,3.0,5.0,CL0,CL2,CL0
+1242,45-54,Female,University Degree,UK,White,24.0,51.0,46.0,44.0,54.0,2.0,4.0,CL0,CL0,CL0
+1243,45-54,Female,Professional Certificate/Diploma,UK,White,24.0,38.0,30.0,53.0,32.0,2.0,2.0,CL0,CL0,CL0
+1244,55-64,Male,University Degree,UK,White,37.0,36.0,40.0,40.0,32.0,6.0,7.0,CL0,CL0,CL0
+1245,45-54,Female,Professional Certificate/Diploma,UK,White,30.0,38.0,44.0,51.0,46.0,2.0,6.0,CL0,CL0,CL0
+1246,45-54,Female,Masters Degree,UK,White,31.0,39.0,55.0,43.0,48.0,9.0,9.0,CL0,CL0,CL0
+1247,35-44,Female,Masters Degree,UK,White,27.0,39.0,49.0,40.0,49.0,3.0,5.0,CL0,CL0,CL0
+1248,45-54,Female,Doctorate Degree,UK,Biracial - White/Asian,43.0,39.0,54.0,40.0,47.0,6.0,9.0,CL0,CL0,CL0
+1249,35-44,Female,Left School at 17,UK,White,39.0,28.0,32.0,36.0,31.0,2.0,1.0,CL0,CL0,CL0
+1250,35-44,Female,University Degree,UK,White,32.0,31.0,32.0,45.0,40.0,2.0,3.0,CL0,CL0,CL0
+1251,25-34,Female,University Degree,UK,Other,36.0,34.0,44.0,40.0,37.0,4.0,6.0,CL0,CL0,CL0
+1252,45-54,Female,University Degree,UK,White,49.0,35.0,48.0,52.0,43.0,2.0,5.0,CL0,CL0,CL0
+1253,35-44,Female,University Degree,UK,White,26.0,36.0,46.0,34.0,46.0,7.0,8.0,CL0,CL0,CL0
+1254,25-34,Female,Masters Degree,UK,White,50.0,31.0,41.0,37.0,42.0,3.0,5.0,CL0,CL0,CL0
+1255,25-34,Female,Doctorate Degree,UK,White,27.0,45.0,42.0,39.0,42.0,2.0,4.0,CL0,CL0,CL0
+1256,45-54,Female,Masters Degree,UK,White,32.0,34.0,43.0,35.0,41.0,9.0,8.0,CL0,CL0,CL0
+1257,45-54,Female,University Degree,UK,White,29.0,42.0,44.0,45.0,36.0,5.0,8.0,CL1,CL3,CL0
+1258,25-34,Female,Attending College/No Certificate or Degree,UK,White,50.0,36.0,53.0,50.0,36.0,9.0,7.0,CL0,CL0,CL0
+1259,25-34,Female,Professional Certificate/Diploma,UK,White,39.0,46.0,39.0,44.0,46.0,6.0,9.0,CL2,CL1,CL0
+1260,45-54,Female,University Degree,UK,White,36.0,39.0,41.0,45.0,46.0,3.0,6.0,CL0,CL0,CL0
+1261,25-34,Female,Professional Certificate/Diploma,UK,White,32.0,34.0,38.0,47.0,42.0,6.0,8.0,CL0,CL0,CL0
+1262,35-44,Female,Left School at 16,UK,White,28.0,40.0,38.0,41.0,44.0,5.0,6.0,CL0,CL0,CL0
+1263,25-34,Female,Masters Degree,UK,White,53.0,33.0,44.0,31.0,26.0,8.0,11.0,CL3,CL3,CL0
+1264,35-44,Female,Professional Certificate/Diploma,UK,White,37.0,32.0,43.0,47.0,44.0,2.0,1.0,CL0,CL0,CL0
+1265,35-44,Female,University Degree,UK,White,40.0,40.0,38.0,32.0,42.0,5.0,8.0,CL2,CL2,CL0
+1266,25-34,Female,Masters Degree,UK,White,35.0,37.0,43.0,54.0,44.0,2.0,5.0,CL0,CL0,CL0
+1267,25-34,Female,Professional Certificate/Diploma,UK,White,24.0,39.0,38.0,49.0,43.0,3.0,5.0,CL3,CL3,CL0
+1268,55-64,Female,University Degree,UK,White,34.0,39.0,47.0,48.0,38.0,7.0,3.0,CL0,CL0,CL0
+1269,35-44,Female,Attending College/No Certificate or Degree,Other,White,52.0,33.0,33.0,48.0,34.0,5.0,1.0,CL0,CL0,CL0
+1270,35-44,Male,Doctorate Degree,Other,White,52.0,39.0,52.0,36.0,39.0,4.0,6.0,CL0,CL0,CL0
+1271,35-44,Female,Masters Degree,UK,White,26.0,41.0,49.0,41.0,46.0,4.0,6.0,CL1,CL1,CL0
+1272,45-54,Female,Professional Certificate/Diploma,UK,White,21.0,35.0,34.0,44.0,53.0,3.0,7.0,CL2,CL5,CL0
+1273,18-24,Male,Attending College/No Certificate or Degree,USA,White,31.0,47.0,50.0,39.0,33.0,6.0,10.0,CL0,CL3,CL0
+1274,25-34,Female,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,35.0,49.0,58.0,37.0,38.0,8.0,10.0,CL2,CL0,CL2
+1275,35-44,Female,Professional Certificate/Diploma,USA,White,25.0,38.0,51.0,49.0,49.0,2.0,7.0,CL2,CL1,CL1
+1276,18-24,Female,University Degree,UK,Asian,42.0,41.0,38.0,45.0,38.0,6.0,5.0,CL0,CL0,CL0
+1277,18-24,Male,University Degree,UK,Asian,44.0,44.0,40.0,28.0,48.0,9.0,11.0,CL0,CL0,CL0
+1278,18-24,Male,Attending College/No Certificate or Degree,USA,White,24.0,51.0,48.0,50.0,45.0,4.0,6.0,CL0,CL3,CL0
+1279,18-24,Female,Attending College/No Certificate or Degree,UK,Other,23.0,40.0,47.0,44.0,40.0,3.0,7.0,CL3,CL3,CL0
+1280,18-24,Female,Attending College/No Certificate or Degree,USA,White,44.0,25.0,49.0,35.0,27.0,9.0,10.0,CL4,CL0,CL0
+1281,18-24,Male,Attending College/No Certificate or Degree,USA,White,54.0,33.0,46.0,35.0,32.0,3.0,3.0,CL4,CL6,CL0
+1282,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Black,20.0,52.0,60.0,48.0,44.0,8.0,10.0,CL4,CL3,CL4
+1283,18-24,Male,Attending College/No Certificate or Degree,USA,White,43.0,43.0,41.0,33.0,38.0,9.0,9.0,CL2,CL2,CL2
+1284,35-44,Female,University Degree,USA,White,30.0,43.0,58.0,40.0,41.0,7.0,10.0,CL1,CL1,CL1
+1285,18-24,Female,Attending College/No Certificate or Degree,USA,White,35.0,46.0,46.0,36.0,39.0,4.0,8.0,CL0,CL5,CL0
+1286,18-24,Male,Masters Degree,UK,White,31.0,42.0,52.0,42.0,47.0,4.0,7.0,CL3,CL4,CL0
+1287,18-24,Male,Attending College/No Certificate or Degree,Other,Other,47.0,28.0,46.0,36.0,34.0,5.0,9.0,CL4,CL3,CL0
+1288,25-34,Male,Professional Certificate/Diploma,UK,White,33.0,45.0,48.0,41.0,43.0,9.0,10.0,CL6,CL5,CL0
+1289,25-34,Male,Attending College/No Certificate or Degree,USA,White,53.0,32.0,49.0,32.0,32.0,8.0,10.0,CL3,CL3,CL2
+1290,25-34,Female,Masters Degree,USA,White,43.0,53.0,54.0,38.0,51.0,7.0,11.0,CL4,CL4,CL0
+1291,18-24,Female,Attending College/No Certificate or Degree,USA,White,53.0,23.0,51.0,38.0,34.0,4.0,5.0,CL0,CL3,CL0
+1292,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,36.0,54.0,48.0,33.0,3.0,9.0,CL0,CL0,CL0
+1293,18-24,Female,Attending College/No Certificate or Degree,USA,White,32.0,43.0,45.0,37.0,50.0,4.0,7.0,CL0,CL0,CL0
+1294,18-24,Male,Attending College/No Certificate or Degree,USA,Other,32.0,40.0,50.0,42.0,38.0,5.0,10.0,CL3,CL3,CL3
+1295,35-44,Female,University Degree,USA,White,19.0,43.0,50.0,34.0,38.0,6.0,7.0,CL3,CL1,CL0
+1296,25-34,Male,Attending College/No Certificate or Degree,USA,White,45.0,39.0,56.0,44.0,44.0,6.0,10.0,CL2,CL2,CL0
+1297,35-44,Female,Attending College/No Certificate or Degree,USA,White,30.0,33.0,55.0,45.0,37.0,4.0,7.0,CL2,CL3,CL2
+1298,18-24,Female,Attending College/No Certificate or Degree,USA,White,38.0,48.0,47.0,49.0,49.0,5.0,4.0,CL0,CL0,CL0
+1299,18-24,Male,University Degree,USA,White,29.0,49.0,55.0,52.0,49.0,2.0,7.0,CL0,CL2,CL0
+1300,35-44,Male,University Degree,Australia,White,35.0,36.0,39.0,39.0,45.0,2.0,1.0,CL4,CL4,CL0
+1301,18-24,Female,Attending College/No Certificate or Degree,USA,White,31.0,45.0,56.0,49.0,31.0,8.0,8.0,CL0,CL4,CL0
+1302,18-24,Male,Attending College/No Certificate or Degree,Australia,White,58.0,22.0,53.0,43.0,23.0,5.0,4.0,CL0,CL3,CL0
+1303,25-34,Male,Attending College/No Certificate or Degree,USA,White,32.0,44.0,57.0,39.0,44.0,5.0,9.0,CL0,CL0,CL0
+1304,25-34,Male,Masters Degree,UK,White,27.0,31.0,45.0,38.0,43.0,4.0,6.0,CL0,CL0,CL0
+1305,25-34,Female,University Degree,Other,Other,32.0,43.0,47.0,46.0,42.0,6.0,8.0,CL4,CL0,CL0
+1306,25-34,Female,Masters Degree,Republic of Ireland,White,23.0,56.0,51.0,56.0,44.0,6.0,11.0,CL0,CL0,CL0
+1307,18-24,Male,Left School at 16,Other,White,41.0,34.0,39.0,38.0,40.0,6.0,8.0,CL1,CL2,CL0
+1308,18-24,Female,Attending College/No Certificate or Degree,UK,White,33.0,42.0,48.0,46.0,47.0,4.0,7.0,CL0,CL0,CL0
+1309,35-44,Female,Masters Degree,USA,White,26.0,52.0,52.0,40.0,53.0,3.0,7.0,CL0,CL2,CL0
+1310,18-24,Female,Attending College/No Certificate or Degree,USA,White,24.0,54.0,29.0,33.0,31.0,9.0,10.0,CL3,CL6,CL0
+1311,35-44,Male,University Degree,USA,White,27.0,46.0,50.0,49.0,49.0,6.0,10.0,CL2,CL1,CL0
+1312,18-24,Male,University Degree,Other,White,20.0,47.0,51.0,41.0,50.0,4.0,8.0,CL0,CL0,CL0
+1313,25-34,Male,Professional Certificate/Diploma,USA,White,27.0,39.0,51.0,31.0,39.0,4.0,6.0,CL3,CL2,CL0
+1314,25-34,Female,University Degree,UK,White,36.0,45.0,34.0,34.0,46.0,3.0,5.0,CL0,CL0,CL0
+1315,18-24,Female,Attending College/No Certificate or Degree,USA,Asian,40.0,31.0,43.0,49.0,41.0,7.0,10.0,CL4,CL5,CL0
+1316,35-44,Male,University Degree,USA,White,29.0,38.0,44.0,42.0,50.0,4.0,7.0,CL2,CL2,CL0
+1317,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,46.0,45.0,41.0,40.0,8.0,9.0,CL0,CL3,CL0
+1318,18-24,Female,Attending College/No Certificate or Degree,USA,Other,31.0,45.0,58.0,48.0,40.0,2.0,4.0,CL3,CL4,CL0
+1319,18-24,Female,University Degree,Other,White,38.0,42.0,59.0,46.0,29.0,5.0,6.0,CL0,CL0,CL0
+1320,35-44,Male,Attending College/No Certificate or Degree,USA,White,46.0,30.0,45.0,45.0,51.0,3.0,4.0,CL2,CL1,CL2
+1321,18-24,Female,Attending College/No Certificate or Degree,USA,White,40.0,36.0,53.0,46.0,34.0,5.0,5.0,CL4,CL3,CL0
+1322,18-24,Male,Professional Certificate/Diploma,Australia,White,42.0,26.0,48.0,44.0,38.0,3.0,10.0,CL0,CL3,CL0
+1323,18-24,Male,Professional Certificate/Diploma,Canada,White,27.0,42.0,55.0,41.0,39.0,8.0,11.0,CL2,CL2,CL0
+1324,18-24,Male,Attending College/No Certificate or Degree,USA,White,24.0,38.0,47.0,51.0,49.0,5.0,6.0,CL0,CL0,CL0
+1325,18-24,Female,University Degree,USA,White,29.0,45.0,53.0,54.0,44.0,4.0,6.0,CL4,CL4,CL3
+1326,25-34,Female,University Degree,UK,White,53.0,34.0,54.0,32.0,33.0,7.0,8.0,CL0,CL0,CL0
+1327,18-24,Male,University Degree,USA,Biracial - White/Asian,50.0,39.0,46.0,54.0,33.0,6.0,8.0,CL3,CL4,CL3
+1328,35-44,Male,University Degree,USA,White,48.0,32.0,52.0,44.0,37.0,3.0,8.0,CL2,CL0,CL0
+1329,18-24,Female,Professional Certificate/Diploma,Canada,White,53.0,30.0,33.0,37.0,55.0,2.0,3.0,CL4,CL4,CL0
+1330,18-24,Male,University Degree,USA,White,40.0,38.0,49.0,37.0,44.0,6.0,8.0,CL3,CL4,CL3
+1331,25-34,Male,Attending College/No Certificate or Degree,Other,White,15.0,42.0,51.0,57.0,42.0,8.0,9.0,CL0,CL0,CL0
+1332,45-54,Male,University Degree,USA,White,48.0,31.0,49.0,37.0,42.0,3.0,7.0,CL1,CL0,CL0
+1333,18-24,Female,University Degree,UK,White,36.0,50.0,41.0,48.0,50.0,5.0,5.0,CL0,CL0,CL0
+1334,18-24,Female,University Degree,UK,Black,37.0,40.0,43.0,38.0,47.0,5.0,6.0,CL0,CL0,CL0
+1335,35-44,Male,Professional Certificate/Diploma,Canada,White,37.0,43.0,48.0,39.0,47.0,6.0,8.0,CL3,CL3,CL1
+1336,18-24,Male,Professional Certificate/Diploma,USA,White,52.0,26.0,44.0,40.0,21.0,8.0,10.0,CL3,CL2,CL6
+1337,18-24,Male,Left School at 18,USA,Other,30.0,59.0,58.0,39.0,48.0,9.0,10.0,CL3,CL2,CL5
+1338,35-44,Male,Left School at 18,USA,Black,43.0,30.0,39.0,41.0,38.0,3.0,8.0,CL4,CL0,CL4
+1339,35-44,Female,Doctorate Degree,Other,White,32.0,37.0,54.0,44.0,30.0,6.0,8.0,CL0,CL1,CL0
+1340,18-24,Male,Professional Certificate/Diploma,UK,White,38.0,44.0,33.0,36.0,35.0,7.0,8.0,CL3,CL3,CL0
+1341,18-24,Male,Left School at 18,Canada,White,49.0,31.0,38.0,26.0,48.0,2.0,6.0,CL6,CL2,CL0
+1342,18-24,Male,Left School at 18,Other,White,44.0,47.0,56.0,51.0,44.0,7.0,10.0,CL2,CL0,CL0
+1343,45-54,Male,Attending College/No Certificate or Degree,USA,White,44.0,39.0,49.0,42.0,43.0,5.0,6.0,CL1,CL0,CL0
+1344,18-24,Male,University Degree,USA,White,43.0,27.0,52.0,40.0,26.0,4.0,8.0,CL3,CL4,CL0
+1345,18-24,Female,Left School at 18,USA,White,47.0,33.0,44.0,45.0,39.0,4.0,5.0,CL2,CL0,CL3
+1346,18-24,Female,Attending College/No Certificate or Degree,UK,White,26.0,55.0,48.0,35.0,32.0,9.0,9.0,CL5,CL3,CL0
+1347,18-24,Female,Attending College/No Certificate or Degree,USA,White,19.0,33.0,47.0,43.0,37.0,5.0,8.0,CL0,CL0,CL0
+1348,18-24,Female,University Degree,UK,White,40.0,36.0,39.0,42.0,51.0,2.0,1.0,CL0,CL0,CL0
+1349,55-64,Male,University Degree,USA,White,52.0,24.0,38.0,35.0,40.0,7.0,4.0,CL1,CL0,CL0
+1350,18-24,Female,Left School at 18,USA,White,30.0,44.0,54.0,48.0,43.0,5.0,7.0,CL3,CL2,CL0
+1351,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,33.0,55.0,42.0,32.0,7.0,8.0,CL2,CL3,CL3
+1352,18-24,Male,University Degree,USA,White,34.0,42.0,50.0,49.0,42.0,8.0,9.0,CL3,CL3,CL0
+1353,25-34,Male,Attending College/No Certificate or Degree,Other,White,21.0,44.0,50.0,43.0,46.0,7.0,8.0,CL0,CL4,CL0
+1354,18-24,Male,Professional Certificate/Diploma,Canada,White,40.0,41.0,44.0,37.0,45.0,7.0,8.0,CL0,CL3,CL0
+1355,18-24,Male,Attending College/No Certificate or Degree,USA,White,23.0,37.0,52.0,40.0,31.0,7.0,8.0,CL0,CL4,CL0
+1356,18-24,Male,Attending College/No Certificate or Degree,USA,White,31.0,28.0,49.0,36.0,43.0,4.0,6.0,CL2,CL3,CL4
+1357,18-24,Female,Attending College/No Certificate or Degree,Australia,White,41.0,46.0,56.0,43.0,50.0,6.0,7.0,CL0,CL4,CL0
+1358,18-24,Female,Attending College/No Certificate or Degree,Other,White,26.0,45.0,56.0,35.0,24.0,4.0,9.0,CL0,CL0,CL0
+1359,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,32.0,50.0,48.0,33.0,7.0,5.0,CL4,CL4,CL4
+1360,25-34,Female,Masters Degree,UK,White,39.0,36.0,47.0,47.0,54.0,4.0,7.0,CL0,CL0,CL0
+1361,18-24,Male,Attending College/No Certificate or Degree,UK,White,44.0,44.0,40.0,36.0,31.0,8.0,9.0,CL1,CL5,CL0
+1362,35-44,Female,University Degree,USA,White,35.0,33.0,48.0,50.0,35.0,7.0,6.0,CL0,CL0,CL0
+1363,18-24,Female,Left School at 16,Canada,White,37.0,38.0,46.0,31.0,25.0,8.0,8.0,CL0,CL0,CL0
+1364,18-24,Male,Left School at 18,USA,White,38.0,27.0,49.0,46.0,31.0,2.0,4.0,CL0,CL3,CL0
+1365,18-24,Female,Attending College/No Certificate or Degree,USA,White,50.0,44.0,53.0,33.0,33.0,7.0,9.0,CL0,CL3,CL4
+1366,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,50.0,53.0,46.0,40.0,6.0,10.0,CL4,CL4,CL3
+1367,25-34,Female,Professional Certificate/Diploma,USA,White,57.0,41.0,47.0,35.0,30.0,9.0,11.0,CL3,CL2,CL3
+1368,25-34,Female,Masters Degree,UK,White,30.0,37.0,35.0,48.0,38.0,2.0,1.0,CL0,CL0,CL0
+1369,18-24,Male,Attending College/No Certificate or Degree,USA,White,48.0,41.0,50.0,41.0,32.0,2.0,6.0,CL3,CL3,CL0
+1370,25-34,Male,University Degree,Canada,White,47.0,41.0,44.0,46.0,36.0,6.0,9.0,CL4,CL4,CL3
+1371,45-54,Male,University Degree,UK,Other,30.0,36.0,46.0,42.0,41.0,2.0,3.0,CL0,CL0,CL0
+1372,18-24,Male,Left School at 18,UK,White,26.0,51.0,48.0,48.0,34.0,5.0,10.0,CL0,CL4,CL0
+1373,35-44,Male,University Degree,Other,White,50.0,36.0,52.0,32.0,39.0,4.0,9.0,CL2,CL2,CL2
+1374,25-34,Female,Masters Degree,UK,White,42.0,42.0,43.0,52.0,48.0,2.0,5.0,CL0,CL0,CL0
+1375,25-34,Female,Masters Degree,Canada,Biracial - White/Asian,50.0,33.0,51.0,43.0,54.0,4.0,3.0,CL4,CL3,CL0
+1376,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,43.0,56.0,42.0,44.0,7.0,10.0,CL3,CL5,CL0
+1377,25-34,Female,University Degree,UK,White,25.0,45.0,39.0,40.0,46.0,3.0,3.0,CL0,CL0,CL0
+1378,18-24,Male,Attending College/No Certificate or Degree,USA,White,26.0,43.0,53.0,54.0,50.0,4.0,10.0,CL0,CL3,CL0
+1379,18-24,Male,Attending College/No Certificate or Degree,Other,White,24.0,38.0,52.0,50.0,34.0,3.0,6.0,CL2,CL0,CL0
+1380,18-24,Female,University Degree,USA,White,29.0,42.0,49.0,48.0,43.0,8.0,11.0,CL0,CL3,CL0
+1381,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,48.0,55.0,39.0,51.0,4.0,10.0,CL0,CL4,CL0
+1382,18-24,Female,Attending College/No Certificate or Degree,UK,White,33.0,37.0,44.0,43.0,46.0,2.0,3.0,CL0,CL0,CL0
+1383,45-54,Female,Attending College/No Certificate or Degree,UK,White,35.0,33.0,53.0,39.0,40.0,5.0,7.0,CL2,CL4,CL2
+1384,25-34,Female,Doctorate Degree,USA,White,41.0,42.0,56.0,39.0,37.0,4.0,5.0,CL0,CL0,CL0
+1385,35-44,Female,Professional Certificate/Diploma,UK,White,42.0,43.0,49.0,39.0,35.0,8.0,8.0,CL2,CL3,CL0
+1386,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,43.0,52.0,38.0,44.0,3.0,6.0,CL4,CL2,CL0
+1387,18-24,Male,University Degree,USA,White,44.0,42.0,42.0,43.0,41.0,8.0,8.0,CL3,CL0,CL0
+1388,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,31.0,53.0,57.0,39.0,32.0,9.0,11.0,CL2,CL3,CL2
+1389,45-54,Male,Professional Certificate/Diploma,UK,White,32.0,41.0,41.0,40.0,43.0,2.0,2.0,CL0,CL0,CL0
+1390,25-34,Female,Masters Degree,UK,White,49.0,42.0,45.0,43.0,45.0,3.0,4.0,CL3,CL3,CL0
+1391,25-34,Female,Masters Degree,UK,White,43.0,40.0,47.0,48.0,51.0,2.0,5.0,CL0,CL0,CL0
+1392,25-34,Female,University Degree,UK,White,40.0,39.0,46.0,48.0,46.0,4.0,5.0,CL0,CL1,CL0
+1393,25-34,Female,Masters Degree,UK,White,52.0,37.0,37.0,52.0,35.0,2.0,2.0,CL0,CL0,CL0
+1394,18-24,Female,University Degree,UK,White,30.0,43.0,52.0,53.0,46.0,4.0,8.0,CL3,CL2,CL0
+1395,18-24,Male,Attending College/No Certificate or Degree,UK,White,28.0,47.0,46.0,51.0,54.0,7.0,8.0,CL2,CL2,CL0
+1396,25-34,Female,University Degree,UK,White,44.0,34.0,42.0,40.0,40.0,3.0,5.0,CL0,CL0,CL0
+1397,25-34,Female,Masters Degree,UK,White,46.0,46.0,39.0,39.0,41.0,2.0,3.0,CL2,CL0,CL0
+1398,25-34,Female,University Degree,UK,White,42.0,41.0,47.0,51.0,45.0,3.0,3.0,CL0,CL0,CL0
+1399,25-34,Female,University Degree,UK,White,45.0,40.0,52.0,49.0,38.0,2.0,7.0,CL2,CL0,CL0
+1400,25-34,Female,University Degree,UK,White,40.0,40.0,38.0,44.0,46.0,2.0,4.0,CL0,CL0,CL0
+1401,18-24,Female,University Degree,UK,White,16.0,41.0,33.0,58.0,35.0,1.0,4.0,CL0,CL0,CL0
+1402,25-34,Female,Doctorate Degree,UK,Biracial - White/Black,51.0,48.0,50.0,45.0,36.0,6.0,3.0,CL5,CL4,CL0
+1403,25-34,Female,University Degree,UK,White,38.0,36.0,35.0,46.0,31.0,2.0,4.0,CL0,CL0,CL0
+1404,25-34,Female,Masters Degree,UK,White,28.0,45.0,54.0,51.0,45.0,5.0,10.0,CL0,CL5,CL0
+1405,25-34,Male,Masters Degree,UK,White,49.0,31.0,42.0,46.0,32.0,7.0,9.0,CL0,CL0,CL0
+1406,25-34,Female,Doctorate Degree,UK,White,18.0,33.0,41.0,44.0,38.0,3.0,9.0,CL2,CL2,CL0
+1407,25-34,Female,University Degree,UK,White,30.0,37.0,50.0,52.0,50.0,3.0,3.0,CL0,CL0,CL0
+1408,25-34,Female,University Degree,USA,White,40.0,38.0,55.0,41.0,51.0,4.0,8.0,CL0,CL0,CL0
+1409,25-34,Female,Masters Degree,UK,White,46.0,45.0,54.0,43.0,44.0,2.0,7.0,CL2,CL2,CL0
+1410,25-34,Female,University Degree,UK,White,46.0,35.0,44.0,38.0,47.0,3.0,4.0,CL0,CL0,CL0
+1411,25-34,Female,Doctorate Degree,UK,White,32.0,54.0,55.0,47.0,46.0,4.0,7.0,CL0,CL0,CL0
+1412,18-24,Male,Left School at 16,UK,White,53.0,30.0,45.0,31.0,29.0,7.0,9.0,CL5,CL4,CL0
+1413,18-24,Male,Attending College/No Certificate or Degree,Australia,White,25.0,32.0,40.0,45.0,44.0,2.0,5.0,CL0,CL0,CL0
+1414,18-24,Female,University Degree,UK,Asian,45.0,35.0,41.0,45.0,42.0,3.0,5.0,CL0,CL0,CL0
+1415,25-34,Female,Masters Degree,Republic of Ireland,White,34.0,38.0,37.0,54.0,40.0,2.0,3.0,CL0,CL0,CL0
+1416,18-24,Male,Attending College/No Certificate or Degree,USA,White,32.0,45.0,55.0,47.0,42.0,5.0,10.0,CL4,CL2,CL0
+1417,25-34,Male,Attending College/No Certificate or Degree,USA,White,44.0,37.0,50.0,38.0,38.0,7.0,10.0,CL0,CL4,CL0
+1418,25-34,Male,Attending College/No Certificate or Degree,USA,White,34.0,43.0,51.0,39.0,44.0,4.0,10.0,CL6,CL4,CL0
+1419,45-54,Male,Left School before 16,Republic of Ireland,White,35.0,33.0,46.0,50.0,34.0,5.0,10.0,CL3,CL2,CL0
+1420,18-24,Male,University Degree,USA,White,28.0,51.0,56.0,46.0,40.0,5.0,8.0,CL3,CL4,CL2
+1421,25-34,Male,Attending College/No Certificate or Degree,UK,White,42.0,36.0,44.0,40.0,33.0,8.0,9.0,CL0,CL0,CL0
+1422,25-34,Female,University Degree,USA,White,33.0,44.0,54.0,48.0,46.0,5.0,10.0,CL3,CL5,CL3
+1423,35-44,Male,Professional Certificate/Diploma,UK,Black,39.0,42.0,45.0,42.0,42.0,8.0,8.0,CL0,CL0,CL0
+1424,18-24,Female,Professional Certificate/Diploma,UK,Other,36.0,40.0,45.0,45.0,53.0,7.0,8.0,CL0,CL0,CL0
+1425,18-24,Male,Attending College/No Certificate or Degree,USA,White,27.0,51.0,50.0,34.0,49.0,6.0,10.0,CL3,CL0,CL0
+1426,18-24,Female,Attending College/No Certificate or Degree,USA,White,43.0,38.0,41.0,46.0,35.0,4.0,6.0,CL0,CL0,CL0
+1427,18-24,Male,Attending College/No Certificate or Degree,USA,White,33.0,49.0,55.0,39.0,41.0,7.0,10.0,CL0,CL0,CL0
+1428,18-24,Female,Attending College/No Certificate or Degree,USA,White,48.0,47.0,42.0,28.0,37.0,9.0,8.0,CL3,CL2,CL0
+1429,45-54,Female,Doctorate Degree,UK,White,26.0,31.0,41.0,40.0,46.0,3.0,2.0,CL1,CL1,CL0
+1430,25-34,Female,Masters Degree,UK,Biracial - White/Black,39.0,33.0,42.0,58.0,51.0,2.0,3.0,CL0,CL0,CL0
+1431,25-34,Female,Masters Degree,UK,White,40.0,30.0,38.0,47.0,44.0,2.0,1.0,CL0,CL0,CL0
+1432,55-64,Female,Masters Degree,UK,White,28.0,40.0,47.0,45.0,47.0,6.0,5.0,CL1,CL0,CL0
+1433,55-64,Female,Professional Certificate/Diploma,UK,White,28.0,36.0,48.0,45.0,33.0,9.0,8.0,CL0,CL0,CL0
+1434,18-24,Male,Left School at 16,USA,White,48.0,37.0,48.0,46.0,41.0,3.0,10.0,CL2,CL2,CL2
+1435,18-24,Male,Attending College/No Certificate or Degree,USA,White,20.0,47.0,51.0,37.0,49.0,3.0,7.0,CL2,CL0,CL3
+1436,18-24,Male,Attending College/No Certificate or Degree,Other,White,29.0,44.0,46.0,35.0,36.0,4.0,9.0,CL0,CL3,CL0
+1437,35-44,Female,Masters Degree,UK,White,34.0,40.0,40.0,48.0,45.0,2.0,3.0,CL0,CL0,CL0
+1438,45-54,Female,Masters Degree,UK,White,25.0,39.0,47.0,52.0,50.0,3.0,3.0,CL0,CL0,CL0
+1439,25-34,Female,Masters Degree,UK,White,46.0,33.0,41.0,51.0,48.0,2.0,2.0,CL0,CL0,CL0
+1440,35-44,Female,Doctorate Degree,UK,White,31.0,46.0,51.0,49.0,46.0,3.0,3.0,CL1,CL1,CL0
+1441,35-44,Female,Masters Degree,UK,White,29.0,37.0,38.0,54.0,48.0,3.0,4.0,CL0,CL0,CL0
+1442,45-54,Female,Masters Degree,UK,White,23.0,41.0,48.0,49.0,49.0,2.0,3.0,CL0,CL0,CL0
+1443,25-34,Female,Masters Degree,UK,White,29.0,46.0,48.0,50.0,54.0,5.0,4.0,CL0,CL0,CL0
+1444,25-34,Female,Masters Degree,UK,White,36.0,44.0,38.0,39.0,53.0,4.0,7.0,CL0,CL0,CL0
+1445,25-34,Female,University Degree,USA,Black,25.0,49.0,50.0,51.0,52.0,6.0,9.0,CL0,CL0,CL0
+1446,18-24,Female,Masters Degree,UK,Asian,30.0,41.0,40.0,47.0,47.0,4.0,6.0,CL0,CL0,CL0
+1447,25-34,Female,Masters Degree,UK,White,26.0,47.0,52.0,36.0,51.0,4.0,5.0,CL3,CL2,CL0
+1448,25-34,Female,Doctorate Degree,UK,White,26.0,36.0,46.0,50.0,53.0,2.0,6.0,CL0,CL0,CL0
+1449,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,37.0,58.0,30.0,55.0,8.0,11.0,CL3,CL2,CL3
+1450,18-24,Female,University Degree,UK,White,39.0,41.0,35.0,46.0,49.0,2.0,3.0,CL0,CL0,CL0
+1451,25-34,Female,Doctorate Degree,UK,White,31.0,40.0,45.0,48.0,47.0,3.0,5.0,CL0,CL0,CL0
+1452,18-24,Male,Professional Certificate/Diploma,USA,White,43.0,35.0,55.0,55.0,39.0,3.0,11.0,CL4,CL4,CL0
+1453,45-54,Female,Masters Degree,UK,White,19.0,44.0,47.0,52.0,52.0,3.0,4.0,CL0,CL0,CL0
+1454,25-34,Female,Doctorate Degree,UK,White,41.0,32.0,43.0,54.0,45.0,2.0,8.0,CL0,CL0,CL0
+1455,25-34,Female,University Degree,UK,White,24.0,36.0,45.0,46.0,49.0,3.0,5.0,CL0,CL0,CL0
+1456,18-24,Female,University Degree,UK,White,27.0,45.0,46.0,50.0,37.0,4.0,4.0,CL3,CL3,CL0
+1457,35-44,Female,Doctorate Degree,UK,White,19.0,50.0,47.0,44.0,47.0,5.0,4.0,CL2,CL1,CL0
+1458,55-64,Male,Masters Degree,UK,White,37.0,44.0,52.0,45.0,36.0,3.0,3.0,CL0,CL0,CL0
+1459,25-34,Male,Masters Degree,UK,White,37.0,41.0,43.0,46.0,43.0,3.0,8.0,CL3,CL2,CL0
+1460,18-24,Male,Attending College/No Certificate or Degree,USA,White,25.0,45.0,52.0,49.0,45.0,4.0,9.0,CL0,CL0,CL0
+1461,25-34,Male,Masters Degree,UK,White,14.0,48.0,42.0,48.0,38.0,6.0,7.0,CL1,CL1,CL0
+1462,25-34,Female,Attending College/No Certificate or Degree,USA,Biracial - Black/Asian,43.0,36.0,44.0,37.0,41.0,7.0,6.0,CL3,CL1,CL0
+1463,18-24,Female,University Degree,USA,White,30.0,42.0,51.0,42.0,46.0,2.0,5.0,CL3,CL4,CL0
+1464,55-64,Female,University Degree,USA,White,20.0,45.0,52.0,53.0,48.0,4.0,7.0,CL1,CL0,CL1
+1465,25-34,Female,Masters Degree,UK,White,34.0,34.0,37.0,51.0,43.0,2.0,5.0,CL0,CL0,CL0
+1466,18-24,Female,University Degree,UK,White,39.0,40.0,46.0,48.0,40.0,2.0,3.0,CL0,CL0,CL0
+1467,65+,Male,University Degree,UK,White,20.0,39.0,42.0,57.0,45.0,2.0,1.0,CL0,CL0,CL0
+1468,55-64,Male,Masters Degree,UK,White,28.0,38.0,48.0,45.0,51.0,4.0,4.0,CL2,CL2,CL0
+1469,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,43.0,45.0,36.0,43.0,3.0,10.0,CL0,CL0,CL0
+1470,25-34,Female,Masters Degree,USA,White,33.0,42.0,52.0,46.0,43.0,3.0,7.0,CL0,CL0,CL0
+1471,45-54,Male,Attending College/No Certificate or Degree,Canada,Other,46.0,35.0,40.0,35.0,47.0,9.0,10.0,CL2,CL4,CL0
+1472,25-34,Female,Attending College/No Certificate or Degree,USA,White,57.0,26.0,42.0,27.0,24.0,8.0,10.0,CL4,CL5,CL4
+1473,25-34,Male,Professional Certificate/Diploma,Canada,White,32.0,37.0,45.0,40.0,43.0,3.0,4.0,CL5,CL4,CL0
+1474,18-24,Male,Attending College/No Certificate or Degree,USA,White,40.0,35.0,46.0,41.0,32.0,2.0,8.0,CL0,CL0,CL0
+1475,18-24,Male,Attending College/No Certificate or Degree,USA,White,27.0,49.0,56.0,43.0,38.0,9.0,11.0,CL3,CL5,CL2
+1476,35-44,Female,Professional Certificate/Diploma,USA,White,35.0,36.0,31.0,43.0,40.0,3.0,4.0,CL0,CL0,CL0
+1477,25-34,Female,Attending College/No Certificate or Degree,USA,Other,49.0,42.0,51.0,49.0,43.0,3.0,7.0,CL2,CL3,CL2
+1478,45-54,Female,University Degree,USA,White,51.0,22.0,47.0,43.0,26.0,7.0,1.0,CL1,CL1,CL1
+1479,45-54,Female,Doctorate Degree,UK,White,27.0,40.0,47.0,44.0,47.0,4.0,6.0,CL0,CL0,CL0
+1480,25-34,Female,University Degree,UK,White,33.0,43.0,51.0,53.0,41.0,3.0,9.0,CL2,CL4,CL0
+1481,35-44,Male,Professional Certificate/Diploma,USA,White,41.0,32.0,43.0,44.0,33.0,7.0,4.0,CL2,CL0,CL2
+1482,25-34,Female,Doctorate Degree,UK,White,26.0,49.0,40.0,49.0,46.0,3.0,5.0,CL0,CL0,CL0
+1483,18-24,Male,Attending College/No Certificate or Degree,Other,White,25.0,47.0,54.0,32.0,37.0,6.0,10.0,CL0,CL3,CL0
+1484,25-34,Female,University Degree,UK,White,35.0,38.0,37.0,43.0,47.0,3.0,3.0,CL0,CL0,CL0
+1485,18-24,Male,University Degree,Australia,White,43.0,40.0,45.0,36.0,46.0,8.0,5.0,CL4,CL6,CL3
+1486,25-34,Female,Attending College/No Certificate or Degree,USA,White,31.0,37.0,45.0,31.0,32.0,9.0,11.0,CL2,CL2,CL0
+1487,25-34,Female,Doctorate Degree,UK,White,49.0,35.0,42.0,33.0,49.0,7.0,1.0,CL2,CL1,CL0
+1488,18-24,Female,Masters Degree,UK,White,35.0,47.0,36.0,40.0,36.0,7.0,10.0,CL4,CL4,CL0
+1489,18-24,Male,Attending College/No Certificate or Degree,USA,White,50.0,36.0,41.0,40.0,30.0,8.0,9.0,CL0,CL6,CL0
+1490,45-54,Male,Attending College/No Certificate or Degree,USA,White,34.0,38.0,50.0,44.0,40.0,8.0,10.0,CL2,CL2,CL0
+1491,18-24,Male,Attending College/No Certificate or Degree,USA,White,55.0,33.0,43.0,41.0,29.0,8.0,7.0,CL4,CL3,CL0
+1492,18-24,Male,Attending College/No Certificate or Degree,UK,White,45.0,16.0,43.0,33.0,28.0,9.0,9.0,CL4,CL5,CL0
+1493,18-24,Male,Attending College/No Certificate or Degree,UK,White,28.0,33.0,46.0,39.0,39.0,3.0,7.0,CL0,CL0,CL0
+1494,25-34,Male,Masters Degree,Other,White,25.0,41.0,48.0,37.0,35.0,5.0,10.0,CL5,CL5,CL0
+1495,45-54,Female,Left School before 16,USA,White,42.0,39.0,43.0,40.0,34.0,5.0,5.0,CL2,CL0,CL0
+1496,45-54,Male,University Degree,USA,White,26.0,46.0,49.0,43.0,46.0,7.0,10.0,CL0,CL0,CL0
+1497,25-34,Male,Doctorate Degree,USA,Other,32.0,43.0,46.0,39.0,42.0,6.0,10.0,CL3,CL3,CL3
+1498,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,41.0,50.0,29.0,42.0,9.0,6.0,CL0,CL0,CL0
+1499,18-24,Male,University Degree,USA,White,40.0,26.0,52.0,42.0,38.0,5.0,5.0,CL0,CL0,CL0
+1500,25-34,Male,University Degree,USA,White,31.0,43.0,55.0,41.0,39.0,5.0,9.0,CL2,CL5,CL2
+1501,18-24,Female,University Degree,USA,Biracial - White/Asian,31.0,40.0,44.0,44.0,38.0,8.0,10.0,CL4,CL4,CL0
+1502,35-44,Female,Professional Certificate/Diploma,USA,White,52.0,19.0,48.0,51.0,36.0,4.0,6.0,CL1,CL0,CL0
+1503,45-54,Female,Doctorate Degree,UK,White,36.0,50.0,53.0,47.0,54.0,4.0,5.0,CL1,CL0,CL0
+1504,18-24,Female,Left School at 16,UK,White,59.0,21.0,53.0,38.0,25.0,4.0,4.0,CL2,CL0,CL0
+1505,18-24,Female,University Degree,UK,White,46.0,35.0,52.0,31.0,39.0,5.0,8.0,CL0,CL3,CL0
+1506,25-34,Female,Professional Certificate/Diploma,USA,White,43.0,31.0,51.0,47.0,42.0,6.0,9.0,CL2,CL2,CL0
+1507,25-34,Male,Attending College/No Certificate or Degree,USA,White,45.0,24.0,45.0,40.0,35.0,2.0,4.0,CL0,CL0,CL0
+1508,18-24,Male,University Degree,USA,White,43.0,34.0,56.0,44.0,32.0,4.0,5.0,CL5,CL3,CL0
+1509,18-24,Male,Left School before 16,USA,White,56.0,35.0,48.0,39.0,41.0,2.0,4.0,CL0,CL3,CL0
+1510,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,34.0,36.0,40.0,39.0,38.0,4.0,1.0,CL2,CL2,CL0
+1511,25-34,Male,Left School at 18,USA,White,48.0,22.0,48.0,41.0,27.0,5.0,5.0,CL2,CL2,CL4
+1512,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,37.0,46.0,34.0,33.0,9.0,10.0,CL4,CL0,CL0
+1513,18-24,Male,Left School at 18,USA,White,28.0,52.0,56.0,36.0,39.0,9.0,11.0,CL0,CL4,CL0
+1514,45-54,Male,Doctorate Degree,USA,White,42.0,30.0,55.0,37.0,38.0,9.0,9.0,CL3,CL1,CL0
+1515,18-24,Male,Professional Certificate/Diploma,USA,White,36.0,28.0,57.0,37.0,43.0,5.0,8.0,CL0,CL0,CL0
+1517,18-24,Male,Attending College/No Certificate or Degree,Other,White,49.0,38.0,45.0,42.0,32.0,5.0,6.0,CL5,CL4,CL0
+1518,18-24,Male,Professional Certificate/Diploma,USA,White,49.0,28.0,53.0,37.0,31.0,8.0,9.0,CL2,CL4,CL0
+1519,25-34,Male,Professional Certificate/Diploma,USA,White,35.0,19.0,54.0,52.0,45.0,2.0,1.0,CL5,CL5,CL0
+1520,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,53.0,57.0,44.0,37.0,9.0,11.0,CL3,CL3,CL2
+1521,18-24,Male,Left School at 18,USA,White,51.0,23.0,54.0,46.0,31.0,6.0,8.0,CL0,CL2,CL0
+1522,18-24,Male,Left School at 16,Australia,White,44.0,48.0,48.0,35.0,35.0,7.0,11.0,CL0,CL0,CL0
+1523,18-24,Male,Left School at 18,USA,White,41.0,48.0,54.0,40.0,38.0,9.0,9.0,CL2,CL0,CL0
+1524,18-24,Male,Attending College/No Certificate or Degree,USA,White,45.0,40.0,53.0,35.0,30.0,8.0,8.0,CL0,CL0,CL0
+1525,18-24,Female,University Degree,UK,White,20.0,52.0,50.0,33.0,43.0,8.0,11.0,CL0,CL0,CL0
+1526,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,46.0,56.0,43.0,41.0,8.0,9.0,CL4,CL4,CL0
+1527,18-24,Male,Left School before 16,New Zealand,White,25.0,33.0,53.0,51.0,38.0,7.0,10.0,CL0,CL0,CL0
+1528,25-34,Female,University Degree,USA,Other,34.0,46.0,54.0,48.0,40.0,4.0,7.0,CL3,CL2,CL0
+1529,18-24,Male,Attending College/No Certificate or Degree,USA,White,46.0,27.0,50.0,42.0,22.0,7.0,6.0,CL3,CL4,CL2
+1530,18-24,Male,Attending College/No Certificate or Degree,USA,Other,27.0,48.0,43.0,39.0,42.0,7.0,10.0,CL0,CL0,CL0
+1531,25-34,Male,Left School at 18,Australia,White,36.0,42.0,39.0,45.0,37.0,3.0,9.0,CL3,CL4,CL0
+1532,35-44,Female,Attending College/No Certificate or Degree,Republic of Ireland,White,39.0,40.0,40.0,39.0,38.0,3.0,7.0,CL3,CL4,CL0
+1534,18-24,Female,Attending College/No Certificate or Degree,USA,White,37.0,33.0,38.0,46.0,33.0,3.0,9.0,CL3,CL3,CL0
+1535,18-24,Female,Attending College/No Certificate or Degree,USA,Other,36.0,51.0,42.0,40.0,55.0,7.0,11.0,CL0,CL0,CL0
+1536,18-24,Male,Attending College/No Certificate or Degree,USA,White,47.0,35.0,52.0,49.0,35.0,8.0,9.0,CL3,CL3,CL3
+1537,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,39.0,57.0,52.0,43.0,7.0,4.0,CL0,CL0,CL0
+1538,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,48.0,39.0,46.0,48.0,5.0,11.0,CL6,CL0,CL0
+1539,25-34,Male,Attending College/No Certificate or Degree,USA,White,44.0,18.0,48.0,34.0,26.0,7.0,9.0,CL2,CL2,CL5
+1540,18-24,Male,Attending College/No Certificate or Degree,UK,White,34.0,37.0,41.0,38.0,29.0,8.0,9.0,CL2,CL2,CL0
+1541,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,45.0,52.0,47.0,36.0,5.0,7.0,CL0,CL0,CL0
+1542,18-24,Female,Attending College/No Certificate or Degree,USA,White,46.0,33.0,52.0,44.0,41.0,3.0,8.0,CL0,CL0,CL0
+1543,18-24,Male,Left School at 18,USA,Other,33.0,26.0,48.0,39.0,33.0,6.0,8.0,CL0,CL4,CL0
+1544,18-24,Female,Attending College/No Certificate or Degree,USA,White,50.0,41.0,52.0,43.0,46.0,6.0,9.0,CL0,CL3,CL0
+1545,25-34,Male,University Degree,UK,White,25.0,36.0,34.0,45.0,50.0,2.0,4.0,CL0,CL0,CL0
+1546,25-34,Female,Masters Degree,UK,White,29.0,33.0,50.0,45.0,50.0,3.0,4.0,CL0,CL0,CL0
+1547,25-34,Female,Professional Certificate/Diploma,UK,White,31.0,40.0,38.0,45.0,42.0,5.0,5.0,CL0,CL0,CL0
+1548,55-64,Female,Professional Certificate/Diploma,UK,White,40.0,29.0,33.0,37.0,39.0,2.0,1.0,CL0,CL0,CL0
+1549,45-54,Female,Attending College/No Certificate or Degree,UK,White,34.0,33.0,37.0,39.0,45.0,4.0,7.0,CL0,CL0,CL0
+1550,45-54,Female,Professional Certificate/Diploma,UK,White,30.0,36.0,37.0,49.0,48.0,2.0,1.0,CL0,CL0,CL0
+1551,18-24,Male,Attending College/No Certificate or Degree,UK,White,35.0,22.0,40.0,31.0,39.0,8.0,6.0,CL0,CL0,CL0
+1552,25-34,Male,Masters Degree,UK,White,22.0,47.0,46.0,43.0,51.0,5.0,7.0,CL0,CL0,CL0
+1553,18-24,Female,Masters Degree,UK,White,39.0,45.0,39.0,45.0,44.0,4.0,8.0,CL0,CL0,CL0
+1554,25-34,Female,Attending College/No Certificate or Degree,UK,White,24.0,50.0,42.0,53.0,49.0,5.0,6.0,CL0,CL0,CL0
+1555,55-64,Female,University Degree,UK,White,20.0,50.0,49.0,48.0,52.0,5.0,5.0,CL0,CL0,CL0
+1556,18-24,Female,University Degree,UK,Biracial - White/Black,27.0,39.0,40.0,38.0,50.0,3.0,6.0,CL0,CL0,CL0
+1557,25-34,Female,Masters Degree,UK,Asian,43.0,41.0,41.0,37.0,49.0,2.0,4.0,CL0,CL0,CL0
+1558,35-44,Female,University Degree,UK,White,42.0,29.0,44.0,45.0,41.0,3.0,1.0,CL0,CL0,CL0
+1559,45-54,Female,Left School before 16,UK,White,38.0,38.0,37.0,39.0,40.0,4.0,5.0,CL0,CL0,CL0
+1560,35-44,Male,Professional Certificate/Diploma,UK,White,43.0,29.0,40.0,42.0,33.0,7.0,7.0,CL1,CL3,CL0
+1561,35-44,Female,University Degree,UK,White,35.0,51.0,26.0,38.0,56.0,2.0,2.0,CL0,CL0,CL0
+1562,45-54,Female,Professional Certificate/Diploma,UK,White,31.0,38.0,36.0,52.0,54.0,3.0,5.0,CL1,CL0,CL0
+1563,35-44,Female,Professional Certificate/Diploma,UK,White,44.0,45.0,48.0,51.0,44.0,2.0,3.0,CL0,CL0,CL0
+1564,45-54,Female,Professional Certificate/Diploma,UK,White,57.0,20.0,44.0,37.0,36.0,3.0,2.0,CL0,CL0,CL0
+1565,35-44,Male,Masters Degree,UK,White,22.0,45.0,54.0,54.0,42.0,5.0,6.0,CL0,CL0,CL0
+1566,25-34,Male,University Degree,UK,White,35.0,43.0,38.0,38.0,40.0,2.0,4.0,CL0,CL0,CL0
+1567,25-34,Female,Masters Degree,UK,White,26.0,48.0,43.0,42.0,42.0,7.0,4.0,CL0,CL0,CL0
+1568,45-54,Male,Professional Certificate/Diploma,UK,White,28.0,37.0,46.0,54.0,47.0,3.0,5.0,CL0,CL0,CL0
+1569,18-24,Female,Attending College/No Certificate or Degree,UK,White,30.0,38.0,40.0,47.0,46.0,3.0,2.0,CL0,CL0,CL0
+1570,25-34,Female,Masters Degree,UK,White,39.0,40.0,44.0,47.0,45.0,5.0,9.0,CL0,CL0,CL0
+1571,45-54,Female,Professional Certificate/Diploma,UK,White,46.0,42.0,51.0,53.0,38.0,7.0,4.0,CL0,CL0,CL0
+1572,35-44,Female,University Degree,UK,White,35.0,46.0,38.0,49.0,52.0,2.0,1.0,CL0,CL0,CL0
+1573,35-44,Female,Attending College/No Certificate or Degree,UK,White,33.0,41.0,33.0,40.0,45.0,2.0,5.0,CL0,CL0,CL0
+1574,25-34,Female,Masters Degree,UK,White,33.0,45.0,42.0,52.0,48.0,5.0,4.0,CL0,CL0,CL0
+1575,45-54,Female,University Degree,UK,White,26.0,39.0,38.0,40.0,46.0,2.0,4.0,CL0,CL0,CL0
+1576,45-54,Female,Masters Degree,UK,White,40.0,37.0,55.0,51.0,47.0,4.0,5.0,CL0,CL0,CL0
+1577,35-44,Female,Left School at 16,UK,White,31.0,41.0,43.0,51.0,46.0,2.0,5.0,CL0,CL0,CL0
+1578,45-54,Female,Professional Certificate/Diploma,UK,White,42.0,29.0,29.0,37.0,43.0,2.0,1.0,CL0,CL0,CL0
+1579,35-44,Female,Masters Degree,UK,White,33.0,39.0,37.0,46.0,51.0,4.0,4.0,CL0,CL0,CL0
+1580,35-44,Male,Professional Certificate/Diploma,UK,White,39.0,31.0,46.0,48.0,43.0,3.0,4.0,CL0,CL0,CL0
+1581,35-44,Female,Masters Degree,UK,White,43.0,54.0,47.0,54.0,43.0,5.0,9.0,CL0,CL0,CL0
+1582,25-34,Female,University Degree,UK,White,37.0,47.0,47.0,42.0,46.0,7.0,8.0,CL4,CL3,CL0
+1583,35-44,Female,University Degree,UK,White,36.0,39.0,52.0,41.0,46.0,5.0,4.0,CL1,CL1,CL0
+1584,35-44,Female,Professional Certificate/Diploma,UK,White,32.0,45.0,34.0,39.0,45.0,4.0,6.0,CL0,CL0,CL0
+1585,35-44,Male,Left School at 16,UK,White,24.0,53.0,42.0,39.0,43.0,4.0,6.0,CL0,CL0,CL0
+1586,35-44,Male,Professional Certificate/Diploma,UK,White,19.0,49.0,46.0,45.0,48.0,6.0,7.0,CL0,CL0,CL0
+1587,35-44,Female,University Degree,UK,White,44.0,35.0,40.0,52.0,49.0,4.0,8.0,CL0,CL0,CL0
+1588,45-54,Female,Professional Certificate/Diploma,UK,White,19.0,45.0,39.0,58.0,49.0,2.0,1.0,CL0,CL0,CL0
+1589,45-54,Female,University Degree,UK,White,28.0,52.0,43.0,50.0,45.0,7.0,11.0,CL0,CL0,CL0
+1590,35-44,Female,Doctorate Degree,UK,White,36.0,45.0,48.0,43.0,41.0,4.0,5.0,CL0,CL0,CL0
+1591,25-34,Female,University Degree,UK,White,33.0,47.0,43.0,42.0,45.0,3.0,4.0,CL0,CL0,CL0
+1592,25-34,Female,University Degree,UK,White,30.0,51.0,52.0,43.0,40.0,8.0,9.0,CL0,CL0,CL0
+1593,55-64,Female,Attending College/No Certificate or Degree,UK,White,35.0,44.0,47.0,46.0,45.0,4.0,2.0,CL0,CL0,CL0
+1594,35-44,Female,University Degree,UK,White,29.0,42.0,39.0,47.0,43.0,3.0,4.0,CL0,CL0,CL0
+1595,25-34,Female,Masters Degree,UK,White,28.0,48.0,33.0,44.0,47.0,3.0,4.0,CL0,CL0,CL0
+1596,25-34,Female,Professional Certificate/Diploma,UK,White,25.0,47.0,36.0,45.0,42.0,3.0,4.0,CL0,CL0,CL0
+1597,25-34,Female,Professional Certificate/Diploma,UK,White,29.0,46.0,38.0,42.0,46.0,5.0,6.0,CL0,CL0,CL0
+1598,25-34,Male,Masters Degree,UK,White,37.0,44.0,47.0,37.0,52.0,3.0,2.0,CL0,CL0,CL0
+1599,55-64,Female,Masters Degree,UK,White,39.0,43.0,53.0,41.0,36.0,6.0,9.0,CL0,CL0,CL0
+1600,25-34,Female,University Degree,UK,White,35.0,56.0,57.0,49.0,35.0,9.0,10.0,CL0,CL0,CL0
+1601,45-54,Male,Left School at 16,UK,White,32.0,52.0,46.0,48.0,50.0,2.0,4.0,CL0,CL0,CL0
+1602,25-34,Female,University Degree,UK,Asian,33.0,53.0,30.0,37.0,41.0,8.0,6.0,CL0,CL0,CL0
+1603,35-44,Female,Professional Certificate/Diploma,UK,White,22.0,49.0,49.0,46.0,46.0,3.0,3.0,CL0,CL0,CL0
+1604,35-44,Female,Masters Degree,UK,White,28.0,42.0,46.0,42.0,49.0,4.0,6.0,CL0,CL0,CL0
+1605,25-34,Male,Attending College/No Certificate or Degree,USA,White,33.0,32.0,59.0,37.0,37.0,8.0,9.0,CL3,CL5,CL2
+1606,25-34,Female,University Degree,UK,White,34.0,32.0,34.0,49.0,47.0,3.0,1.0,CL0,CL0,CL0
+1607,45-54,Female,University Degree,UK,White,38.0,44.0,39.0,48.0,38.0,2.0,1.0,CL0,CL0,CL0
+1608,25-34,Female,University Degree,UK,White,32.0,37.0,36.0,50.0,48.0,2.0,2.0,CL0,CL0,CL0
+1609,35-44,Female,University Degree,UK,Biracial - White/Black,37.0,48.0,39.0,46.0,42.0,4.0,6.0,CL0,CL0,CL0
+1610,25-34,Male,Attending College/No Certificate or Degree,UK,White,15.0,54.0,48.0,33.0,46.0,7.0,10.0,CL3,CL4,CL0
+1611,35-44,Female,Doctorate Degree,UK,White,25.0,43.0,54.0,50.0,57.0,4.0,7.0,CL0,CL0,CL0
+1612,55-64,Male,Professional Certificate/Diploma,UK,White,42.0,29.0,35.0,48.0,39.0,5.0,6.0,CL0,CL0,CL0
+1613,25-34,Male,Masters Degree,UK,White,41.0,40.0,51.0,47.0,40.0,7.0,11.0,CL0,CL0,CL0
+1614,45-54,Male,Professional Certificate/Diploma,UK,White,39.0,41.0,38.0,47.0,46.0,6.0,5.0,CL0,CL0,CL0
+1615,25-34,Male,Attending College/No Certificate or Degree,USA,White,39.0,38.0,53.0,41.0,35.0,7.0,11.0,CL3,CL2,CL3
+1616,45-54,Male,Professional Certificate/Diploma,UK,White,37.0,40.0,43.0,39.0,47.0,4.0,8.0,CL0,CL0,CL0
+1617,25-34,Male,University Degree,UK,Black,49.0,38.0,39.0,41.0,40.0,5.0,5.0,CL0,CL0,CL0
+1618,35-44,Male,Professional Certificate/Diploma,UK,White,22.0,39.0,50.0,46.0,49.0,5.0,6.0,CL0,CL0,CL0
+1619,35-44,Male,University Degree,UK,White,41.0,34.0,37.0,47.0,35.0,5.0,3.0,CL0,CL0,CL0
+1620,45-54,Male,Masters Degree,UK,White,37.0,35.0,45.0,38.0,40.0,3.0,4.0,CL0,CL0,CL0
+1621,35-44,Male,Attending College/No Certificate or Degree,UK,White,28.0,43.0,46.0,44.0,43.0,4.0,7.0,CL2,CL2,CL0
+1622,35-44,Female,Professional Certificate/Diploma,UK,White,28.0,42.0,37.0,48.0,47.0,2.0,3.0,CL0,CL0,CL0
+1623,25-34,Female,Professional Certificate/Diploma,UK,White,23.0,44.0,36.0,47.0,46.0,2.0,3.0,CL0,CL0,CL0
+1624,25-34,Female,Masters Degree,UK,White,20.0,48.0,37.0,42.0,51.0,2.0,1.0,CL1,CL0,CL0
+1625,25-34,Female,Masters Degree,UK,White,42.0,40.0,46.0,48.0,42.0,2.0,5.0,CL0,CL0,CL0
+1626,45-54,Female,Professional Certificate/Diploma,UK,White,37.0,39.0,40.0,45.0,46.0,6.0,5.0,CL0,CL0,CL0
+1627,35-44,Female,University Degree,UK,White,34.0,43.0,52.0,36.0,34.0,5.0,8.0,CL0,CL0,CL0
+1628,35-44,Female,Professional Certificate/Diploma,UK,White,18.0,43.0,45.0,58.0,49.0,3.0,4.0,CL0,CL0,CL0
+1629,35-44,Male,Professional Certificate/Diploma,Canada,White,51.0,41.0,43.0,43.0,53.0,8.0,11.0,CL0,CL0,CL0
+1630,45-54,Female,Professional Certificate/Diploma,UK,Black,32.0,42.0,40.0,41.0,45.0,7.0,8.0,CL0,CL0,CL0
+1631,18-24,Female,Left School at 18,UK,White,36.0,30.0,37.0,43.0,42.0,2.0,1.0,CL0,CL0,CL0
+1632,55-64,Male,Left School before 16,UK,White,23.0,40.0,34.0,46.0,46.0,3.0,5.0,CL0,CL0,CL0
+1633,45-54,Female,Professional Certificate/Diploma,UK,White,36.0,44.0,34.0,36.0,42.0,3.0,3.0,CL0,CL0,CL0
+1634,18-24,Male,Attending College/No Certificate or Degree,USA,White,53.0,31.0,47.0,33.0,34.0,7.0,10.0,CL0,CL0,CL0
+1635,45-54,Female,Left School at 16,UK,White,38.0,36.0,41.0,45.0,45.0,3.0,5.0,CL0,CL0,CL0
+1636,45-54,Female,Professional Certificate/Diploma,UK,White,35.0,41.0,39.0,42.0,40.0,5.0,3.0,CL0,CL0,CL0
+1637,35-44,Female,Professional Certificate/Diploma,UK,White,39.0,44.0,42.0,47.0,43.0,6.0,7.0,CL0,CL0,CL0
+1638,45-54,Female,Professional Certificate/Diploma,UK,White,46.0,40.0,45.0,49.0,48.0,5.0,4.0,CL0,CL0,CL0
+1639,25-34,Female,Masters Degree,UK,White,21.0,43.0,36.0,41.0,49.0,2.0,4.0,CL0,CL0,CL0
+1640,45-54,Female,Professional Certificate/Diploma,UK,White,36.0,34.0,46.0,46.0,41.0,3.0,4.0,CL0,CL0,CL0
+1641,25-34,Female,Masters Degree,UK,White,29.0,39.0,41.0,48.0,44.0,4.0,6.0,CL0,CL0,CL0
+1642,45-54,Male,Left School at 16,UK,White,36.0,47.0,44.0,43.0,41.0,4.0,5.0,CL0,CL0,CL0
+1643,35-44,Male,Professional Certificate/Diploma,UK,White,36.0,33.0,47.0,49.0,46.0,2.0,2.0,CL0,CL0,CL0
+1644,35-44,Male,Professional Certificate/Diploma,UK,White,44.0,34.0,42.0,46.0,39.0,5.0,8.0,CL0,CL0,CL0
+1645,25-34,Female,Masters Degree,UK,White,29.0,43.0,45.0,48.0,51.0,4.0,5.0,CL0,CL0,CL0
+1646,25-34,Female,University Degree,UK,White,34.0,38.0,40.0,41.0,51.0,3.0,6.0,CL0,CL0,CL0
+1647,25-34,Female,University Degree,UK,White,36.0,50.0,54.0,51.0,46.0,8.0,8.0,CL0,CL0,CL0
+1648,55-64,Male,Attending College/No Certificate or Degree,USA,White,21.0,31.0,40.0,33.0,39.0,3.0,9.0,CL1,CL0,CL0
+1649,18-24,Male,University Degree,USA,White,38.0,31.0,48.0,40.0,33.0,5.0,3.0,CL3,CL0,CL6
+1650,25-34,Female,Doctorate Degree,UK,White,28.0,46.0,44.0,54.0,51.0,3.0,7.0,CL0,CL0,CL0
+1651,55-64,Male,Left School at 16,UK,White,39.0,38.0,41.0,32.0,45.0,4.0,3.0,CL0,CL0,CL0
+1652,35-44,Female,University Degree,UK,White,28.0,47.0,33.0,48.0,48.0,3.0,2.0,CL0,CL1,CL0
+1653,18-24,Female,University Degree,UK,White,52.0,31.0,41.0,39.0,43.0,2.0,8.0,CL0,CL0,CL0
+1654,25-34,Male,Attending College/No Certificate or Degree,Canada,White,21.0,41.0,44.0,40.0,48.0,4.0,7.0,CL3,CL0,CL3
+1655,18-24,Male,Professional Certificate/Diploma,UK,White,34.0,45.0,59.0,46.0,42.0,8.0,10.0,CL2,CL3,CL0
+1656,45-54,Female,University Degree,UK,White,18.0,44.0,48.0,44.0,45.0,2.0,4.0,CL0,CL0,CL0
+1657,35-44,Female,Professional Certificate/Diploma,UK,White,51.0,41.0,58.0,34.0,31.0,9.0,11.0,CL4,CL3,CL2
+1658,18-24,Female,Left School before 16,UK,White,29.0,39.0,44.0,53.0,40.0,3.0,8.0,CL0,CL2,CL0
+1659,25-34,Male,Professional Certificate/Diploma,Other,White,29.0,47.0,46.0,46.0,41.0,7.0,9.0,CL4,CL4,CL0
+1660,25-34,Female,Attending College/No Certificate or Degree,UK,White,26.0,40.0,44.0,46.0,36.0,5.0,8.0,CL3,CL3,CL0
+1661,25-34,Female,Doctorate Degree,UK,White,36.0,43.0,49.0,48.0,41.0,9.0,10.0,CL3,CL3,CL0
+1662,25-34,Female,University Degree,UK,White,30.0,43.0,41.0,55.0,48.0,5.0,6.0,CL0,CL0,CL0
+1663,18-24,Male,Attending College/No Certificate or Degree,UK,White,36.0,46.0,56.0,39.0,43.0,9.0,10.0,CL0,CL3,CL0
+1664,25-34,Female,Doctorate Degree,Australia,White,37.0,37.0,35.0,43.0,48.0,2.0,2.0,CL0,CL0,CL0
+1665,35-44,Male,Professional Certificate/Diploma,UK,White,42.0,32.0,40.0,37.0,45.0,5.0,8.0,CL0,CL0,CL0
+1666,35-44,Female,University Degree,Australia,White,25.0,36.0,41.0,46.0,48.0,7.0,9.0,CL0,CL0,CL0
+1667,45-54,Male,University Degree,UK,White,42.0,34.0,33.0,36.0,43.0,3.0,4.0,CL0,CL0,CL0
+1668,55-64,Male,University Degree,UK,White,42.0,37.0,54.0,49.0,33.0,3.0,6.0,CL0,CL0,CL0
+1669,25-34,Female,University Degree,UK,White,30.0,41.0,42.0,48.0,33.0,4.0,7.0,CL0,CL0,CL0
+1670,25-34,Male,Professional Certificate/Diploma,Republic of Ireland,White,26.0,43.0,52.0,46.0,47.0,3.0,6.0,CL0,CL4,CL0
+1671,45-54,Male,Professional Certificate/Diploma,UK,White,31.0,41.0,36.0,41.0,55.0,3.0,3.0,CL0,CL0,CL0
+1672,35-44,Male,Professional Certificate/Diploma,UK,White,28.0,47.0,31.0,41.0,38.0,4.0,3.0,CL0,CL0,CL0
+1673,25-34,Female,University Degree,UK,White,56.0,24.0,39.0,50.0,37.0,2.0,4.0,CL0,CL0,CL0
+1674,18-24,Female,Attending College/No Certificate or Degree,USA,White,49.0,40.0,46.0,48.0,40.0,5.0,6.0,CL0,CL6,CL0
+1675,45-54,Female,Professional Certificate/Diploma,UK,White,33.0,45.0,34.0,51.0,49.0,3.0,2.0,CL0,CL0,CL0
+1676,18-24,Female,University Degree,UK,White,37.0,44.0,46.0,28.0,52.0,5.0,8.0,CL0,CL0,CL0
+1677,18-24,Female,University Degree,UK,White,35.0,48.0,41.0,46.0,45.0,3.0,5.0,CL0,CL0,CL0
+1678,45-54,Female,Attending College/No Certificate or Degree,UK,White,33.0,50.0,40.0,51.0,46.0,3.0,4.0,CL0,CL0,CL0
+1679,45-54,Male,Professional Certificate/Diploma,UK,White,31.0,43.0,38.0,38.0,41.0,4.0,9.0,CL0,CL0,CL0
+1680,18-24,Male,Attending College/No Certificate or Degree,USA,Black,37.0,28.0,46.0,46.0,30.0,4.0,6.0,CL3,CL2,CL0
+1681,25-34,Male,University Degree,USA,White,41.0,23.0,49.0,48.0,44.0,4.0,11.0,CL0,CL0,CL0
+1682,18-24,Female,Attending College/No Certificate or Degree,USA,Black,49.0,25.0,52.0,43.0,33.0,4.0,8.0,CL0,CL3,CL0
+1683,35-44,Female,Professional Certificate/Diploma,UK,White,26.0,44.0,43.0,47.0,46.0,4.0,6.0,CL0,CL0,CL0
+1684,25-34,Female,Professional Certificate/Diploma,Canada,White,50.0,22.0,38.0,55.0,40.0,3.0,2.0,CL0,CL0,CL0
+1685,25-34,Female,Masters Degree,USA,White,37.0,46.0,56.0,46.0,40.0,6.0,7.0,CL0,CL0,CL0
+1686,35-44,Male,Attending College/No Certificate or Degree,USA,White,46.0,29.0,40.0,33.0,42.0,2.0,5.0,CL1,CL1,CL1
+1687,25-34,Male,Attending College/No Certificate or Degree,Other,White,54.0,27.0,47.0,52.0,35.0,5.0,5.0,CL0,CL0,CL0
+1688,25-34,Female,Doctorate Degree,UK,White,23.0,45.0,46.0,57.0,40.0,4.0,6.0,CL0,CL0,CL0
+1689,25-34,Female,University Degree,UK,White,43.0,38.0,44.0,46.0,39.0,2.0,6.0,CL0,CL0,CL0
+1690,25-34,Female,University Degree,UK,White,31.0,45.0,39.0,52.0,49.0,2.0,3.0,CL0,CL0,CL0
+1691,45-54,Male,Masters Degree,UK,White,27.0,38.0,46.0,41.0,39.0,8.0,6.0,CL2,CL0,CL0
+1692,35-44,Male,Professional Certificate/Diploma,UK,White,31.0,44.0,45.0,42.0,37.0,7.0,6.0,CL0,CL0,CL0
+1693,18-24,Male,Attending College/No Certificate or Degree,USA,White,37.0,27.0,43.0,45.0,39.0,3.0,5.0,CL0,CL0,CL0
+1694,55-64,Male,Doctorate Degree,UK,White,25.0,40.0,51.0,35.0,49.0,4.0,7.0,CL0,CL0,CL0
+1695,45-54,Female,University Degree,UK,White,42.0,36.0,51.0,42.0,45.0,6.0,4.0,CL0,CL0,CL0
+1696,25-34,Female,Masters Degree,USA,White,21.0,45.0,51.0,42.0,42.0,4.0,7.0,CL2,CL0,CL0
+1697,18-24,Male,Attending College/No Certificate or Degree,USA,White,49.0,33.0,58.0,31.0,27.0,9.0,8.0,CL2,CL2,CL0
+1699,25-34,Female,Professional Certificate/Diploma,UK,White,30.0,43.0,32.0,45.0,48.0,3.0,4.0,CL0,CL0,CL0
+1700,18-24,Male,Attending College/No Certificate or Degree,USA,White,32.0,35.0,42.0,45.0,33.0,4.0,5.0,CL2,CL2,CL3
+1701,18-24,Male,Left School at 18,Canada,White,40.0,41.0,46.0,37.0,35.0,6.0,7.0,CL3,CL3,CL0
+1702,55-64,Male,Attending College/No Certificate or Degree,UK,White,42.0,27.0,38.0,38.0,28.0,6.0,7.0,CL0,CL0,CL0
+1703,18-24,Male,University Degree,UK,White,27.0,42.0,36.0,39.0,53.0,4.0,7.0,CL0,CL0,CL0
+1704,18-24,Female,Professional Certificate/Diploma,UK,White,31.0,45.0,42.0,49.0,41.0,6.0,4.0,CL0,CL0,CL0
+1705,35-44,Female,University Degree,UK,White,31.0,46.0,40.0,45.0,49.0,5.0,6.0,CL0,CL0,CL0
+1706,45-54,Female,University Degree,UK,White,26.0,48.0,40.0,49.0,41.0,4.0,5.0,CL0,CL0,CL0
+1707,35-44,Female,Left School at 18,UK,White,28.0,34.0,51.0,37.0,44.0,3.0,6.0,CL0,CL0,CL0
+1708,25-34,Female,University Degree,UK,White,36.0,51.0,50.0,44.0,41.0,8.0,10.0,CL0,CL0,CL0
+1709,35-44,Female,Masters Degree,UK,White,28.0,44.0,40.0,36.0,44.0,3.0,6.0,CL2,CL2,CL1
+1710,35-44,Female,Doctorate Degree,UK,Other,17.0,51.0,46.0,47.0,56.0,7.0,6.0,CL1,CL1,CL0
+1711,45-54,Female,Left School at 16,UK,White,35.0,38.0,34.0,51.0,51.0,2.0,3.0,CL0,CL0,CL0
+1712,45-54,Male,Professional Certificate/Diploma,UK,White,48.0,43.0,50.0,38.0,48.0,3.0,6.0,CL0,CL0,CL0
+1713,45-54,Male,Masters Degree,UK,White,34.0,45.0,42.0,38.0,35.0,4.0,5.0,CL0,CL0,CL0
+1714,35-44,Female,Masters Degree,UK,Other,40.0,34.0,53.0,48.0,46.0,3.0,6.0,CL0,CL0,CL0
+1715,45-54,Male,Professional Certificate/Diploma,UK,White,25.0,42.0,43.0,37.0,43.0,4.0,5.0,CL0,CL0,CL0
+1716,25-34,Female,University Degree,UK,White,36.0,37.0,46.0,49.0,31.0,3.0,7.0,CL0,CL0,CL0
+1717,25-34,Female,University Degree,UK,White,40.0,47.0,38.0,57.0,50.0,2.0,2.0,CL0,CL0,CL0
+1718,25-34,Female,Left School at 18,UK,White,31.0,41.0,28.0,47.0,49.0,6.0,4.0,CL0,CL0,CL0
+1719,45-54,Male,University Degree,UK,White,35.0,47.0,51.0,49.0,53.0,8.0,9.0,CL0,CL0,CL0
+1720,55-64,Male,Professional Certificate/Diploma,UK,White,19.0,39.0,36.0,47.0,45.0,4.0,4.0,CL0,CL0,CL0
+1721,45-54,Female,Professional Certificate/Diploma,UK,White,24.0,41.0,42.0,45.0,46.0,2.0,4.0,CL0,CL0,CL0
+1722,25-34,Female,Left School at 16,UK,White,25.0,31.0,30.0,54.0,46.0,1.0,1.0,CL0,CL0,CL0
+1723,25-34,Female,Masters Degree,UK,White,37.0,42.0,50.0,38.0,38.0,1.0,4.0,CL0,CL0,CL0
+1724,18-24,Female,Left School at 16,UK,White,21.0,42.0,33.0,54.0,47.0,4.0,3.0,CL0,CL0,CL0
+1725,45-54,Male,Masters Degree,UK,White,28.0,33.0,43.0,40.0,39.0,4.0,5.0,CL0,CL0,CL0
+1726,18-24,Male,Attending College/No Certificate or Degree,Other,White,18.0,46.0,46.0,44.0,52.0,1.0,6.0,CL0,CL4,CL0
+1727,25-34,Female,Attending College/No Certificate or Degree,UK,White,42.0,30.0,41.0,43.0,36.0,4.0,9.0,CL0,CL2,CL0
+1728,45-54,Male,Masters Degree,UK,White,32.0,38.0,48.0,42.0,43.0,4.0,6.0,CL0,CL0,CL0
+1729,25-34,Male,Professional Certificate/Diploma,UK,White,40.0,34.0,40.0,35.0,50.0,5.0,3.0,CL2,CL2,CL0
+1730,45-54,Male,Professional Certificate/Diploma,UK,White,27.0,38.0,35.0,43.0,43.0,2.0,2.0,CL0,CL0,CL0
+1731,45-54,Female,Professional Certificate/Diploma,UK,White,26.0,45.0,42.0,49.0,51.0,5.0,7.0,CL0,CL0,CL0
+1732,25-34,Female,Masters Degree,UK,White,16.0,42.0,30.0,55.0,54.0,4.0,5.0,CL0,CL0,CL0
+1733,35-44,Male,Professional Certificate/Diploma,UK,White,23.0,46.0,48.0,51.0,44.0,3.0,9.0,CL0,CL0,CL0
+1734,45-54,Male,Professional Certificate/Diploma,UK,White,24.0,38.0,45.0,46.0,42.0,4.0,5.0,CL0,CL0,CL0
+1735,55-64,Female,Left School before 16,UK,White,34.0,41.0,41.0,49.0,46.0,3.0,5.0,CL0,CL0,CL0
+1736,25-34,Female,Professional Certificate/Diploma,UK,White,38.0,40.0,43.0,45.0,42.0,3.0,3.0,CL0,CL0,CL0
+1737,45-54,Female,University Degree,UK,White,27.0,42.0,42.0,42.0,49.0,2.0,1.0,CL0,CL0,CL0
+1738,25-34,Female,University Degree,USA,White,50.0,44.0,52.0,32.0,42.0,2.0,3.0,CL0,CL3,CL0
+1739,35-44,Male,University Degree,UK,White,22.0,45.0,53.0,39.0,38.0,6.0,9.0,CL2,CL2,CL0
+1740,35-44,Female,Masters Degree,UK,White,30.0,43.0,42.0,41.0,48.0,4.0,4.0,CL0,CL0,CL0
+1741,55-64,Female,Attending College/No Certificate or Degree,UK,White,31.0,33.0,36.0,46.0,42.0,3.0,5.0,CL0,CL0,CL0
+1742,25-34,Female,Left School at 16,UK,White,20.0,46.0,39.0,56.0,55.0,2.0,4.0,CL0,CL0,CL0
+1743,35-44,Female,Masters Degree,UK,Black,33.0,36.0,42.0,44.0,43.0,4.0,3.0,CL0,CL0,CL0
+1744,45-54,Female,Attending College/No Certificate or Degree,UK,White,37.0,45.0,49.0,52.0,41.0,5.0,6.0,CL0,CL0,CL0
+1745,18-24,Male,University Degree,USA,White,49.0,35.0,60.0,60.0,36.0,7.0,11.0,CL0,CL3,CL0
+1746,25-34,Female,Left School at 17,USA,White,58.0,37.0,43.0,30.0,26.0,7.0,6.0,CL2,CL1,CL0
+1747,45-54,Male,Left School at 16,UK,White,33.0,43.0,40.0,39.0,45.0,4.0,6.0,CL0,CL0,CL0
+1748,25-34,Female,University Degree,USA,White,54.0,44.0,55.0,36.0,37.0,8.0,10.0,CL0,CL0,CL0
+1749,25-34,Male,University Degree,UK,White,29.0,46.0,41.0,55.0,49.0,6.0,5.0,CL0,CL0,CL0
+1750,25-34,Female,Professional Certificate/Diploma,UK,White,34.0,50.0,46.0,44.0,39.0,7.0,7.0,CL2,CL1,CL0
+1751,18-24,Male,Attending College/No Certificate or Degree,USA,White,26.0,41.0,49.0,27.0,30.0,7.0,11.0,CL0,CL4,CL0
+1752,18-24,Female,Left School at 18,USA,White,46.0,49.0,59.0,40.0,49.0,6.0,9.0,CL0,CL0,CL0
+1753,18-24,Male,Left School at 18,USA,White,43.0,40.0,55.0,47.0,29.0,6.0,8.0,CL2,CL3,CL0
+1754,35-44,Male,Professional Certificate/Diploma,UK,White,46.0,37.0,29.0,41.0,47.0,2.0,1.0,CL0,CL0,CL0
+1755,45-54,Male,Masters Degree,Australia,White,27.0,37.0,47.0,38.0,49.0,9.0,8.0,CL4,CL4,CL3
+1756,35-44,Male,Masters Degree,Other,White,33.0,27.0,46.0,41.0,44.0,4.0,2.0,CL0,CL0,CL0
+1757,45-54,Female,Professional Certificate/Diploma,UK,White,30.0,42.0,47.0,34.0,48.0,5.0,6.0,CL0,CL0,CL0
+1758,35-44,Female,Professional Certificate/Diploma,UK,White,33.0,36.0,45.0,41.0,47.0,7.0,8.0,CL0,CL0,CL0
+1759,18-24,Male,Attending College/No Certificate or Degree,USA,White,41.0,32.0,46.0,28.0,31.0,3.0,9.0,CL0,CL3,CL0
+1760,18-24,Female,University Degree,Other,White,28.0,32.0,57.0,45.0,57.0,4.0,10.0,CL0,CL4,CL0
+1761,35-44,Male,Left School at 16,UK,White,45.0,38.0,47.0,45.0,35.0,7.0,10.0,CL3,CL2,CL4
+1762,25-34,Female,Attending College/No Certificate or Degree,USA,White,41.0,52.0,55.0,41.0,48.0,3.0,10.0,CL3,CL3,CL3
+1763,25-34,Female,University Degree,USA,White,44.0,31.0,54.0,58.0,44.0,3.0,5.0,CL0,CL0,CL0
+1764,18-24,Male,Attending College/No Certificate or Degree,USA,White,39.0,26.0,47.0,51.0,56.0,2.0,5.0,CL0,CL0,CL0
+1765,25-34,Female,Attending College/No Certificate or Degree,Other,White,45.0,33.0,54.0,43.0,37.0,4.0,4.0,CL2,CL2,CL0
+1766,35-44,Female,Professional Certificate/Diploma,UK,White,28.0,43.0,38.0,47.0,42.0,3.0,6.0,CL0,CL0,CL0
+1767,25-34,Male,University Degree,USA,White,31.0,46.0,46.0,46.0,42.0,7.0,11.0,CL3,CL2,CL0
+1768,55-64,Male,Attending College/No Certificate or Degree,USA,White,33.0,30.0,45.0,34.0,48.0,6.0,4.0,CL1,CL1,CL0
+1770,25-34,Female,Masters Degree,USA,White,45.0,44.0,43.0,35.0,36.0,7.0,11.0,CL5,CL4,CL3
+1771,18-24,Female,Left School at 18,Republic of Ireland,White,44.0,37.0,49.0,46.0,34.0,3.0,8.0,CL0,CL0,CL4
+1772,18-24,Male,Attending College/No Certificate or Degree,USA,White,27.0,43.0,49.0,46.0,45.0,3.0,5.0,CL0,CL5,CL0
+1773,18-24,Female,University Degree,USA,White,44.0,32.0,55.0,45.0,49.0,7.0,11.0,CL5,CL3,CL0
+1774,45-54,Female,Left School at 16,UK,White,46.0,35.0,34.0,41.0,35.0,9.0,11.0,CL2,CL3,CL1
+1775,18-24,Female,University Degree,USA,White,35.0,42.0,46.0,26.0,47.0,7.0,9.0,CL0,CL0,CL0
+1776,45-54,Male,Attending College/No Certificate or Degree,USA,White,33.0,40.0,48.0,45.0,40.0,7.0,10.0,CL1,CL0,CL1
+1777,18-24,Female,University Degree,USA,White,49.0,35.0,31.0,34.0,34.0,5.0,8.0,CL5,CL4,CL6
+1778,18-24,Male,Left School at 18,Canada,White,23.0,36.0,35.0,32.0,50.0,3.0,7.0,CL0,CL0,CL0
+1779,25-34,Female,Left School at 17,UK,White,32.0,43.0,51.0,46.0,50.0,7.0,8.0,CL2,CL2,CL0
+1780,25-34,Female,Attending College/No Certificate or Degree,UK,Biracial - White/Black,48.0,34.0,40.0,36.0,35.0,8.0,11.0,CL6,CL3,CL0
+1781,18-24,Male,Attending College/No Certificate or Degree,USA,Black,46.0,32.0,43.0,42.0,32.0,5.0,8.0,CL5,CL3,CL0
+1782,25-34,Female,Masters Degree,UK,White,34.0,36.0,43.0,46.0,44.0,2.0,2.0,CL0,CL0,CL0
+1783,18-24,Male,Attending College/No Certificate or Degree,USA,White,29.0,59.0,57.0,43.0,36.0,6.0,10.0,CL4,CL4,CL0
+1784,18-24,Male,University Degree,USA,White,41.0,33.0,47.0,48.0,37.0,4.0,10.0,CL0,CL3,CL0
+1785,45-54,Female,University Degree,Other,White,32.0,32.0,45.0,39.0,46.0,3.0,5.0,CL2,CL2,CL0
+1786,18-24,Male,Attending College/No Certificate or Degree,USA,White,36.0,39.0,59.0,36.0,30.0,9.0,11.0,CL0,CL0,CL0
+1787,18-24,Male,Left School at 17,USA,White,37.0,42.0,49.0,35.0,39.0,9.0,7.0,CL2,CL2,CL2
+1788,35-44,Female,Doctorate Degree,USA,White,33.0,39.0,51.0,44.0,55.0,2.0,2.0,CL3,CL2,CL2
+1789,18-24,Male,University Degree,USA,White,42.0,29.0,57.0,39.0,57.0,5.0,10.0,CL0,CL0,CL0
+1790,18-24,Male,Attending College/No Certificate or Degree,USA,White,31.0,39.0,50.0,54.0,38.0,3.0,4.0,CL0,CL4,CL0
+1791,18-24,Female,Attending College/No Certificate or Degree,USA,White,44.0,27.0,60.0,44.0,36.0,9.0,10.0,CL0,CL0,CL0
+1792,25-34,Male,University Degree,Other,White,36.0,44.0,53.0,40.0,47.0,5.0,10.0,CL4,CL3,CL2
+1793,35-44,Female,Left School at 16,UK,White,43.0,36.0,31.0,38.0,27.0,4.0,5.0,CL2,CL1,CL0
+1794,18-24,Male,Attending College/No Certificate or Degree,USA,White,39.0,39.0,57.0,45.0,30.0,8.0,9.0,CL0,CL0,CL0
+1795,18-24,Male,University Degree,USA,White,50.0,29.0,46.0,29.0,36.0,7.0,9.0,CL0,CL0,CL0
+1796,55-64,Male,Masters Degree,UK,White,30.0,51.0,32.0,36.0,52.0,7.0,8.0,CL0,CL0,CL0
+1797,45-54,Male,Attending College/No Certificate or Degree,USA,White,56.0,31.0,46.0,26.0,20.0,4.0,10.0,CL1,CL0,CL0
+1798,25-34,Male,Doctorate Degree,USA,White,41.0,50.0,60.0,51.0,53.0,6.0,11.0,CL3,CL3,CL0
+1799,18-24,Male,Masters Degree,USA,Other,28.0,43.0,55.0,50.0,43.0,8.0,8.0,CL0,CL2,CL0
+1800,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,51.0,53.0,45.0,34.0,7.0,9.0,CL0,CL4,CL2
+1801,18-24,Male,Professional Certificate/Diploma,USA,Other,40.0,39.0,55.0,51.0,37.0,6.0,7.0,CL0,CL0,CL0
+1802,18-24,Male,Attending College/No Certificate or Degree,USA,White,44.0,36.0,52.0,46.0,38.0,6.0,10.0,CL0,CL0,CL0
+1803,35-44,Female,Professional Certificate/Diploma,USA,White,36.0,34.0,40.0,42.0,33.0,6.0,3.0,CL2,CL0,CL0
+1804,35-44,Male,University Degree,USA,Other,34.0,33.0,54.0,39.0,29.0,6.0,10.0,CL4,CL5,CL2
+1805,18-24,Female,Masters Degree,UK,Black,40.0,34.0,42.0,44.0,39.0,2.0,2.0,CL0,CL0,CL0
+1807,18-24,Male,University Degree,USA,White,30.0,31.0,53.0,35.0,48.0,6.0,11.0,CL2,CL3,CL2
+1808,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,34.0,53.0,43.0,55.0,3.0,6.0,CL0,CL3,CL0
+1809,25-34,Female,Left School at 18,Other,White,49.0,39.0,49.0,34.0,32.0,7.0,11.0,CL2,CL2,CL2
+1810,25-34,Male,University Degree,Other,Asian,29.0,44.0,47.0,42.0,38.0,8.0,10.0,CL1,CL1,CL1
+1811,35-44,Female,University Degree,Canada,White,45.0,35.0,59.0,40.0,51.0,5.0,10.0,CL2,CL0,CL0
+1812,18-24,Female,Masters Degree,UK,White,37.0,42.0,39.0,53.0,48.0,3.0,3.0,CL2,CL3,CL0
+1813,45-54,Male,University Degree,UK,White,20.0,40.0,47.0,38.0,41.0,6.0,8.0,CL0,CL0,CL0
+1814,18-24,Female,Attending College/No Certificate or Degree,USA,Other,35.0,31.0,48.0,50.0,44.0,7.0,9.0,CL2,CL2,CL0
+1815,25-34,Female,University Degree,USA,White,37.0,44.0,50.0,39.0,41.0,9.0,9.0,CL2,CL4,CL0
+1816,18-24,Male,Masters Degree,USA,White,14.0,55.0,54.0,45.0,51.0,4.0,10.0,CL2,CL5,CL0
+1817,18-24,Male,Attending College/No Certificate or Degree,USA,White,51.0,25.0,55.0,39.0,21.0,9.0,6.0,CL0,CL0,CL0
+1818,45-54,Female,Attending College/No Certificate or Degree,USA,White,49.0,39.0,49.0,46.0,37.0,9.0,5.0,CL1,CL0,CL0
+1819,18-24,Male,Attending College/No Certificate or Degree,USA,White,28.0,42.0,57.0,36.0,36.0,4.0,8.0,CL3,CL3,CL0
+1820,18-24,Female,Attending College/No Certificate or Degree,USA,White,48.0,31.0,53.0,41.0,24.0,7.0,6.0,CL0,CL2,CL0
+1821,25-34,Male,University Degree,UK,Asian,31.0,29.0,42.0,41.0,39.0,6.0,8.0,CL0,CL0,CL0
+1822,18-24,Male,University Degree,USA,White,36.0,32.0,47.0,34.0,42.0,4.0,4.0,CL2,CL5,CL0
+1824,25-34,Female,University Degree,USA,White,26.0,29.0,47.0,45.0,44.0,4.0,9.0,CL2,CL0,CL0
+1825,25-34,Female,Masters Degree,USA,White,32.0,47.0,49.0,26.0,41.0,7.0,10.0,CL4,CL5,CL0
+1826,25-34,Female,University Degree,USA,Other,44.0,28.0,44.0,33.0,33.0,2.0,3.0,CL1,CL0,CL1
+1827,25-34,Female,University Degree,Australia,White,37.0,22.0,48.0,36.0,35.0,3.0,5.0,CL3,CL5,CL2
+1828,18-24,Male,Left School at 18,Other,White,38.0,40.0,49.0,37.0,27.0,5.0,10.0,CL0,CL3,CL0
+1829,18-24,Male,University Degree,USA,Other,14.0,52.0,52.0,45.0,55.0,3.0,7.0,CL0,CL0,CL0
+1830,35-44,Female,University Degree,USA,White,32.0,32.0,48.0,41.0,50.0,4.0,6.0,CL1,CL2,CL0
+1831,25-34,Male,Attending College/No Certificate or Degree,USA,White,29.0,44.0,43.0,40.0,44.0,7.0,8.0,CL1,CL2,CL0
+1832,45-54,Male,University Degree,USA,White,42.0,34.0,46.0,40.0,30.0,8.0,9.0,CL2,CL0,CL2
+1833,35-44,Female,Professional Certificate/Diploma,USA,White,54.0,26.0,52.0,45.0,28.0,7.0,3.0,CL1,CL1,CL0
+1834,35-44,Female,Attending College/No Certificate or Degree,USA,White,39.0,29.0,49.0,48.0,40.0,4.0,9.0,CL1,CL2,CL0
+1835,35-44,Female,Professional Certificate/Diploma,USA,White,35.0,34.0,46.0,47.0,44.0,2.0,1.0,CL2,CL2,CL0
+1836,25-34,Female,Professional Certificate/Diploma,Australia,White,22.0,46.0,57.0,52.0,44.0,8.0,11.0,CL2,CL2,CL1
+1837,55-64,Female,University Degree,USA,White,40.0,44.0,49.0,52.0,41.0,7.0,5.0,CL2,CL1,CL2
+1838,18-24,Male,Attending College/No Certificate or Degree,Other,White,37.0,37.0,55.0,41.0,33.0,8.0,10.0,CL0,CL0,CL0
+1839,25-34,Male,University Degree,USA,Other,47.0,39.0,54.0,29.0,48.0,6.0,5.0,CL0,CL0,CL0
+1840,45-54,Male,Doctorate Degree,UK,White,33.0,34.0,46.0,32.0,41.0,4.0,5.0,CL2,CL2,CL1
+1841,18-24,Male,Attending College/No Certificate or Degree,USA,White,30.0,43.0,58.0,51.0,45.0,5.0,9.0,CL3,CL0,CL0
+1842,45-54,Male,University Degree,USA,White,35.0,44.0,50.0,48.0,50.0,4.0,7.0,CL1,CL0,CL0
+1843,18-24,Male,Attending College/No Certificate or Degree,USA,White,24.0,48.0,52.0,50.0,49.0,7.0,8.0,CL0,CL0,CL0
+1844,18-24,Female,University Degree,USA,White,51.0,33.0,54.0,37.0,31.0,10.0,11.0,CL4,CL3,CL0
+1845,18-24,Female,Attending College/No Certificate or Degree,Canada,White,42.0,33.0,49.0,47.0,49.0,9.0,10.0,CL3,CL6,CL4
+1846,45-54,Male,Professional Certificate/Diploma,USA,Black,26.0,33.0,39.0,38.0,47.0,2.0,5.0,CL1,CL0,CL0
+1847,25-34,Female,University Degree,USA,White,55.0,30.0,57.0,48.0,34.0,5.0,3.0,CL0,CL0,CL0
+1848,18-24,Male,Left School at 17,Australia,White,39.0,44.0,44.0,41.0,32.0,7.0,10.0,CL3,CL3,CL0
+1849,25-34,Male,Professional Certificate/Diploma,USA,Other,40.0,46.0,45.0,40.0,47.0,5.0,6.0,CL5,CL4,CL0
+1850,25-34,Female,Masters Degree,UK,White,34.0,39.0,43.0,41.0,48.0,4.0,9.0,CL0,CL3,CL0
+1851,35-44,Male,Left School at 16,USA,White,31.0,31.0,43.0,46.0,41.0,4.0,4.0,CL3,CL2,CL0
+1852,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,48.0,44.0,29.0,45.0,4.0,8.0,CL0,CL4,CL0
+1853,18-24,Male,Attending College/No Certificate or Degree,USA,White,22.0,41.0,58.0,41.0,42.0,7.0,8.0,CL3,CL3,CL3
+1854,18-24,Male,Left School at 17,Australia,White,34.0,40.0,50.0,41.0,30.0,8.0,10.0,CL3,CL4,CL0
+1855,35-44,Male,Professional Certificate/Diploma,Other,White,25.0,47.0,50.0,43.0,43.0,3.0,8.0,CL0,CL2,CL0
+1856,18-24,Male,Attending College/No Certificate or Degree,USA,White,39.0,36.0,44.0,33.0,35.0,2.0,9.0,CL3,CL3,CL0
+1857,18-24,Male,Attending College/No Certificate or Degree,USA,White,52.0,42.0,56.0,42.0,28.0,10.0,8.0,CL3,CL6,CL3
+1858,18-24,Male,Left School at 18,USA,White,33.0,42.0,49.0,42.0,41.0,7.0,10.0,CL0,CL3,CL0
+1859,35-44,Male,Attending College/No Certificate or Degree,Other,White,32.0,40.0,51.0,45.0,43.0,4.0,9.0,CL4,CL2,CL3
+1860,55-64,Female,University Degree,Canada,White,21.0,32.0,53.0,40.0,37.0,3.0,7.0,CL2,CL3,CL2
+1861,25-34,Female,University Degree,USA,Other,32.0,40.0,54.0,42.0,45.0,7.0,8.0,CL0,CL0,CL0
+1862,45-54,Male,Left School before 16,USA,White,43.0,37.0,49.0,36.0,44.0,6.0,8.0,CL2,CL1,CL2
+1863,18-24,Female,Attending College/No Certificate or Degree,USA,White,42.0,44.0,60.0,36.0,48.0,7.0,10.0,CL3,CL5,CL0
+1864,25-34,Male,Attending College/No Certificate or Degree,USA,White,19.0,40.0,58.0,37.0,45.0,4.0,8.0,CL3,CL5,CL2
+1865,18-24,Female,Professional Certificate/Diploma,USA,White,36.0,40.0,59.0,39.0,25.0,7.0,10.0,CL3,CL3,CL0
+1866,18-24,Female,University Degree,USA,White,37.0,34.0,55.0,45.0,52.0,3.0,6.0,CL0,CL4,CL0
+1867,18-24,Female,Attending College/No Certificate or Degree,USA,White,47.0,37.0,48.0,38.0,41.0,9.0,6.0,CL3,CL2,CL2
+1868,18-24,Male,Attending College/No Certificate or Degree,Other,White,30.0,39.0,48.0,32.0,31.0,5.0,8.0,CL0,CL5,CL0
+1869,18-24,Male,Attending College/No Certificate or Degree,USA,White,34.0,47.0,55.0,41.0,42.0,5.0,9.0,CL2,CL3,CL0
+1870,25-34,Female,University Degree,Other,White,26.0,46.0,57.0,54.0,50.0,3.0,7.0,CL0,CL3,CL0
+1871,18-24,Male,Left School at 18,USA,White,46.0,37.0,55.0,36.0,43.0,3.0,8.0,CL3,CL3,CL6
+1872,18-24,Male,Attending College/No Certificate or Degree,Canada,White,28.0,40.0,59.0,48.0,30.0,7.0,11.0,CL0,CL2,CL0
+1873,18-24,Male,Left School at 17,USA,White,43.0,31.0,50.0,39.0,39.0,6.0,8.0,CL3,CL3,CL2
+1874,65+,Male,Attending College/No Certificate or Degree,USA,White,55.0,39.0,59.0,49.0,37.0,4.0,7.0,CL1,CL0,CL0
+1875,18-24,Male,Attending College/No Certificate or Degree,USA,Biracial - White/Asian,35.0,27.0,50.0,38.0,41.0,8.0,10.0,CL0,CL5,CL0
+1876,25-34,Male,Attending College/No Certificate or Degree,Canada,Other,34.0,36.0,55.0,37.0,36.0,6.0,8.0,CL4,CL3,CL0
+1877,18-24,Male,Left School at 17,USA,White,50.0,26.0,42.0,31.0,46.0,4.0,10.0,CL3,CL2,CL5
+1878,18-24,Male,University Degree,Canada,White,35.0,27.0,52.0,38.0,55.0,3.0,6.0,CL0,CL0,CL0
+1879,18-24,Male,Attending College/No Certificate or Degree,Other,White,28.0,42.0,48.0,41.0,40.0,7.0,9.0,CL0,CL5,CL2
+1880,18-24,Female,Attending College/No Certificate or Degree,USA,White,25.0,51.0,57.0,48.0,33.0,7.0,11.0,CL0,CL0,CL0
+1881,18-24,Male,Attending College/No Certificate or Degree,USA,White,33.0,51.0,50.0,48.0,30.0,7.0,9.0,CL0,CL2,CL0
+1882,25-34,Female,University Degree,USA,White,47.0,30.0,37.0,31.0,31.0,6.0,5.0,CL4,CL4,CL0
+1883,18-24,Female,Attending College/No Certificate or Degree,USA,White,45.0,26.0,48.0,32.0,22.0,8.0,10.0,CL0,CL3,CL0
+1884,18-24,Male,Attending College/No Certificate or Degree,Republic of Ireland,White,31.0,53.0,56.0,50.0,45.0,7.0,10.0,CL3,CL3,CL0
