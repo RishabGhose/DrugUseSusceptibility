@@ -1,2 +1,21 @@
-# DrugUseSusceptibility
-Predicting one's susceptibility to drug use
+# Predicting Drug Use Susceptibility
+
+## Introduction
+
+Drug abuse and addiction is and has been a major concern in not just the United States, but throughout the entire world. It has lead to countless lives lost, families broken, and mental healths shattered. Since 2000, there have been over 700K drug overdose deaths... just in the United States alone. 358K adolescents have had both a substance abuse disorder and major depressive episode within the last year alone. Substance abuse is intricately tied with mental health issues and disorders, and it could be extremely helpful to try to understand the how likely someone is to fall victim to addiction early on. 
+
+In this project, I will attempt to build models to predict the probability of someone becoming a user of certain substances; specifically alcohol, cocaine, and benzodiazepines. These are all vastly different drugs that have very different effects on the user, and may be used by very different people. Alcohol is a legal substance in most of the world, and it is one of the most common substances consumed globally. While many people consume alcohol on occasion, it is quite easily abused in many cases. Cocaine, on the other hand, is an illegal drug in most places, including the United States, and it has a high rate of addiction. Lastly, benzodiazepines, are a class of drugs that are legal in the United States as prescription drugs used to treat anxiety, seizures, and insomnia. Like any psychoactive drug, however, they are also susceptible to abuse and addiction. 
+
+## The Data
+
+The dataset was pulled from the UCI Machine Learning Repository at the below link. It was collected from an anonymous survey where almost 1900 participants at least 18 years of age answered questions related to demographics, drug use history, and personality questions. To guage scores for the different personality traits, 3 well-known psychology questionnaires were employed: The Revised NEO Five-Factor Inventory (NEO-FFI-R), the Barratt Impulsiveness Scale (BIS-11), and the Impulsiveness Sensation-Seeking questionnaire (ImpSS). In total, there were 32 features, 12 of them being personality and demographic variables and 20 being drug use features, and 1885 respondents. 
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00373/drug_consumption.data
+
+## Methods
+
+The notebooks folder contains all of the jupyter notebooks that I used to clean and explore my data as well as build models. I began with data wrangling, where I cleaned up the dataset, explored null values, and looked at basic distributions. I next went into a more in-depth exploration where I attempted to further understand the personality, demographic, and drug use variables and the different associations between them. The next notebook was for pre-processing prior to modeling, where I put the data into the format ideal for modeling, standardized the numerical features, and split the data into training and testing sets. Lastly, I created models for predicting whether one was a User or Non-User, modeling all three substances separately. I implemented logistic regression, random forest, and k nearest neighbors algorithms for each, and used the ROCAUC score to find the best performer across all thresholds. I then looked closer into the precison and recall to find optimal thresholds which gave me my final models for each. 
+
+## Conclusions and Further Goals
+
+The purpose of these models is for mental health professionals to use these as an aid to predict the probability of one becoming a User of a certain substance. They should not be used as a lone decisive factor for whether or not someone is fated to become addicted to drugs, but rather be used as just another tool in the mental health professionals toolkit. With these models, they can provide a helpful aid in attempting to take preventative actions and precautions against substance abuse and addiction early on - we know that so many of these issues start in childhood. Some drawbacks to the dataset include lack of features on lifestyle, personality, and family history (especially in the case of family history of substance use). The drug use features also lacked the frequency of use, they only described the recency of use. Some further goals of mine include building similar models for more of the substances, using different classifiers than the one I implemented, and redefining the distinction that I used for User vs Non-User. All of these will be helpful in creating truly useful models that can make real changes in people's lives. 
